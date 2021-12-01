@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Staré pověsti české",
@@ -6,7 +7,9 @@
       "author": "Alois Jirásek",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-10-25T15:03:10.289Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP_uroven1_cast\nMLP_uroven2_kapitola",
@@ -36,7 +39,7 @@
             "filename": "stare_povesti_ceske_001.md",
             "xhtml": "stare_povesti_ceske_001.xhtml",
             "id": 0,
-            "role": "break",
+            "role": "cover",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -753,3 +756,4 @@
     "generatedAt": 1635174772503
   }
 }
+
