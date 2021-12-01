@@ -6,15 +6,15 @@ title: "O\_Jánošíkovi"
 
 Králova hole nad širými lesy nad krásnou dolinou horního Hronu, vysoká hora, památná hora. Mocný hřbet její bez lesů, volný; proud větru sotva kdy ztiší se na té slunečné výši. A v slunci a větru, v mlhách i za hromných bouří sám na Králově holi stojí kamenný stůl, omšený, starý; opuštěn trčí z trávy a vřesu i kosodřeviny. Kdys, už tomu dávno, míval své hosty a širá kol hole zvučela pokřiky, hlukem; to když sem přicházel sám panovník uherské země, veselý Matěj král.
 
-Pokaždé, když honil v okolí po liptovských horách, po zvolenských lesích medvědy a kance diviaky[81](../Text/stare_povesti_ceske_031.xhtml#footnote-088), stavil se tu se svou četnou družinou: král v lovecké sukni, se zlatým rohem, páni magnáti v bohatých dolmanech[82](../Text/stare_povesti_ceske_031.xhtml#footnote-087), v lesklých pásech, v čapkách z drahé kožešiny péry zdobených, s oštěpy v rukou, s tesáky při boku, osmahlí, hladkých tváří, ale mohutných knírů. Přišli, usedli kol kamenného stolu a jim u noh ulehly smečky loveckých psů, černoburů, vlkodavů, kanečníků[83](../Text/stare_povesti_ceske_031.xhtml#footnote-086), lapajících krátkými oddechy chladící vzduch. Sluhové a lidé z doliny snášeli z košů na stůl jídla a láhve a král stoloval vysoko, vysoko, se svými pány. Pln rozkoše rozhlížel se kolem po horách, po rozlehlých svazích, níže po temných hvozdech, po zelených dolinách v zátopě zlatého světla. Jím svítily bílé kaštely, rděly se střechy hradů nad chatami dědin a dvorců, po širu daleku Slovenskou, spanilou zemí.
+Pokaždé, když honil v okolí po liptovských horách, po zvolenských lesích medvědy a kance diviaky[81](./resources/undefined), stavil se tu se svou četnou družinou: král v lovecké sukni, se zlatým rohem, páni magnáti v bohatých dolmanech[82](./resources/undefined), v lesklých pásech, v čapkách z drahé kožešiny péry zdobených, s oštěpy v rukou, s tesáky při boku, osmahlí, hladkých tváří, ale mohutných knírů. Přišli, usedli kol kamenného stolu a jim u noh ulehly smečky loveckých psů, černoburů, vlkodavů, kanečníků[83](./resources/undefined), lapajících krátkými oddechy chladící vzduch. Sluhové a lidé z doliny snášeli z košů na stůl jídla a láhve a král stoloval vysoko, vysoko, se svými pány. Pln rozkoše rozhlížel se kolem po horách, po rozlehlých svazích, níže po temných hvozdech, po zelených dolinách v zátopě zlatého světla. Jím svítily bílé kaštely, rděly se střechy hradů nad chatami dědin a dvorců, po širu daleku Slovenskou, spanilou zemí.
 
 Tak bývalo za krále Matěje.
 
-Po jeho smrti však utichla Králova hole a kamenný stůl stál opuštěn dlouho a dlouho. Zatím pod horami, v údolích, v rovinách mnoho se změnilo. V zámcích a v kaštelích bujela panská zvůle a v dědinách poroba, nevole[84](../Text/stare_povesti_ceske_031.xhtml#footnote-085). Lidu se dály veliké křivdy; páni, zemané tiskli ho robotou, „panštinou“, a „lapačky“ nedaly poklidně spát urostlým jonákům.
+Po jeho smrti však utichla Králova hole a kamenný stůl stál opuštěn dlouho a dlouho. Zatím pod horami, v údolích, v rovinách mnoho se změnilo. V zámcích a v kaštelích bujela panská zvůle a v dědinách poroba, nevole[84](./resources/undefined). Lidu se dály veliké křivdy; páni, zemané tiskli ho robotou, „panštinou“, a „lapačky“ nedaly poklidně spát urostlým jonákům.
 
 Zle bylo, že nemohlo být hůř. Mladý lid ze svého utíkal před trýzní pánů, pryč z tiché dědiny, do hor. Tam se stali z nevolných „horní chlapci“, tam byly lesy jejich komory a karpatské „hole“ jejich volná pole.
 
-V ten smutný čas bývalo zase živo na Králově holi a kolem kamenného stolu sedala zase družina se svým náčelníkem. Nebyl to však král, ale „horní chlapec“ Jánošík z Ťarchové v Hornotrenčínsku a s ním ne magnáti, velkomožní páni v dolmanech a bitých pásech, ale „kamarátstvo“, jedenácte „dobrých chlapců“ ve „vybíjených“[85](../Text/stare_povesti_ceske_031.xhtml#footnote-084) širákách, v zelených košilkách, v bílých soukenných nohavicích, se širokými opasky, v krpcích. A ne s meči, ne s drahou zbraní, ale s noži v nožnách u opasku a s dvěma bambitkami za opaskem, s valaškou v ruce, s puškou samopalkou na plecích: Surovec, Adamčík, Hrajnoha, Potúčík, Garaj, Uhorčík, Tarko, Mucha, Durica, Michalčík a gajdoš[86](../Text/stare_povesti_ceske_031.xhtml#footnote-083), chytrý Ilčík.
+V ten smutný čas bývalo zase živo na Králově holi a kolem kamenného stolu sedala zase družina se svým náčelníkem. Nebyl to však král, ale „horní chlapec“ Jánošík z Ťarchové v Hornotrenčínsku a s ním ne magnáti, velkomožní páni v dolmanech a bitých pásech, ale „kamarátstvo“, jedenácte „dobrých chlapců“ ve „vybíjených“[85](./resources/undefined) širákách, v zelených košilkách, v bílých soukenných nohavicích, se širokými opasky, v krpcích. A ne s meči, ne s drahou zbraní, ale s noži v nožnách u opasku a s dvěma bambitkami za opaskem, s valaškou v ruce, s puškou samopalkou na plecích: Surovec, Adamčík, Hrajnoha, Potúčík, Garaj, Uhorčík, Tarko, Mucha, Durica, Michalčík a gajdoš[86](./resources/undefined), chytrý Ilčík.
 
 Nestavovali se tu na Králově holi a nezasedali kol kamenného stolu jenom v podzimní čas; hony a lovy měli od božího jara do pusté zimy. Vodil je Jánošík „po zboji“, aby křivdy napravoval, bídných a nešťastných ochraňoval. Bylo mu líto těžko poddaného lidu slovenského, z něhož pocházel. Když mu nemohl pomoci, mstil se alespoň.
 
@@ -66,7 +66,7 @@ Když dostali nebo vzali, rozdělil Jánošík kořist na hromádky a podělil 
 
 Množství kremnických dukátů dobrého rázu zakopal prý do jam, aby těch peněz nikdo neužil, ani páni, ani zbojníci. Na hoře Vaporu se často zdržoval v jeskyni, tam měl i poklad ukrytý, z Vaporu prý měl na Nový hrad most z řemenů a strmá, skalnatá Hradová nad Tisovcem ho častěji hostila. Rád měl zpěv i hudbu. Často zasedl večer na kolibě mezi valachy a chutě poslouchal, když někdo z nich začal pískati na fujarku. Rád také měl, když děvčata na trávě zpívala; když nezpívala, vybídl je, aby mu zapěly. A pak je hojně, třeba zlatem odměnil.
 
-Když byl se svými „chlapci“ sám a ohník „zavatrili“ v bezpečném místě, v lese, v temném žlebu nebo vysoko na Králově holi, tu pokaždé poručil bystrému Ilčíkovi, aby spustil a „gajdoval“. Ilčík vzal zvučné dudy s třemi hučky[87](../Text/stare_povesti_ceske_031.xhtml#footnote-082) a hrál a hrál, až se nocí po lesích, po horách rozléhalo, až rozveselil všecko „kamarátstvo“. Tu i Jánošík, jenž pokuřoval z dřevěné dýmky, vykládané rybí kostí a obité mědí a mosazí, vyjasnil vážné, zachmuřené líce.
+Když byl se svými „chlapci“ sám a ohník „zavatrili“ v bezpečném místě, v lese, v temném žlebu nebo vysoko na Králově holi, tu pokaždé poručil bystrému Ilčíkovi, aby spustil a „gajdoval“. Ilčík vzal zvučné dudy s třemi hučky[87](./resources/undefined) a hrál a hrál, až se nocí po lesích, po horách rozléhalo, až rozveselil všecko „kamarátstvo“. Tu i Jánošík, jenž pokuřoval z dřevěné dýmky, vykládané rybí kostí a obité mědí a mosazí, vyjasnil vážné, zachmuřené líce.
 
 Někdy však bylo za takových pozdních chvílí na Králově holi tišeji. To když někdo z kamarátstva přivedl sem nějakého cestujícího nebo potulného studenta, kterého v lese cestou zastavil a zajal. Každý z „chlapců“ to učinil, poněvadž věděl, že se tím Jánošíkovi zachová. Student, mladší, starší, každý bledl a chvěl se strachy, když na pusté holi u kamenného stolu zahlédl v záři ohně ozbrojené „horní chlapce“ a kolem nich vlčí, zlé psy, vrčící, hrozně štěkající. Ale psi musili ztichnout, Ilčík uložil dudy na kámen a z chlapců nikdo ani nedutl. Jen Jánošík mluvil na studenta. Neobořil se na něj, nezahřímal, ale spustil jako kněz po latinsku. Vyptával se ho, zkoušel ho; měl radost z jeho úžasu a rozpaků, smál se, když student nevěděl, ale chválil ho, když pěkně odpovídal. Byl-li student v učení dospělejší, poručil mu, aby k „chlapcům“ promluvil, kázání jim učinil.
 
@@ -74,7 +74,7 @@ Chlapci přiložili, klestí zapraskalo, dým se vyvalil vzhůru do tmy, plameny
 
 Kol ticho jako v kostele. A tu vysoko, mezi horami, pod hvězdnatým nebem bylo posvátno, velebně jako ve chrámu. Někdy si chlapci za takové pobožnosti až zaplakali v hlubokém pohnutí a sám vůdce sklonil zadumaně hlavu, když kazatel začal o smrti, konci všeho. Jakmile student domluvil a všichni řekli „amen“, tu ještě Jánošík se ozval, domlouvaje druhům, aby teď, když slovo boží slyšeli, tím více na to dbali, jaký úkol na sebe vzali: nikomu bez příčiny neubližovat a křivdy napravovat.
 
-Pak uctil studenta kazatele, pohostil ho, jak mohl; když ho pak ráno propouštěl, nasypal mu do klobouku dukátů nebo poručil chlapcům, aby mu naměřili na nový oblek. A chlapci přinesli postav[88](../Text/stare_povesti_ceske_031.xhtml#footnote-081) sukna a měřili velkým, hrozným loktem: od buku do buku. A byly buky staré, mocného těla a daleko od sebe, takže kazatel svou výsluhu sotva odnesl.
+Pak uctil studenta kazatele, pohostil ho, jak mohl; když ho pak ráno propouštěl, nasypal mu do klobouku dukátů nebo poručil chlapcům, aby mu naměřili na nový oblek. A chlapci přinesli postav[88](./resources/undefined) sukna a měřili velkým, hrozným loktem: od buku do buku. A byly buky staré, mocného těla a daleko od sebe, takže kazatel svou výsluhu sotva odnesl.
 
 Na Králově holi meškal Jánošík nejraději. To bylo jeho nejmilejší místečko, tu také se bil s třemi župami, když na něj páni poslali hajduchy a vojsko, aby ho lapili. Ale nedostali ho, ano s hanbou utekli. Zahnal je Jánošík sám jediný, svou valaškou, jež sekala za sto.
 
@@ -86,7 +86,7 @@ Tak chodil po horách kolik let, mstě se pánům, pomáhaje chudým, utiskovan�
 
 Až ho zrada zmohla. Jeho gajdošík udal pánům, kde se skrývá a jak by ho mohli lapit. Vtom byl tomu zrádci jakýsi gazda nápomocen za jidášský groš. Ten gazda se s Jánošíkem dobře znal. I pozval „horního chlapce“ jednou v zimě do svého statku; a pro hostě si zrovna zajel. Jánošík gazdovi důvěřoval, vsedl s ním do vozu, netuše zrady. Když slézali, vzal gazda Jánošíkovi lstivě mocnou valašku. A ve stavení číhali již hajduši a vojáci.
 
-Jak Jánošík vkročil do jizby, sklouzl a upadl. Podsypali mu pod nohy hrachu. Jen klesl a již se na něj sesypali, povalili ho a spoutali. Ale jen spoutali, již se vymrštil, pouta roztrhl, bil jimi kolem sebe do vojáků a hajduchů a smál se jim: „Kolko drábov idě do jednej polkyly!“ (půlměřice[89](../Text/stare_povesti_ceske_031.xhtml#footnote-080)). Již jim bylo zle a již se ku dveřím tlačili. Vtom baba vrásčitá pronikavě vzkřikla z přípecky: „Rubejte mu v opasek!“
+Jak Jánošík vkročil do jizby, sklouzl a upadl. Podsypali mu pod nohy hrachu. Jen klesl a již se na něj sesypali, povalili ho a spoutali. Ale jen spoutali, již se vymrštil, pouta roztrhl, bil jimi kolem sebe do vojáků a hajduchů a smál se jim: „Kolko drábov idě do jednej polkyly!“ (půlměřice[89](./resources/undefined)). Již jim bylo zle a již se ku dveřím tlačili. Vtom baba vrásčitá pronikavě vzkřikla z přípecky: „Rubejte mu v opasek!“
 
 A hned jeden voják ťal, a šťastně tak, že naráz přeťal mocnou žilku v opasku vílou darovaném. Jak žilka pukla, ochabla síla a Jánošík se již přesile bez valašky neubránil. V Klenovci blíže Tisovce se stalo, u Blaha gazdy. Jánošíka svázali, na vůz naložili a pryč do vězení odvezli. Nejprve na Hrachovo, starý kaštel v Rimavské dolině, pak na vranovský zámek u sv. Mikuláše. Tu ležel v tuhém vězení ke zdi přikován a neuvolnili mu, leda když ho vedli na mučení.
 
@@ -120,20 +120,20 @@ Ticho po jizbě, leda že se tu tam povzdech zatřese. Líto všem „dobrého c
 
 * * *
 
-[81](../Text/stare_povesti_ceske_031.xhtml#footnote-088-backlink) Divočák.
+[81](./resources/undefined) Divočák.
 
-[82](../Text/stare_povesti_ceske_031.xhtml#footnote-087-backlink) Uherský slavnostní ozdobný kabátec se šňůrami.
+[82](./resources/undefined) Uherský slavnostní ozdobný kabátec se šňůrami.
 
-[83](../Text/stare_povesti_ceske_031.xhtml#footnote-086-backlink) Černobur, vlkodav, kanečník – psí lovecká plemena.
+[83](./resources/undefined) Černobur, vlkodav, kanečník – psí lovecká plemena.
 
-[84](../Text/stare_povesti_ceske_031.xhtml#footnote-085-backlink) Nevolnictví, nesvoboda.
+[84](./resources/undefined) Nevolnictví, nesvoboda.
 
-[85](../Text/stare_povesti_ceske_031.xhtml#footnote-084-backlink) Zdobené vytlačovanými vzory.
+[85](./resources/undefined) Zdobené vytlačovanými vzory.
 
-[86](../Text/stare_povesti_ceske_031.xhtml#footnote-083-backlink) Dudák.
+[86](./resources/undefined) Dudák.
 
-[87](../Text/stare_povesti_ceske_031.xhtml#footnote-082-backlink) Píšťala u dud.
+[87](./resources/undefined) Píšťala u dud.
 
-[88](../Text/stare_povesti_ceske_031.xhtml#footnote-081-backlink) Štůček, svinutý kus tkaniny.
+[88](./resources/undefined) Štůček, svinutý kus tkaniny.
 
-[89](../Text/stare_povesti_ceske_031.xhtml#footnote-080-backlink) Měřice = stará dutá míra, cca 61 l.
+[89](./resources/undefined) Měřice = stará dutá míra, cca 61 l.

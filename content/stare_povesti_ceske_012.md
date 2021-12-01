@@ -12,13 +12,13 @@ Tak přejeli hory a pláně, až třetího dne ráno se blížili k dědině m
 
 „Jsou, to jsou Stadici,“ řeklo jim pachole. „A tam, hle, Přemysl v poli voly pohání.“
 
-Spatřili opodál muže vysoké postavy, an v lýčených střevících za pluhem statně kráčel a pobízel ostnem[25](../Text/stare_povesti_ceske_012.xhtml#footnote-025) spřežení strakatých volů. Jeden z nich měl hlavu bílou, druhý byl od čela po hřbetě bílý a měl zadní nohy též jako sníh. I jeli k oráči širokou mezí, a když se mu přiblížili, zastavil se kněžnin kůň, pak se vráz vzbočil, vzepjal, radostí řehtaje. A pak se zas na přední spustil, sehnul hlavu před mladým oráčem, jenž zarazil pluh a zastavil voly.
+Spatřili opodál muže vysoké postavy, an v lýčených střevících za pluhem statně kráčel a pobízel ostnem[25](./resources/undefined) spřežení strakatých volů. Jeden z nich měl hlavu bílou, druhý byl od čela po hřbetě bílý a měl zadní nohy též jako sníh. I jeli k oráči širokou mezí, a když se mu přiblížili, zastavil se kněžnin kůň, pak se vráz vzbočil, vzepjal, radostí řehtaje. A pak se zas na přední spustil, sehnul hlavu před mladým oráčem, jenž zarazil pluh a zastavil voly.
 
 Vladykové vzali z bělouše knížecí roucho: sukni dlouhou, vzácnou kožešinou lemovanou, drahý a krásný plášť i převlaky, přistoupili k Přemyslovi a nízko se mu klaníce, pozdravili ho.
 
 „Muži blažený, kníže nám bohy souzený, buď zdráv a vítej! Pusť voly, roucho změň, na koně se rač posadit a s námi jeti. Kněžna Libuše a všechen národ Čechův ti vzkazují, abys s námi přijel a přijal vládu tobě a tvým potomkům souzenou. Zvolili jsme tebe za svého soudce, ochránce a knížete.“
 
-Přemysl mlčky poslouchal, mlčky pak zabodl do země otku[26](../Text/stare_povesti_ceske_012.xhtml#footnote-024), kterou měl v ruce, a pustil voly. Jho jim snímaje, pravil:
+Přemysl mlčky poslouchal, mlčky pak zabodl do země otku[26](./resources/undefined), kterou měl v ruce, a pustil voly. Jho jim snímaje, pravil:
 
 „Jděte, odkud jste přišli.“
 
@@ -76,6 +76,6 @@ _Pomník ten se vypíná na místě, kde někdy se zelenalo Přemyslovo ořeší
 
 * * *
 
-[25](../Text/stare_povesti_ceske_012.xhtml#footnote-025-backlink) Bodec k pobízení dobytka.
+[25](./resources/undefined) Bodec k pobízení dobytka.
 
-[26](../Text/stare_povesti_ceske_012.xhtml#footnote-024-backlink) Náčiní na odstraňování hlíny z pluhu.
+[26](./resources/undefined) Náčiní na odstraňování hlíny z pluhu.

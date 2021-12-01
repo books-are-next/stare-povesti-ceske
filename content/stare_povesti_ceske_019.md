@@ -10,7 +10,7 @@ Umlká pověst o časech prvních let, zanikl pramen báječných zkazek z poh
 
 Nový čas nastal a s ním nové a divné příhody pamětihodné. Nový čas nastal, to jak přišli předchůdcové země křesťanské. Přišli jako záře denní před svitem a vyjasnilo se po nich, neboť přinesli poznání jediného Boha.
 
-Zpěv zazněl z hlubin tmavého hvozdu od moravské strany a rozléhal se z mrákavy[37](../Text/stare_povesti_ceske_019.xhtml#footnote-036) lesů slovanským hlaholem:
+Zpěv zazněl z hlubin tmavého hvozdu od moravské strany a rozléhal se z mrákavy[37](./resources/undefined) lesů slovanským hlaholem:
 
 „Zvolejme k Bohu a spasiteli našemu, předcházejme tvář jeho v hlásání.
 
@@ -54,4 +54,4 @@ Aj, počneme dávné ty zvěsti.
 
 * * *
 
-[37](../Text/stare_povesti_ceske_019.xhtml#footnote-036-backlink) Temnota.
+[37](./resources/undefined) Temnota.

@@ -48,7 +48,7 @@ Tou cestou ujížděli bez rozpaků stále na sever. Před nimi se vznášel mra
 
 Již se před jezdci obzorem zvedl pás Krušných hor v bělostném hávu, již minuli Teplice; za nimi dojeli svého vojska. Kaplan Vít z koně skočil a rovnou se bral do knížecího stanu. I zaradoval se kníže Soběslav, Bohu děkoval, když vše uslyšel, a hned dal hlásiti po všem vojsku, co se jest zběhlo.
 
-Radostná novina se větrem rozlétla po ležení, a kde kdo byl a mohl, chvátal na prostor ke knížecímu stanu, aby tam spatřil ten div. Tam stál sám kníže, statečný pán, v šubě[42](../Text/stare_povesti_ceske_022.xhtml#footnote-044) vzácnou kožešinou lemované, stál na hrubých saních, aby byl ode všech viděn, a s ním kněz Vít. Kníže bez přílby, bez čapky, prostovlasý jako jeho kaplan, vznášel do výše praporec, volaje nadšeně, hlasem dalekozvučným:
+Radostná novina se větrem rozlétla po ležení, a kde kdo byl a mohl, chvátal na prostor ke knížecímu stanu, aby tam spatřil ten div. Tam stál sám kníže, statečný pán, v šubě[42](./resources/undefined) vzácnou kožešinou lemované, stál na hrubých saních, aby byl ode všech viděn, a s ním kněz Vít. Kníže bez přílby, bez čapky, prostovlasý jako jeho kaplan, vznášel do výše praporec, volaje nadšeně, hlasem dalekozvučným:
 
 „Toť znamení milosti Boží! Tu kopí sv. Václava a na kopí, hle, ten praporec, kterýž nám sv. Vojtěch zjevil.“
 
@@ -58,7 +58,7 @@ Radostná novina spěla pak ležením dál, až k zásekám, kdež v sněhu č
 
 U veliké síle se blížil různý německý lid, Sasíků nejvíce a Durynků, Flandřanů, Frísů a Brabantů veliký houf, též Rýňané i ze Švábska a z bavorské země. Nekonečná všech řada se černala cestou mezi zasněženými vrchy, vinula se jako obrovský had vzhůru, dolů a zase do vrchu. Namáhavě, těžko. Bylo neschůdno i koním, i lidem. Sněhem se brodili, do závějí zapadali, smekali se, padali. Byl mráz a potem se zalévali, z koní se kouřilo. Těžká zbroj byla dvojnásob těžká na horských stezkách.
 
-Nejeden rytíř, složiv ze sebe odění[43](../Text/stare_povesti_ceske_022.xhtml#footnote-043), kráčel pěšky vedle svého koně. A pěší umdlévali, zastavovali se. Ale rytíř, jenž jel v předních řadách v kroužkové brni, statečný markrabí Albrecht, řečený Medvěd, a vedle něho pán smědého líce a černých vlasů, v plné zbroji, sám Otík Černý, jen kupředu kynuli a pobízeli.
+Nejeden rytíř, složiv ze sebe odění[43](./resources/undefined), kráčel pěšky vedle svého koně. A pěší umdlévali, zastavovali se. Ale rytíř, jenž jel v předních řadách v kroužkové brni, statečný markrabí Albrecht, řečený Medvěd, a vedle něho pán smědého líce a černých vlasů, v plné zbroji, sám Otík Černý, jen kupředu kynuli a pobízeli.
 
 Tak dospěli výše a již dolů se spouštěli klikatou, neschůdnou cestou, až přední houfy i valný voj se dostaly nadol. Tam v chlumeckém oudolí stálo již české vojsko v úplném šiku. Nad houfy se třepetaly korouhve zářícím mrazivým vzduchem a nad ně nejvýše praporec sv. Václava, praporec všeho vojska. Kaplan Vít jej držel maje na sobě brnění a přílbu; s ním kolem praporce stálo dobře sto českých pánů s tasenou zbraní a probošti, kaplané, všichni bedlivá stráž posvátného znamení.
 
@@ -100,7 +100,7 @@ Tak ležela obě vojska proti sobě a řeka proudila mezi nimi.
 
 Tak sjednáno, tak svatou přísahou stvrdili uherští králové a jejich velmožové. Ale přísah svých nedbali a proti ujednání, když nalezli brody sobě příhodné, přeplavili se Uhři hned v noci na druhý břeh a tu pak s bezčíslným počtem dne dvanáctého a dne třináctého udeřili na Čechy.
 
-Ti, spoléhajíce na smlouvu a přísahy, ničeho se nenadáli a na boj se ještě nechystali. Jich vojsko nebylo ani všecko pohromadě, neboť mnohé houfy se rozjely na pícování[44](../Text/stare_povesti_ceske_022.xhtml#footnote-042). A tak jakmile Uhři se na ně obořili, dostali se Čechové v nebezpečenství velmi veliké. Uher je půlkruhem obklopil, sám silnější.
+Ti, spoléhajíce na smlouvu a přísahy, ničeho se nenadáli a na boj se ještě nechystali. Jich vojsko nebylo ani všecko pohromadě, neboť mnohé houfy se rozjely na pícování[44](./resources/undefined). A tak jakmile Uhři se na ně obořili, dostali se Čechové v nebezpečenství velmi veliké. Uher je půlkruhem obklopil, sám silnější.
 
 Nejprve padl strach na Čechy, když sálavým vzduchem zahřměl zběsilý pokřik Kumánů, když na koních hrnuli se jako nesmírné mračno kobylek, až se třásla země. Ale jak Čechové zazpívali „Hospodine, pomiluj ny…“, jak nejvyšší purkrabí v železných mužích pozdvihl zemskou korouhev, strach rázem spadl ze všeho vojska a mužsky začali boj.
 
@@ -114,7 +114,7 @@ Vznášel se nad českým vojskem, a zrovna nad korouhví sv. Václava. Nad ní
 
 A bělostný, zářivý pták, nastojte, počal růsti a rostl, peruti jeho se šířily šíř a šíř, až se rozpjaly nad veškerým železným šikem. Zpod ohromných perutí padl na něj stín jakoby z mraku a halil jezdce i koně. Jen praporec sv. Václava zůstal jasný a světlý a zlatý jeho hrot zářil a svítil za šera stínu sám jediný a hořel tajemným světlem jako blesk paprsku nad spoustou vojska.
 
-Pak rázem pohasl, bělostný orel v povětří zmizel a žhavé slunce svítilo zase na všecko vojsko. To v hodinu nešporní[45](../Text/stare_povesti_ceske_022.xhtml#footnote-041), kdy Moravským polem hřměl jásavý pokřik českého vojska, kdy ve mračnách prachu hnali se Uhři divokým útěkem, ve zmatku nazpátek k řece, Kumáni, Plavci, Tataři, Maďaři a všechno jejich vojsko, kdy v šíleném strachu skákali všichni do Moravy, aby se dostali na druhý břeh. Ale hynuli ve vlnách, v proudu, koně i lidé a tak, že stavili tok řeky, že přes houfy jejich mrtvol mohli Čechové snáze na druhý břeh, zmocnit se bohatého ležení a hojné kořisti uherské.
+Pak rázem pohasl, bělostný orel v povětří zmizel a žhavé slunce svítilo zase na všecko vojsko. To v hodinu nešporní[45](./resources/undefined), kdy Moravským polem hřměl jásavý pokřik českého vojska, kdy ve mračnách prachu hnali se Uhři divokým útěkem, ve zmatku nazpátek k řece, Kumáni, Plavci, Tataři, Maďaři a všechno jejich vojsko, kdy v šíleném strachu skákali všichni do Moravy, aby se dostali na druhý břeh. Ale hynuli ve vlnách, v proudu, koně i lidé a tak, že stavili tok řeky, že přes houfy jejich mrtvol mohli Čechové snáze na druhý břeh, zmocnit se bohatého ležení a hojné kořisti uherské.
 
 * * *
 
@@ -146,10 +146,10 @@ Tam však již neodpočívá v bývalé schráně, nýbrž v bezpečnější, 
 
 * * *
 
-[42](../Text/stare_povesti_ceske_022.xhtml#footnote-044-backlink) Plášť.
+[42](./resources/undefined) Plášť.
 
-[43](../Text/stare_povesti_ceske_022.xhtml#footnote-043-backlink) Zbroj.
+[43](./resources/undefined) Zbroj.
 
-[44](../Text/stare_povesti_ceske_022.xhtml#footnote-042-backlink) Příprava píce (krmiva) pro koně a soumary.
+[44](./resources/undefined) Příprava píce (krmiva) pro koně a soumary.
 
-[45](../Text/stare_povesti_ceske_022.xhtml#footnote-041-backlink) Nešpory – odpolední, podvečerní pobožnost.
+[45](./resources/undefined) Nešpory – odpolední, podvečerní pobožnost.
