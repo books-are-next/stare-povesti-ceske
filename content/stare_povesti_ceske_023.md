@@ -86,7 +86,7 @@ Mladý kníže již viděl, že lvu křivdil a že netřeba se ho báti. Proto 
 
 Jednou za těch potulek dostal se Bruncvík na vrchol vysoké hory, odkud zahlédl před sebou širé moře a v tom moři daleko hrad nějaký. I zaradoval se, že vidí zase lidské obydlí, neb do té chvíle žádného nenašel ani neviděl; i pospíchal směrem k moři prose Pána Boha, aby mu dal tam dojíti.
 
-Patnáct dní minulo, nežli pronikl pustými horami a dostal se na břeh mořský. A ten byl pustý, písčitý a kamenitý. Bruncvík, puzen nadějí a touhou po tom hradě, jal se hned mečem roubati stromky a proutí, a nanosiv vše na pobřeží, zrobil si a spletl širokou lésu[46](../Text/stare_povesti_ceske_023.xhtml#footnote-047), kterouž pak spustil na vodu. To učinil ve chvíli, kdy lev odešel na hon shánět potravu. Bruncvík tak schválně udělal, neb nechtěl ho s sebou, aby mu nepřekážel.
+Patnáct dní minulo, nežli pronikl pustými horami a dostal se na břeh mořský. A ten byl pustý, písčitý a kamenitý. Bruncvík, puzen nadějí a touhou po tom hradě, jal se hned mečem roubati stromky a proutí, a nanosiv vše na pobřeží, zrobil si a spletl širokou lésu[46](./resources/undefined), kterouž pak spustil na vodu. To učinil ve chvíli, kdy lev odešel na hon shánět potravu. Bruncvík tak schválně udělal, neb nechtěl ho s sebou, aby mu nepřekážel.
 
 Právě když mladý kníže odrazil od břehu, vrátil se lev, nesa v tlamě ulovenou kořist. Než hned ji pustil a zařvav skočil do moře za svým pánem, skočil ohromným skokem a předníma nohama voru doskočil. Jimi se držel a plaval dobrou chvíli, až Bruncvík, pohnut oddaností tou, pomohl mu z nesnáze na lésu. A tak plavali nyní spolu na chatrném člunu, na jednom konci Bruncvík, na druhém lev.
 
@@ -148,7 +148,7 @@ Vítr vál příznivý a koráb plul šťastně poklidným mořem. Bruncvík ne
 
 A s větrem vanuly od ostrova rozkošné zvuky. Lahodná hra se tam ozývala, také veselých fanfár troubení a bubnů rachocení. Pak líbezný zpěv mužských i ženských hlasů nesl se k němu čarovným ohlasem nad vlnami zářícím vzduchem. I zatoužil Bruncvík po lidech a srdce i lidský hlas hudby táhly ho k ostrovu.
 
-Když tam přistál, uzřel veliké veselí, lidí mnoho, na koních, pěších, všechny v bohatém obleku, v sametu, v hedvábí veselých barev, zvláště urostlé paní a panny překrásných očí, vlasů a tváří. Všichni tam byli bez starosti, v bujném veselí. Tu na koních, v nádherné zbroji v okolu[47](../Text/stare_povesti_ceske_023.xhtml#footnote-046) kláli, tam na volné prostoře tančili, jiní zpívali, hráli. Jakmile vstoupil Bruncvík a počal se na ně dívati, hrnuli se k němu mládenci, panny a volali:
+Když tam přistál, uzřel veliké veselí, lidí mnoho, na koních, pěších, všechny v bohatém obleku, v sametu, v hedvábí veselých barev, zvláště urostlé paní a panny překrásných očí, vlasů a tváří. Všichni tam byli bez starosti, v bujném veselí. Tu na koních, v nádherné zbroji v okolu[47](./resources/undefined) kláli, tam na volné prostoře tančili, jiní zpívali, hráli. Jakmile vstoupil Bruncvík a počal se na ně dívati, hrnuli se k němu mládenci, panny a volali:
 
 „Jak jsi k nám přišel? Ale ať jakkoliv, budeš tancovati.“
 
@@ -168,7 +168,7 @@ Slyše to Bruncvík, potrhl meč a vzkřikl:
 
 „Nuž těmto všem ďáblům hlavy dolů!“
 
-A tu všem skákaly dolů, Bruncvík pak odkvapiv vsedl na loď a plul dále. Jel a jel a bloudil zase mnoho neděl, až posléze uzřel překrásné město z daleka zářící. Zakotviv u něho, zamířil se lvem k němu. Kolem města nezhlédl ani člověka, také v otevřené bráně bylo ticho i na ulicích a náměstí. Krásné to město jako by vymřelo. Všecky však domy byly otevřeny a bohatě opatřeny. Všude našel kryté[48](../Text/stare_povesti_ceske_023.xhtml#footnote-045) stoly a jídla dost i vzácného vína.
+A tu všem skákaly dolů, Bruncvík pak odkvapiv vsedl na loď a plul dále. Jel a jel a bloudil zase mnoho neděl, až posléze uzřel překrásné město z daleka zářící. Zakotviv u něho, zamířil se lvem k němu. Kolem města nezhlédl ani člověka, také v otevřené bráně bylo ticho i na ulicích a náměstí. Krásné to město jako by vymřelo. Všecky však domy byly otevřeny a bohatě opatřeny. Všude našel kryté[48](./resources/undefined) stoly a jídla dost i vzácného vína.
 
 Jak tak Bruncvík chodil dům od domu, zaslechl náhle trubače a bubeníky a ti troubili a bubnovali náramně velmi. Vojsko táhlo do města; to byli Astriolové, před nimiž jel na vraném koni jejich král Astriolus.
 
@@ -232,8 +232,8 @@ Tak se stane, a bude svatý pokoj v naší vlasti.
 
 * * *
 
-[46](../Text/stare_povesti_ceske_023.xhtml#footnote-047-backlink) Vor.
+[46](./resources/undefined) Vor.
 
-[47](../Text/stare_povesti_ceske_023.xhtml#footnote-046-backlink) Ohrada.
+[47](./resources/undefined) Ohrada.
 
-[48](../Text/stare_povesti_ceske_023.xhtml#footnote-045-backlink) Prostřené.
+[48](./resources/undefined) Prostřené.

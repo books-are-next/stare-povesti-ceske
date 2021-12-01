@@ -14,7 +14,7 @@ Pomněte na časy těch prvních let i na to, jaká byla tenkráte tvářnost n
 
 Měst nebylo, dědin jen málo a pořídku a ty jen v některých končinách, kdež se dochoval chudý ostatek dřívějších obyvatelů cizího jazyka. Půda skoro všecka odpočívala netknutá rádlem. Vše bylo pustější, divočejší, rovina, pláň i údolí.
 
-Ohromné pralesy se černaly po horách na pomezí a ze svahů těch hor táhly se širokými pruhy na míle hluboko do země. I tam, vnitř, rozkládaly se pouště starých, temných hvozdů, mezi nimiž svítily se jasnější zelení bujné palouky s vlající, hustou, vysokou travou. Dost bylo třasovisek[1](../Text/stare_povesti_ceske_007.xhtml#footnote-000) houpavé půdy na šíru i v lesích, dost ošidných bažin křikem vodního ptactva oživených, dost tichých, černých, jako zakletých slatin, v nichž se zhlížely staré stromy ohromných kmenů s vousinatým, sivým mechem.
+Ohromné pralesy se černaly po horách na pomezí a ze svahů těch hor táhly se širokými pruhy na míle hluboko do země. I tam, vnitř, rozkládaly se pouště starých, temných hvozdů, mezi nimiž svítily se jasnější zelení bujné palouky s vlající, hustou, vysokou travou. Dost bylo třasovisek[1](./resources/undefined) houpavé půdy na šíru i v lesích, dost ošidných bažin křikem vodního ptactva oživených, dost tichých, černých, jako zakletých slatin, v nichž se zhlížely staré stromy ohromných kmenů s vousinatým, sivým mechem.
 
 Lidská stopa tu byla vzácná. Zvěře však všude hojně. Nikým nehoněná, nehubená množila se, že jí sotva postačovala půda. Po černých lesích bytoval medvěd, hledaje duté kmeny s medovými plásty včel, od jejichž rojů zvučely stromy.
 
@@ -38,4 +38,4 @@ Aj, počneme o nich tu pověst.
 
 * * *
 
-[1](../Text/stare_povesti_ceske_007.xhtml#footnote-000-backlink) Močál, bažinatá půda.
+[1](./resources/undefined) Močál, bažinatá půda.

@@ -28,7 +28,7 @@ Lid po čase na bratří zapomněl; než místo, kde se loučili, zachoval v ú
 
 Ale jako by prozřetelnost sama o to místo pečovala. Stalo se tu cosi podobného jako na Žižkově poli u Přibyslavi. Orali palouček, ale pluh se zkazil nebo kůň padl.
 
-Konečně tu len zaseli. Vyrostl, rozkvetl, vytrhali ho, umočili, usušili ho a již jej třeli; tu vzňal se len plamenem. Od toho chytla pazderna[79](../Text/stare_povesti_ceske_029.xhtml#footnote-078) i všechen rozlehlý statek toho hospodáře, jenž osil palouček lnem, a v tom požáru zhynula také mladičká dcera toho hospodáře.
+Konečně tu len zaseli. Vyrostl, rozkvetl, vytrhali ho, umočili, usušili ho a již jej třeli; tu vzňal se len plamenem. Od toho chytla pazderna[79](./resources/undefined) i všechen rozlehlý statek toho hospodáře, jenž osil palouček lnem, a v tom požáru zhynula také mladičká dcera toho hospodáře.
 
 Od těch dob se nikdo více neodvážil růžový palouček zaorat. Když tudy r. 1813 táhli Rusové, postupujíce proti Napoleonu I., vyptávali se někteří z nich po růžovém paloučku. Když jim pověděno, seskočili z koní a po kolenou pak lezli až na samý palouček, a tu se vroucně modlili.
 
@@ -53,4 +53,4 @@ _… i vlast laskavá“._
 
 * * *
 
-[79](../Text/stare_povesti_ceske_029.xhtml#footnote-078-backlink) Stavení, kde se zpracovával len nebo konopí.
+[79](./resources/undefined) Stavení, kde se zpracovával len nebo konopí.

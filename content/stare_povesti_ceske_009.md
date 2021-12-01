@@ -32,7 +32,7 @@ Opodál hradu v háji vyvěral pod starými buky silný pramen, z něhož čer
 
 Na ten hrad slavně uvedli Kroka i jeho rodinu a velikou poctivost mu činili. Milovali moudrého vojvodu, za jehož vlády vrátilo se požehnání veškerým krajinám. Všude si mohli hleděti klidného díla. Oštěp a šíp a všeliká zbraň hubila jen šelmy. Jinak lid zdělával pilně půdu, lesy kácel a pražil, takže rolí a dědin stále přibývalo.
 
-Všude měli hojnost, i v stodolách, i v stájích; mír zůstával, pokud Krok zemi spravoval, a to bylo více než třimecítma[13](../Text/stare_povesti_ceske_009.xhtml#footnote-013) let.
+Všude měli hojnost, i v stodolách, i v stájích; mír zůstával, pokud Krok zemi spravoval, a to bylo více než třimecítma[13](./resources/undefined) let.
 
 Když pak odešel k otcům, želel ho všechen lid. Popel jeho i zbraň uložili do hrobu vedle mohyly Čechovy. Z rodiny moudrého soudce zůstaly tři dcery: Kazi, Teta, Libuše. V útlém mládí svém žily na Budči, kdež se učily moudrosti s jinými pannami a jinochy svého plemene i s těmi, kteří z jiných sem přicházeli, jako Přemysl z rodu Stadiců.
 
@@ -48,7 +48,7 @@ S největší však oddaností vzhlíželi všichni k Libuši, ač věkem nejm
 
 A s posvátnou bázní mluvili o ní, že bývá u vytržení, že se jí mění tvář i oči, když zahoří věštím duchem, když hledí v budoucna šero a vidí, co nastati má.
 
-Po smrti Krokově sešli se lechové, vladykové a množství lidu v posvátném háji u pramene Jezerky. Též Krokovy dcery tam přišly. Pod krytem starých buků, lip a dubů snesli se starší rodů a všechen lid o to svorně, bez potržky[14](../Text/stare_povesti_ceske_009.xhtml#footnote-012), aby panování zůstalo v rodě Krokově, při jeho nejmladší, Libuši.
+Po smrti Krokově sešli se lechové, vladykové a množství lidu v posvátném háji u pramene Jezerky. Též Krokovy dcery tam přišly. Pod krytem starých buků, lip a dubů snesli se starší rodů a všechen lid o to svorně, bez potržky[14](./resources/undefined), aby panování zůstalo v rodě Krokově, při jeho nejmladší, Libuši.
 
 Starý háj se rozezvučel radostným pokřikem všech a hlahol jejich zaléhal až k řece do šerých lesů. Jásajíce vedli od Jezerky mladou kněžnu, ověnčenou a pohnutím zardělou, na posvátný Vyšehrad. Po boku jí kráčely Kazi a Teta, sestry, a jejich dívky, před nimi i za knížecími dcerami kráčeli statní lechové a starostové, vznešení rodem i věhlasem.
 
@@ -56,6 +56,6 @@ Ti, uvedše Libuši na prostorné nádvoří vojvodského hradu, usadili ji na k
 
 * * *
 
-[13](../Text/stare_povesti_ceske_009.xhtml#footnote-013-backlink) Třiadvacet.
+[13](./resources/undefined) Třiadvacet.
 
-[14](../Text/stare_povesti_ceske_009.xhtml#footnote-012-backlink) Roztržka, rozepře.
+[14](./resources/undefined) Roztržka, rozepře.

@@ -66,7 +66,7 @@ Byly tehdá zlé, těžké časy, neboť veliké množství nepřátel spiklo se
 
 Tenkráte, když běželo o zhoubu našeho království a o vyhlazení českého jazyka, povstal ten znamenitý Čech z řádu zemanského, velmi udatný, jednooký Jan Žižka z Trocnova, jenž se pak psával z Kalicha.
 
-Ten z Boží milosti povstal vzhůru a táhl vojensky polem na nepřátele svého národa, i na ty, kdož byli s nimi zajedno a byli nepřáteli mistra Jana Husa, a na ty, kdož nepřijímali podobojí. Všude proti nim volal do zbraně, ať všichni, kteří mohou pro starost a mladost, jsou vzhůru na každou hodinu. Volal a povzbuzoval, aby si nikdo nezasteskl v ten čas protivenství, aby se všichni statečně postavili a nepočítali, že jsou malí proti velkým, nemnozí proti mnohým, neodění[69](../Text/stare_povesti_ceske_026.xhtml#footnote-071) proti oděným.
+Ten z Boží milosti povstal vzhůru a táhl vojensky polem na nepřátele svého národa, i na ty, kdož byli s nimi zajedno a byli nepřáteli mistra Jana Husa, a na ty, kdož nepřijímali podobojí. Všude proti nim volal do zbraně, ať všichni, kteří mohou pro starost a mladost, jsou vzhůru na každou hodinu. Volal a povzbuzoval, aby si nikdo nezasteskl v ten čas protivenství, aby se všichni statečně postavili a nepočítali, že jsou malí proti velkým, nemnozí proti mnohým, neodění[69](./resources/undefined) proti oděným.
 
 Základ jeho vojska byli sedláci a s nimi potíral v častých bitvách a bojích obrněné rytíře a cvičené žoldnéře. A pole nikdy neztratil. Ale nejen silou, jež rostla nadšením, a svým uměním vůdcovským, než i lstí hubil své nepřátele.
 
@@ -110,11 +110,11 @@ Velkou nesnáz měl Žižka před hradem Vlčincem, který oblehl, když táhl k
 
 Vlčinec hrad stál mezi lesy na vysokém ostrohu nad soutokem Metuje a Žďárského potoka. Sám sebou byl pevný, nadto jej chránila jakási čarodějná moc, neboť se jeho zdí koule z kusů ani nechytla. Husité dobře mířili, děla jejich neúnavně houkala ve dne, často i v noci, až všecky lesy kolem hučely jako hřímáním, ale nic naplat. Koule se odrážely od bašt, hradeb i věže jako hrách.
 
-Nezbylo než ustati. Když se kusy odmlčely, zaslechli v Žižkově táboře hudbu z hradu. Někdo tam hrál na housle. Byl to hudec[70](../Text/stare_povesti_ceske_026.xhtml#footnote-070) v okénku na věži, kterého tam i předtím, když stříleli, viděli, jak hrá. I poručil Žižka nejlepšímu střelci, aby naň vystřelil. Střelec vzal kuli, namířil, spustil – housle naráz umlkly a hudec zmizel od okna. A vtom už kázal Žižka, aby stříleli ze všech kusů do hradu; jen první koule dopadly a již se prášilo ze zdí, již se sypalo kamení a zanedlouho zel ve zdi veliký průlom. Nežli zapadlo slunce, hlaholil jásot vítězných „bratří“ v dobytém Vlčinci.
+Nezbylo než ustati. Když se kusy odmlčely, zaslechli v Žižkově táboře hudbu z hradu. Někdo tam hrál na housle. Byl to hudec[70](./resources/undefined) v okénku na věži, kterého tam i předtím, když stříleli, viděli, jak hrá. I poručil Žižka nejlepšímu střelci, aby naň vystřelil. Střelec vzal kuli, namířil, spustil – housle naráz umlkly a hudec zmizel od okna. A vtom už kázal Žižka, aby stříleli ze všech kusů do hradu; jen první koule dopadly a již se prášilo ze zdí, již se sypalo kamení a zanedlouho zel ve zdi veliký průlom. Nežli zapadlo slunce, hlaholil jásot vítězných „bratří“ v dobytém Vlčinci.
 
 Pobořili ho, zažehli; svítil jim celou noc a zaléval červenou září okolní lesy a chlumy. Hrad shořel a vše v něm, i čarovný hudec, jenž svým uměním ho tak hájil.
 
-Zůstaly jen rozvaliny a ty pak ještě sloty a stromy hubily. Dnes už sotva je viděti: Vlčinec zarostl lesem, a kde kdysi zněly čarovné housle a houkaly Žižkovy tarasnice[71](../Text/stare_povesti_ceske_026.xhtml#footnote-069), šumí jen les.
+Zůstaly jen rozvaliny a ty pak ještě sloty a stromy hubily. Dnes už sotva je viděti: Vlčinec zarostl lesem, a kde kdysi zněly čarovné housle a houkaly Žižkovy tarasnice[71](./resources/undefined), šumí jen les.
 
 Tak bratr Žižka vojensky po Čechách táhl proti přátelům a spojencům krále Zikmunda. I poddávala se mu mnohá místa a mnoha hradů zdobýval. Léta Páně 1421 oblehl hrad Rábí v Plzenště. Toho hradu se již jednou předtím zmocnil, ale neosadil ho. Nyní však, když vedl lid svůj k útoku, tu, jak z hradeb do nich stříleli, poraněn byl těžce šípem do oka, do jediného svého zdravého oka. Zeman Sezema Kocovský neboli z Kocova byl prý tím střelcem, jenž svou střelou zasáhl slavného vůdce. Než vypravuje se také, že Žižkovi do oka vletěla při tom útoku tříska z hrušky, do které se nepřátelská střela zaryla. Poranění bylo tak těžké, že Žižka ledva živ zůstal. I dal se zavésti do Prahy na léčení a s ním tam jel Matěj Louda z Chlumčan, hejtman táborský, muž učený, jenž prý Žižku uložil ve svém domě v Praze na Starém Městě, kdež říkali U Černého beránka.
 
@@ -172,7 +172,7 @@ Když zemřel, kázali Hradečtí sobě ho namalovati na praporec na bílém kon
 
 A tak zůstalo Žižkovo pole ladem. Až na něm bezový keř vyrostl. Rostl, vyrůstal a šířil se tak, že hospodář toho pozemku chtěl jej vyhubit. Ale jen zakopli a již se motyka smekla a kopla do nohy dělníkovy. Vzali sekeru. Jak zasekli, sjela sekera z topůrka a zranila toho, jenž do keře sekl. A tak bezový keř zůstal. V obecné paměti zachovalo se také místo u trocnovského dvora, kde Žižka se pod dubem narodil. Ten dub stál věky a lid jej choval v poctivosti. Později, po bělohorské bitvě, byl Žižka lidu vyličován jako ukrutný divoch a krvežíznivec.
 
-Než to v lidu zůstalo, že byl bojovník nepřemožený, jako síly nadpřirozené. Tu sílu hledali i v místě, kde se narodil, v dubu samém. Chodili si tam pro ni, uřezávali větve z toho stromu, vysekávali štěpiny z kmene, aby měli na topůrka k sekerám a kladivům. Věřili, že budou míti pádnější, mocnější rány a že více v díle vydrží. Když pak dub sešel a z kmene zůstal jen pahýl, putovali sem kováři i venkované a zatloukali do něho hřeby. Byli přesvědčeni, že tím nabudou síly a statnosti. Zároveň však i ten pahýl hubili, odnášejíce z něho na topůrka k řemeslnému náčiní. Tak ostatek mocného dubu hynul, až jen pařez zbyl. A když i ten zetlíval, chodili sem lidé pro třísky, aby alespoň těmi upevnili a zarazili topůrka v sekyrkách a perlicích[72](../Text/stare_povesti_ceske_026.xhtml#footnote-068). Teď už není po dubu ani památky. Všecky stavby, jmenovitě kláštery a hrady, jež u nás zašly válkami, zvláště pak třicítiletou, padly Žižkovou silou. Tak lid věřil a namnoze věří. A kde nějaký starý val, třeba z dob pradávných, ten je také z Žižkových časů.
+Než to v lidu zůstalo, že byl bojovník nepřemožený, jako síly nadpřirozené. Tu sílu hledali i v místě, kde se narodil, v dubu samém. Chodili si tam pro ni, uřezávali větve z toho stromu, vysekávali štěpiny z kmene, aby měli na topůrka k sekerám a kladivům. Věřili, že budou míti pádnější, mocnější rány a že více v díle vydrží. Když pak dub sešel a z kmene zůstal jen pahýl, putovali sem kováři i venkované a zatloukali do něho hřeby. Byli přesvědčeni, že tím nabudou síly a statnosti. Zároveň však i ten pahýl hubili, odnášejíce z něho na topůrka k řemeslnému náčiní. Tak ostatek mocného dubu hynul, až jen pařez zbyl. A když i ten zetlíval, chodili sem lidé pro třísky, aby alespoň těmi upevnili a zarazili topůrka v sekyrkách a perlicích[72](./resources/undefined). Teď už není po dubu ani památky. Všecky stavby, jmenovitě kláštery a hrady, jež u nás zašly válkami, zvláště pak třicítiletou, padly Žižkovou silou. Tak lid věřil a namnoze věří. A kde nějaký starý val, třeba z dob pradávných, ten je také z Žižkových časů.
 
 Tak o starých valech v okolí Luže si vypravují, že byly Žižkovy. Navštívíš-li ohromné náspy u Kopidlna a zeptáš-li se lidí v jejich sousedství bydlících, co vědí o tom pradávném ohrazení, uslyšíš: „To jsou staročeské šance, a to když Žižka bojoval.“ I místa, kde za svých tažení stanul, odkud útok počal i kde odpočíval, zapamatoval si lid a dobře v paměti dochoval od pokolení do pokolení.
 
@@ -192,10 +192,10 @@ Splnilo se o Janu Žižkovi, co o něm napsal starý kronikář:
 
 * * *
 
-[69](../Text/stare_povesti_ceske_026.xhtml#footnote-071-backlink) Nevyzbrojení.
+[69](./resources/undefined) Nevyzbrojení.
 
-[70](../Text/stare_povesti_ceske_026.xhtml#footnote-070-backlink) Hráč na smyčcový nástroj, zvl. housle; muzikant vůbec.
+[70](./resources/undefined) Hráč na smyčcový nástroj, zvl. housle; muzikant vůbec.
 
-[71](../Text/stare_povesti_ceske_026.xhtml#footnote-069-backlink) Středověké dělo s delší hlavní určené k boření nepřátelských tarasů.
+[71](./resources/undefined) Středověké dělo s delší hlavní určené k boření nepřátelských tarasů.
 
-[72](../Text/stare_povesti_ceske_026.xhtml#footnote-068-backlink) Perlík, kovářské kladivo.
+[72](./resources/undefined) Perlík, kovářské kladivo.

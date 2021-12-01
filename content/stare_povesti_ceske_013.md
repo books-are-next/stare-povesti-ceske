@@ -2,7 +2,7 @@
 title: Libušina proroctví
 ---
 
-Tak uvedla Libuše Přemysla na knížecí stolec. A když bylo po svatbách, sestoupila s ním do hluboké síně pod zemí, ve skále vylámané, zavřené těžkým poklopem, hrubě okutým. V té kobce svítily se stěny i hrubé stoly podél zdi leskem různého kovu: železa a bronzu, stříbra i zlata, jak tam visely meče, bité[27](../Text/stare_povesti_ceske_013.xhtml#footnote-028) pásy, šišaté přílby, kroužkové brně, štíty krásně kované, jak tam ležely náramky, spínadla, prsteny i čelenky ze stříbrného drátu i šňůry korálů z jantaru, kamene, skla i kovu, kusy ryzího stříbra vedle velkých okřínů[28](../Text/stare_povesti_ceske_013.xhtml#footnote-027) plných rýžovaného zlata.
+Tak uvedla Libuše Přemysla na knížecí stolec. A když bylo po svatbách, sestoupila s ním do hluboké síně pod zemí, ve skále vylámané, zavřené těžkým poklopem, hrubě okutým. V té kobce svítily se stěny i hrubé stoly podél zdi leskem různého kovu: železa a bronzu, stříbra i zlata, jak tam visely meče, bité[27](./resources/undefined) pásy, šišaté přílby, kroužkové brně, štíty krásně kované, jak tam ležely náramky, spínadla, prsteny i čelenky ze stříbrného drátu i šňůry korálů z jantaru, kamene, skla i kovu, kusy ryzího stříbra vedle velkých okřínů[28](./resources/undefined) plných rýžovaného zlata.
 
 Všechen velký poklad mu ukázala, neb byl teď také jeho. Také jej uvedla do své zahrady, na posvátné místo pod starými stromy, kdež se leskla stříbrná hlava chmurného Peruna.
 
@@ -26,7 +26,7 @@ Libuše u vytržení, jako by manžela, družiny nebylo, vztáhla ruce k modra
 
 „Město vidím veliké, jehož sláva hvězd se bude dotýkat.
 
-Tam v lese je místo, třicet honů[29](../Text/stare_povesti_ceske_013.xhtml#footnote-026) odtud vzdálí, Vltava řeka je obíhá.
+Tam v lese je místo, třicet honů[29](./resources/undefined) odtud vzdálí, Vltava řeka je obíhá.
 
 To na půlnoc ohrazuje potok Brusnice hlubokým úvalem, na polední pak straně skalnatá hora vedle lesa Strahova.
 
@@ -186,8 +186,8 @@ A zlatá kolébka rostla s dítětem, až vyrostla ve zlaté lože, jak vyrost
 
 * * *
 
-[27](../Text/stare_povesti_ceske_013.xhtml#footnote-028-backlink) Tepané, kované.
+[27](./resources/undefined) Tepané, kované.
 
-[28](../Text/stare_povesti_ceske_013.xhtml#footnote-027-backlink) Široká mělká mísa, nejčastěji dřevěná.
+[28](./resources/undefined) Široká mělká mísa, nejčastěji dřevěná.
 
-[29](../Text/stare_povesti_ceske_013.xhtml#footnote-026-backlink) Cca 3 km (1 hon = cca 125 kroků).
+[29](./resources/undefined) Cca 3 km (1 hon = cca 125 kroků).
