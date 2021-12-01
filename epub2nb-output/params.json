@@ -6,7 +6,9 @@
       "author": "Alois Jirásek",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-10-25T15:03:10.289Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP_uroven1_cast\nMLP_uroven2_kapitola",
@@ -36,7 +38,7 @@
             "filename": "stare_povesti_ceske_001.md",
             "xhtml": "stare_povesti_ceske_001.xhtml",
             "id": 0,
-            "role": "break",
+            "role": "cover",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -429,7 +431,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Alois Jirásek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-01T21:17:50.534Z"
+      "modified": "2021-12-01T22:03:57.719Z"
     },
     "chapters": [
       {
@@ -750,6 +752,6 @@
       "user": "books-are-next",
       "repo": "stare-povesti-ceske"
     },
-    "generatedAt": 1638393471407
+    "generatedAt": 1638396238532
   }
 }

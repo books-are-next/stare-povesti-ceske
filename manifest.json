@@ -1,36 +1,18 @@
 {
   "author": "Alois Jirásek",
-  "identifier": "jirasek-stare-povesti-ceske-f62094e",
+  "edition": "beletrie",
+  "identifier": "jirasek-stare-povesti-ceske-783034f",
   "languagecode": "cs",
   "modified": "2021-10-25T15:03:10.289Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Staré pověsti české",
-  "revision": "f62094e",
+  "revision": "783034f",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 21:19:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638393557426
+    "date": "Wed Dec 01 2021 22:04:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638396291332
   },
   "documents": [
-    {
-      "title": "Staré pověsti české",
-      "file": "stare_povesti_ceske_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "stare_povesti_ceske_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Staré pověsti české",
       "file": "stare_povesti_ceske_002.html",
@@ -38,8 +20,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "stare_povesti_ceske_001.html",
+      "order": 0,
+      "prev": null,
       "next": "stare_povesti_ceske_006.html",
       "toc": [
         {
@@ -58,7 +40,7 @@
       "chars": 19,
       "ideas": 1,
       "role": "chapter",
-      "order": 2,
+      "order": 1,
       "prev": "stare_povesti_ceske_002.html",
       "next": "stare_povesti_ceske_007.html",
       "toc": [
@@ -78,7 +60,7 @@
       "chars": 2981,
       "ideas": 19,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "stare_povesti_ceske_006.html",
       "next": "stare_povesti_ceske_008.html",
       "toc": [
@@ -98,7 +80,7 @@
       "chars": 15538,
       "ideas": 71,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "stare_povesti_ceske_007.html",
       "next": "stare_povesti_ceske_009.html",
       "toc": [
@@ -140,7 +122,7 @@
       "chars": 8032,
       "ideas": 29,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "stare_povesti_ceske_008.html",
       "next": "stare_povesti_ceske_010.html",
       "toc": [
@@ -160,7 +142,7 @@
       "chars": 10728,
       "ideas": 38,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "stare_povesti_ceske_009.html",
       "next": "stare_povesti_ceske_011.html",
       "toc": [
@@ -180,7 +162,7 @@
       "chars": 9193,
       "ideas": 36,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "stare_povesti_ceske_010.html",
       "next": "stare_povesti_ceske_012.html",
       "toc": [
@@ -200,7 +182,7 @@
       "chars": 7455,
       "ideas": 33,
       "role": "chapter",
-      "order": 8,
+      "order": 7,
       "prev": "stare_povesti_ceske_011.html",
       "next": "stare_povesti_ceske_013.html",
       "toc": [
@@ -220,7 +202,7 @@
       "chars": 11997,
       "ideas": 93,
       "role": "chapter",
-      "order": 9,
+      "order": 8,
       "prev": "stare_povesti_ceske_012.html",
       "next": "stare_povesti_ceske_014.html",
       "toc": [
@@ -240,7 +222,7 @@
       "chars": 13101,
       "ideas": 57,
       "role": "chapter",
-      "order": 10,
+      "order": 9,
       "prev": "stare_povesti_ceske_013.html",
       "next": "stare_povesti_ceske_015.html",
       "toc": [
@@ -289,7 +271,7 @@
       "chars": 10230,
       "ideas": 57,
       "role": "chapter",
-      "order": 11,
+      "order": 10,
       "prev": "stare_povesti_ceske_014.html",
       "next": "stare_povesti_ceske_016.html",
       "toc": [
@@ -324,7 +306,7 @@
       "chars": 24056,
       "ideas": 105,
       "role": "chapter",
-      "order": 12,
+      "order": 11,
       "prev": "stare_povesti_ceske_015.html",
       "next": "stare_povesti_ceske_017.html",
       "toc": [
@@ -380,7 +362,7 @@
       "chars": 9193,
       "ideas": 39,
       "role": "chapter",
-      "order": 13,
+      "order": 12,
       "prev": "stare_povesti_ceske_016.html",
       "next": "stare_povesti_ceske_018.html",
       "toc": [
@@ -422,7 +404,7 @@
       "chars": 23,
       "ideas": 1,
       "role": "chapter",
-      "order": 14,
+      "order": 13,
       "prev": "stare_povesti_ceske_017.html",
       "next": "stare_povesti_ceske_019.html",
       "toc": [
@@ -442,7 +424,7 @@
       "chars": 4433,
       "ideas": 27,
       "role": "chapter",
-      "order": 15,
+      "order": 14,
       "prev": "stare_povesti_ceske_018.html",
       "next": "stare_povesti_ceske_020.html",
       "toc": [
@@ -462,7 +444,7 @@
       "chars": 7053,
       "ideas": 28,
       "role": "chapter",
-      "order": 16,
+      "order": 15,
       "prev": "stare_povesti_ceske_019.html",
       "next": "stare_povesti_ceske_021.html",
       "toc": [
@@ -482,7 +464,7 @@
       "chars": 10156,
       "ideas": 36,
       "role": "chapter",
-      "order": 17,
+      "order": 16,
       "prev": "stare_povesti_ceske_020.html",
       "next": "stare_povesti_ceske_022.html",
       "toc": [
@@ -517,7 +499,7 @@
       "chars": 21796,
       "ideas": 75,
       "role": "chapter",
-      "order": 18,
+      "order": 17,
       "prev": "stare_povesti_ceske_021.html",
       "next": "stare_povesti_ceske_023.html",
       "toc": [
@@ -566,7 +548,7 @@
       "chars": 25541,
       "ideas": 117,
       "role": "chapter",
-      "order": 19,
+      "order": 18,
       "prev": "stare_povesti_ceske_022.html",
       "next": "stare_povesti_ceske_024.html",
       "toc": [
@@ -622,7 +604,7 @@
       "chars": 18370,
       "ideas": 86,
       "role": "chapter",
-      "order": 20,
+      "order": 19,
       "prev": "stare_povesti_ceske_023.html",
       "next": "stare_povesti_ceske_025.html",
       "toc": [
@@ -664,7 +646,7 @@
       "chars": 105775,
       "ideas": 401,
       "role": "chapter",
-      "order": 21,
+      "order": 20,
       "prev": "stare_povesti_ceske_024.html",
       "next": "stare_povesti_ceske_026.html",
       "toc": [
@@ -763,7 +745,7 @@
       "chars": 28080,
       "ideas": 99,
       "role": "chapter",
-      "order": 22,
+      "order": 21,
       "prev": "stare_povesti_ceske_025.html",
       "next": "stare_povesti_ceske_027.html",
       "toc": [
@@ -812,7 +794,7 @@
       "chars": 20453,
       "ideas": 89,
       "role": "chapter",
-      "order": 23,
+      "order": 22,
       "prev": "stare_povesti_ceske_026.html",
       "next": "stare_povesti_ceske_028.html",
       "toc": [
@@ -854,7 +836,7 @@
       "chars": 12976,
       "ideas": 43,
       "role": "chapter",
-      "order": 24,
+      "order": 23,
       "prev": "stare_povesti_ceske_027.html",
       "next": "stare_povesti_ceske_029.html",
       "toc": [
@@ -874,7 +856,7 @@
       "chars": 4849,
       "ideas": 24,
       "role": "chapter",
-      "order": 25,
+      "order": 24,
       "prev": "stare_povesti_ceske_028.html",
       "next": "stare_povesti_ceske_030.html",
       "toc": [
@@ -894,7 +876,7 @@
       "chars": 14484,
       "ideas": 52,
       "role": "chapter",
-      "order": 26,
+      "order": 25,
       "prev": "stare_povesti_ceske_029.html",
       "next": "stare_povesti_ceske_031.html",
       "toc": [
@@ -936,7 +918,7 @@
       "chars": 17643,
       "ideas": 68,
       "role": "chapter",
-      "order": 27,
+      "order": 26,
       "prev": "stare_povesti_ceske_030.html",
       "next": "stare_povesti_ceske_032.html",
       "toc": [
@@ -978,7 +960,7 @@
       "chars": 24,
       "ideas": 1,
       "role": "chapter",
-      "order": 28,
+      "order": 27,
       "prev": "stare_povesti_ceske_031.html",
       "next": "stare_povesti_ceske_033.html",
       "toc": [
@@ -998,7 +980,7 @@
       "chars": 2074,
       "ideas": 16,
       "role": "chapter",
-      "order": 29,
+      "order": 28,
       "prev": "stare_povesti_ceske_032.html",
       "next": "stare_povesti_ceske_034.html",
       "toc": [
@@ -1018,7 +1000,7 @@
       "chars": 12487,
       "ideas": 54,
       "role": "chapter",
-      "order": 30,
+      "order": 29,
       "prev": "stare_povesti_ceske_033.html",
       "next": "stare_povesti_ceske_035.html",
       "toc": [
@@ -1053,7 +1035,7 @@
       "chars": 6203,
       "ideas": 49,
       "role": "chapter",
-      "order": 31,
+      "order": 30,
       "prev": "stare_povesti_ceske_034.html",
       "next": "stare_povesti_ceske_036.html",
       "toc": [
@@ -1073,7 +1055,7 @@
       "chars": 3533,
       "ideas": 12,
       "role": "chapter",
-      "order": 32,
+      "order": 31,
       "prev": "stare_povesti_ceske_035.html",
       "next": "stare_povesti_ceske_037.html",
       "toc": [
@@ -1093,7 +1075,7 @@
       "chars": 3886,
       "ideas": 21,
       "role": "chapter",
-      "order": 33,
+      "order": 32,
       "prev": "stare_povesti_ceske_036.html",
       "next": "stare_povesti_ceske_038.html",
       "toc": [
@@ -1113,7 +1095,7 @@
       "chars": 5053,
       "ideas": 20,
       "role": "chapter",
-      "order": 34,
+      "order": 33,
       "prev": "stare_povesti_ceske_037.html",
       "next": "colophon.html",
       "toc": [
@@ -1149,9 +1131,9 @@
   ],
   "totals": {
     "all": {
-      "words": 77036,
-      "chars": 448471,
-      "ideas": 1925
+      "words": 77038,
+      "chars": 448482,
+      "ideas": 1927
     },
     "chapters": {
       "words": 76873,

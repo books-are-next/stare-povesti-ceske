@@ -9,8 +9,9 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-10-25T15:03:10.289Z'
   languageCode: cs
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
-  - stare_povesti_ceske_001.html
   - stare_povesti_ceske_002.html
   - stare_povesti_ceske_006.html
   - stare_povesti_ceske_007.html
