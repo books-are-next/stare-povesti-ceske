@@ -1,0 +1,1162 @@
+{
+  "author": "Alois Jirásek",
+  "identifier": "jirasek-stare-povesti-ceske-f62094e",
+  "languagecode": "cs",
+  "modified": "2021-10-25T15:03:10.289Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Staré pověsti české",
+  "revision": "f62094e",
+  "generatedAt": {
+    "date": "Wed Dec 01 2021 21:19:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638393557426
+  },
+  "documents": [
+    {
+      "title": "Staré pověsti české",
+      "file": "stare_povesti_ceske_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "stare_povesti_ceske_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Staré pověsti české",
+      "file": "stare_povesti_ceske_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "stare_povesti_ceske_001.html",
+      "next": "stare_povesti_ceske_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "STARÉ POVĚSTI ČESKÉ • Staré pověsti české",
+      "file": "stare_povesti_ceske_006.html",
+      "words": 3,
+      "chars": 19,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "stare_povesti_ceske_002.html",
+      "next": "stare_povesti_ceske_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "STARÉ POVĚSTI ČESKÉ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Úvod • Staré pověsti české",
+      "file": "stare_povesti_ceske_007.html",
+      "words": 505,
+      "chars": 2981,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 3,
+      "prev": "stare_povesti_ceske_006.html",
+      "next": "stare_povesti_ceske_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Úvod",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O Čechovi • Staré pověsti české",
+      "file": "stare_povesti_ceske_008.html",
+      "words": 2637,
+      "chars": 15538,
+      "ideas": 71,
+      "role": "chapter",
+      "order": 4,
+      "prev": "stare_povesti_ceske_007.html",
+      "next": "stare_povesti_ceske_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O Čechovi",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III.",
+              "id": "iii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "O Krokovi a jeho dcerách • Staré pověsti české",
+      "file": "stare_povesti_ceske_009.html",
+      "words": 1391,
+      "chars": 8032,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 5,
+      "prev": "stare_povesti_ceske_008.html",
+      "next": "stare_povesti_ceske_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O Krokovi a jeho dcerách",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O Bivoji • Staré pověsti české",
+      "file": "stare_povesti_ceske_010.html",
+      "words": 1849,
+      "chars": 10728,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 6,
+      "prev": "stare_povesti_ceske_009.html",
+      "next": "stare_povesti_ceske_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O Bivoji",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O Libuši • Staré pověsti české",
+      "file": "stare_povesti_ceske_011.html",
+      "words": 1584,
+      "chars": 9193,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 7,
+      "prev": "stare_povesti_ceske_010.html",
+      "next": "stare_povesti_ceske_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O Libuši",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O Přemyslovi • Staré pověsti české",
+      "file": "stare_povesti_ceske_012.html",
+      "words": 1297,
+      "chars": 7455,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 8,
+      "prev": "stare_povesti_ceske_011.html",
+      "next": "stare_povesti_ceske_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O Přemyslovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Libušina proroctví • Staré pověsti české",
+      "file": "stare_povesti_ceske_013.html",
+      "words": 2066,
+      "chars": 11997,
+      "ideas": 93,
+      "role": "chapter",
+      "order": 9,
+      "prev": "stare_povesti_ceske_012.html",
+      "next": "stare_povesti_ceske_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Libušina proroctví",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dívčí válka • Staré pověsti české",
+      "file": "stare_povesti_ceske_014.html",
+      "words": 2309,
+      "chars": 13101,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 10,
+      "prev": "stare_povesti_ceske_013.html",
+      "next": "stare_povesti_ceske_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dívčí válka",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III.",
+              "id": "iii",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV.",
+              "id": "iv",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "O Křesomyslu a Horymírovi • Staré pověsti české",
+      "file": "stare_povesti_ceske_015.html",
+      "words": 1712,
+      "chars": 10230,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 11,
+      "prev": "stare_povesti_ceske_014.html",
+      "next": "stare_povesti_ceske_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O Křesomyslu a Horymírovi",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lucká válka • Staré pověsti české",
+      "file": "stare_povesti_ceske_016.html",
+      "words": 4157,
+      "chars": 24056,
+      "ideas": 105,
+      "role": "chapter",
+      "order": 12,
+      "prev": "stare_povesti_ceske_015.html",
+      "next": "stare_povesti_ceske_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lucká válka",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III.",
+              "id": "iii",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV.",
+              "id": "iv",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "V.",
+              "id": "v",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Durynk a Neklan • Staré pověsti české",
+      "file": "stare_povesti_ceske_017.html",
+      "words": 1566,
+      "chars": 9193,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 13,
+      "prev": "stare_povesti_ceske_016.html",
+      "next": "stare_povesti_ceske_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Durynk a Neklan",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III.",
+              "id": "iii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "POVĚSTI DOBY KŘESŤANSKÉ • Staré pověsti české",
+      "file": "stare_povesti_ceske_018.html",
+      "words": 3,
+      "chars": 23,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 14,
+      "prev": "stare_povesti_ceske_017.html",
+      "next": "stare_povesti_ceske_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "POVĚSTI DOBY KŘESŤANSKÉ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Úvod • Staré pověsti české",
+      "file": "stare_povesti_ceske_019.html",
+      "words": 765,
+      "chars": 4433,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 15,
+      "prev": "stare_povesti_ceske_018.html",
+      "next": "stare_povesti_ceske_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Úvod",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O králi Svatoplukovi • Staré pověsti české",
+      "file": "stare_povesti_ceske_020.html",
+      "words": 1214,
+      "chars": 7053,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 16,
+      "prev": "stare_povesti_ceske_019.html",
+      "next": "stare_povesti_ceske_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O králi Svatoplukovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O králi Ječmínkovi • Staré pověsti české",
+      "file": "stare_povesti_ceske_021.html",
+      "words": 1736,
+      "chars": 10156,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 17,
+      "prev": "stare_povesti_ceske_020.html",
+      "next": "stare_povesti_ceske_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O králi Ječmínkovi",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Praporec svatého Václava • Staré pověsti české",
+      "file": "stare_povesti_ceske_022.html",
+      "words": 3728,
+      "chars": 21796,
+      "ideas": 75,
+      "role": "chapter",
+      "order": 18,
+      "prev": "stare_povesti_ceske_021.html",
+      "next": "stare_povesti_ceske_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Praporec svatého Václava",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III.",
+              "id": "iii",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV.",
+              "id": "iv",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "O Bruncvíkovi • Staré pověsti české",
+      "file": "stare_povesti_ceske_023.html",
+      "words": 4534,
+      "chars": 25541,
+      "ideas": 117,
+      "role": "chapter",
+      "order": 19,
+      "prev": "stare_povesti_ceske_022.html",
+      "next": "stare_povesti_ceske_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O Bruncvíkovi",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III.",
+              "id": "iii",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV.",
+              "id": "iv",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "V.",
+              "id": "v",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Opatovický poklad • Staré pověsti české",
+      "file": "stare_povesti_ceske_024.html",
+      "words": 3166,
+      "chars": 18370,
+      "ideas": 86,
+      "role": "chapter",
+      "order": 20,
+      "prev": "stare_povesti_ceske_023.html",
+      "next": "stare_povesti_ceske_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Opatovický poklad",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III.",
+              "id": "iii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "O staré Praze • Staré pověsti české",
+      "file": "stare_povesti_ceske_025.html",
+      "words": 18141,
+      "chars": 105775,
+      "ideas": 401,
+      "role": "chapter",
+      "order": 21,
+      "prev": "stare_povesti_ceske_024.html",
+      "next": "stare_povesti_ceske_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O staré Praze",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Žito kouzelník",
+              "id": "žito-kouzelník",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "O králi Václavovi IV.",
+              "id": "okráli-václavovi-iv",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Staroměstský orloj",
+              "id": "staroměstský-orloj",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "O Daliborovi z Kozojed",
+              "id": "odaliborovi-zkozojed",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Ze Židovského Města",
+              "id": "zenbspžidovského-města",
+              "children": [
+                {
+                  "index": 6,
+                  "level": 3,
+                  "name": "I.",
+                  "id": "i",
+                  "children": []
+                },
+                {
+                  "index": 7,
+                  "level": 3,
+                  "name": "II.",
+                  "id": "ii",
+                  "children": []
+                },
+                {
+                  "index": 8,
+                  "level": 3,
+                  "name": "III.",
+                  "id": "iii",
+                  "children": []
+                },
+                {
+                  "index": 9,
+                  "level": 3,
+                  "name": "IV.",
+                  "id": "iv",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "Smutná místa",
+              "id": "smutná-místa",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "Faustův dům",
+              "id": "faustův-dům",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "O Žižkovi • Staré pověsti české",
+      "file": "stare_povesti_ceske_026.html",
+      "words": 4854,
+      "chars": 28080,
+      "ideas": 99,
+      "role": "chapter",
+      "order": 22,
+      "prev": "stare_povesti_ceske_025.html",
+      "next": "stare_povesti_ceske_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O Žižkovi",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III.",
+              "id": "iii",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "IV.",
+              "id": "iv",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kutnohorští havíři • Staré pověsti české",
+      "file": "stare_povesti_ceske_027.html",
+      "words": 3462,
+      "chars": 20453,
+      "ideas": 89,
+      "role": "chapter",
+      "order": 23,
+      "prev": "stare_povesti_ceske_026.html",
+      "next": "stare_povesti_ceske_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kutnohorští havíři",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III.",
+              "id": "iii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bílá paní • Staré pověsti české",
+      "file": "stare_povesti_ceske_028.html",
+      "words": 2203,
+      "chars": 12976,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 24,
+      "prev": "stare_povesti_ceske_027.html",
+      "next": "stare_povesti_ceske_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bílá paní",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Růžový palouček • Staré pověsti české",
+      "file": "stare_povesti_ceske_029.html",
+      "words": 817,
+      "chars": 4849,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 25,
+      "prev": "stare_povesti_ceske_028.html",
+      "next": "stare_povesti_ceske_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Růžový palouček",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Boží soud • Staré pověsti české",
+      "file": "stare_povesti_ceske_030.html",
+      "words": 2362,
+      "chars": 14484,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 26,
+      "prev": "stare_povesti_ceske_029.html",
+      "next": "stare_povesti_ceske_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Boží soud",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III.",
+              "id": "iii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "O Jánošíkovi • Staré pověsti české",
+      "file": "stare_povesti_ceske_031.html",
+      "words": 3039,
+      "chars": 17643,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 27,
+      "prev": "stare_povesti_ceske_030.html",
+      "next": "stare_povesti_ceske_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O Jánošíkovi",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "III.",
+              "id": "iii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZE STAROBYLÝCH PROROCTVÍ • Staré pověsti české",
+      "file": "stare_povesti_ceske_032.html",
+      "words": 3,
+      "chars": 24,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 28,
+      "prev": "stare_povesti_ceske_031.html",
+      "next": "stare_povesti_ceske_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZE STAROBYLÝCH PROROCTVÍ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Úvod • Staré pověsti české",
+      "file": "stare_povesti_ceske_033.html",
+      "words": 363,
+      "chars": 2074,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 29,
+      "prev": "stare_povesti_ceske_032.html",
+      "next": "stare_povesti_ceske_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Úvod",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sibylina proroctví • Staré pověsti české",
+      "file": "stare_povesti_ceske_034.html",
+      "words": 2171,
+      "chars": 12487,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 30,
+      "prev": "stare_povesti_ceske_033.html",
+      "next": "stare_povesti_ceske_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sibylina proroctví",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "I.",
+              "id": "i",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "II.",
+              "id": "ii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Proroctví slepého mládence • Staré pověsti české",
+      "file": "stare_povesti_ceske_035.html",
+      "words": 1060,
+      "chars": 6203,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 31,
+      "prev": "stare_povesti_ceske_034.html",
+      "next": "stare_povesti_ceske_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Proroctví slepého mládence",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Proroctví Havlase Pavlaty • Staré pověsti české",
+      "file": "stare_povesti_ceske_036.html",
+      "words": 632,
+      "chars": 3533,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 32,
+      "prev": "stare_povesti_ceske_035.html",
+      "next": "stare_povesti_ceske_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Proroctví Havlase Pavlaty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Různá proroctví • Staré pověsti české",
+      "file": "stare_povesti_ceske_037.html",
+      "words": 680,
+      "chars": 3886,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 33,
+      "prev": "stare_povesti_ceske_036.html",
+      "next": "stare_povesti_ceske_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Různá proroctví",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Blaničtí rytíři • Staré pověsti české",
+      "file": "stare_povesti_ceske_038.html",
+      "words": 864,
+      "chars": 5053,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 34,
+      "prev": "stare_povesti_ceske_037.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Blaničtí rytíři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Staré pověsti české",
+      "file": "colophon.html",
+      "words": 158,
+      "chars": 1024,
+      "ideas": 26,
+      "role": "colophon",
+      "order": null,
+      "prev": "stare_povesti_ceske_038.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 77036,
+      "chars": 448471,
+      "ideas": 1925
+    },
+    "chapters": {
+      "words": 76873,
+      "chars": 447415,
+      "ideas": 1897
+    }
+  }
+}
