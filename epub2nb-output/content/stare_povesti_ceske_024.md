@@ -1,5 +1,6 @@
 ---
 title: Opatovický poklad
+contentType: prose
 ---
 
 ## I.

@@ -1,5 +1,6 @@
 ---
 title: Úvod
+contentType: prose
 ---
 
 _Když oko vaše se slzou zaleje,  

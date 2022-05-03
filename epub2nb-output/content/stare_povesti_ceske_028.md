@@ -1,5 +1,6 @@
 ---
 title: Bílá paní
+contentType: prose
 ---
 
 Den za dnem, léto za létem, a nakonec smrt. Někdy stojí dlouho při dveřích, až pojednou vkročí náhle, znenadání. Někdy však se ohlašuje, nežli života ukrátí. Taková bývala víra a jest, že se ukazují znamení nastávající smrti, že slýchati podivné zvuky, jež věští blížící se poslední chvíle.

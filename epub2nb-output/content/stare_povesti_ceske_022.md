@@ -1,5 +1,6 @@
 ---
 title: Praporec svatého Václava
+contentType: prose
 ---
 
 ## I.

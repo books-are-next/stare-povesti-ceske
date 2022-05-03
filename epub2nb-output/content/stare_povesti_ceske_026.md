@@ -1,5 +1,6 @@
 ---
 title: "O\_Žižkovi"
+contentType: prose
 ---
 
 ## I.

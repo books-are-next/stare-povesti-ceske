@@ -1,5 +1,6 @@
 ---
 title: Blaničtí rytíři
+contentType: prose
 ---
 
 Poslyšte poslední starou pověst a její proroctví, jež pověděl slepý mládenec králi Karlovi žehnané paměti.

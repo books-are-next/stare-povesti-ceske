@@ -1,5 +1,6 @@
 ---
 title: Libušina proroctví
+contentType: prose
 ---
 
 Tak uvedla Libuše Přemysla na knížecí stolec. A když bylo po svatbách, sestoupila s ním do hluboké síně pod zemí, ve skále vylámané, zavřené těžkým poklopem, hrubě okutým. V té kobce svítily se stěny i hrubé stoly podél zdi leskem různého kovu: železa a bronzu, stříbra i zlata, jak tam visely meče, bité[27](./resources/undefined) pásy, šišaté přílby, kroužkové brně, štíty krásně kované, jak tam ležely náramky, spínadla, prsteny i čelenky ze stříbrného drátu i šňůry korálů z jantaru, kamene, skla i kovu, kusy ryzího stříbra vedle velkých okřínů[28](./resources/undefined) plných rýžovaného zlata.

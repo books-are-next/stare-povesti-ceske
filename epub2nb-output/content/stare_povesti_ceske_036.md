@@ -1,5 +1,6 @@
 ---
 title: Proroctví Havlase Pavlaty
+contentType: prose
 ---
 
 Když Havlas Pavlata, soused v městečku Vysokém pod horami krkonošskými, měl umříti, bylo věku jeho sto patnácte let. Kol jeho smrtelného lože stanuli jeho synové a dcery, vnukové a pravnukové. A tu stařec, se všemi se žehnaje, pravil: „Synové, dcery mé a děti všechny a přátelé, již s vámi se na věky loučím, již se na věčnost ubírám. Dost jsem si na tom světě pobyl, sto patnácte let mi Pán Bůh dopřál. A byla za ten věk mnohá léta dobrá, úrodná, za našeho českého krále Vladislava, a zachovali jsme hojně grošů a zmrzlíků, i tolarů i krejcarů s korunami.

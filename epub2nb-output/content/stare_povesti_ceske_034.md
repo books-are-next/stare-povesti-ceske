@@ -1,5 +1,6 @@
 ---
 title: Sibylina proroctví
+contentType: prose
 ---
 
 ## I.

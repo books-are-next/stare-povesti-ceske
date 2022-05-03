@@ -1,5 +1,6 @@
 ---
 title: Lucká válka
+contentType: prose
 ---
 
 ## I.

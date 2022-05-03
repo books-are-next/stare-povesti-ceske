@@ -1,5 +1,6 @@
 ---
 title: "O\_Čechovi"
+contentType: prose
 ---
 
 ## I.

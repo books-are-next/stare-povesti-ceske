@@ -1,5 +1,6 @@
 ---
 title: Různá proroctví
+contentType: prose
 ---
 
 Ohromný balvan skalní trčel pod rozvalinou Potštýnského hradu z šumného proudu Divoké Orlice. Prostřed řeky čněl, ve stálém útoku pěnivých vln. Lid v okolí měřil jím v čas jarních přívalů nebo na podzim, jak stoupala voda. Někdy se kámen zarděl; to z důlku na jeho povrchu přelila se rudá voda a stékala, řinula jako potůčky krve po jeho bocích. A tu se lid lekal, neboť ta zardělá vláha věštila zlé doby, vojnu, hlad nebo mor.

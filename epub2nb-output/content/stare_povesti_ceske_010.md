@@ -1,5 +1,6 @@
 ---
 title: "O\_Bivoji"
+contentType: prose
 ---
 
 V Libušině sídle, mocném Vyšehradě, zelenala se zahrada, krásná různým stromovím, křovím i vzácným kvítím. Na div však byla bludivými stezkami; ty různo se vinuly, splétaly, rozcházely se a scházely kolem křovin, pod stromy, mezi květinami, trávníkem, všecky sobě podobné tak, že cizí z té čarovné zahrady, plné stejných míst a tajemných koutků, nenašel východu.

@@ -1,5 +1,6 @@
 ---
 title: "O\_Jánošíkovi"
+contentType: prose
 ---
 
 ## I.
