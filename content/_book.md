@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Staré pověsti české
@@ -13,6 +14,7 @@ meta:
   edition: beletrie
 readingOrder:
   - stare_povesti_ceske_002.html
+  - stare_povesti_ceske_005.html
   - stare_povesti_ceske_006.html
   - stare_povesti_ceske_007.html
   - stare_povesti_ceske_008.html
@@ -50,6 +52,9 @@ readingOrder:
 tocBase:
   - id: section-1
     children:
+      - link: stare_povesti_ceske_005.html
+        title: Věnování
+        hiddenTitle: true
       - link: stare_povesti_ceske_006.html
         title: STARÉ POVĚSTI ČESKÉ
         children:
@@ -75,6 +80,7 @@ tocBase:
             title: Lucká válka
           - link: stare_povesti_ceske_017.html
             title: "Durynk a\_Neklan"
+        listType: plain
       - link: stare_povesti_ceske_018.html
         title: POVĚSTI DOBY KŘESŤANSKÉ
         children:
@@ -104,6 +110,7 @@ tocBase:
             title: Boží soud
           - link: stare_povesti_ceske_031.html
             title: "O\_Jánošíkovi"
+        listType: plain
       - link: stare_povesti_ceske_032.html
         title: ZE STAROBYLÝCH PROROCTVÍ
         children:
@@ -119,7 +126,9 @@ tocBase:
             title: Různá proroctví
           - link: stare_povesti_ceske_038.html
             title: Blaničtí rytíři
+        listType: plain
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

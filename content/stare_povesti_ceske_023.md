@@ -1,5 +1,6 @@
 ---
 title: "O\_Bruncvíkovi"
+contentType: prose
 ---
 
 ## I.

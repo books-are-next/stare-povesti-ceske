@@ -1,5 +1,6 @@
 ---
 title: Kutnohorští havíři
+contentType: prose
 ---
 
 ## I.

@@ -1,5 +1,6 @@
 ---
 title: Dívčí válka
+contentType: prose
 ---
 
 ## I.

@@ -1,5 +1,6 @@
 ---
 title: "Durynk a\_Neklan"
+contentType: prose
 ---
 
 ## I.

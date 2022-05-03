@@ -1,5 +1,6 @@
 ---
 title: Úvod
+contentType: prose
 ---
 
 _Zřel jsem stíny zašlých věků_

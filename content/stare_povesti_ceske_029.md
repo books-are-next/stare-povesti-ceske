@@ -1,5 +1,6 @@
 ---
 title: Růžový palouček
+contentType: prose
 ---
 
 V zátiší mezi vlnícím se obilím, za nímž borové lesíky se černají, skryta je neveliká lučina, přes dvacet kroků zdélí, na patnácte kroků široká. Na jejích pokrajích bují nízké keříky červených, plných růží. Jsou zvláštního druhu. Jinde, v širém okolí jich není. V jiné půdě se nedaří. Přesadili je, neujaly se. Pak je chtěli vypleniti; vykopali je, a do roka se zelenaly zase. Bují dál a rozrůstají se do středu lučiny.

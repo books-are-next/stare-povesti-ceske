@@ -1,5 +1,6 @@
 ---
 title: Úvod
+contentType: prose
 ---
 
 _Myslel jsem na dny staré_

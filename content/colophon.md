@@ -30,14 +30,6 @@ Verze 1.0 z 18. 12. 2020.
 
 ***
 
-_Slovutnému pánu,  
-panu Františku Bartošovi,  
-na důkaz upřímné úcty  
-A. J._
-
-
-***
-
 **Alois Jirásek  
 Staré pověsti české**
 

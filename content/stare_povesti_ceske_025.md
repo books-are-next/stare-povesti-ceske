@@ -1,5 +1,6 @@
 ---
 title: "O\_staré Praze"
+contentType: prose
 ---
 
 _… Praha!  

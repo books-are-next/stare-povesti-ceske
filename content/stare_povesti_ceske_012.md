@@ -1,5 +1,6 @@
 ---
 title: "O\_Přemyslovi"
+contentType: prose
 ---
 
 Bylo za první jeseně, v slunečný, tichý den. Libušin kůň šel bystře, určitým krokem; nikdo z mužů ho nevedl, ni slovem neřídil. Šel jistě, tak jako by kráčel ke svému chlévu, až mužové žasli, až víry došlo domnění, tou cestou kůň že poprvé nejde, že kněžna jízdou příšernou často tu jezdila za večerního soumraku a zase než zapěly kury, že se vracela do svého dvora.

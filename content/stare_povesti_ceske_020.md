@@ -1,5 +1,6 @@
 ---
 title: "O\_králi Svatoplukovi"
+contentType: prose
 ---
 
 Lid v chrámě velehradském po kázání dopěl; poslední zvuky pobožné písně vyzněly, zraky všech se obracely k oltáři. Nastala chvíle svaté mše, kterouž měl sloužiti sám arcibiskup Metoděj. A slavně sloužiti; byl veliký svátek, zasvěcený den svatých apoštolů Petra a Pavla.

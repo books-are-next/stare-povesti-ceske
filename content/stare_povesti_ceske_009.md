@@ -1,5 +1,6 @@
 ---
 title: "O\_Krokovi a\_jeho dcerách"
+contentType: prose
 ---
 
 Dokud vojvoda Čech vládl, panovaly všude řád a kázeň. Lidé byli poctiví a mezi sebou věrní. U chlévů neměli závor a dveří nezamykali. Žádného zločinu tíže nevážili nežli krádeže a loupeže. Byl každý v rodu opatřen a chudým stal se jenom ten, jenž nechtěje pracovati, byl vyobcován.

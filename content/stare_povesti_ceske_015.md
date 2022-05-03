@@ -1,5 +1,6 @@
 ---
 title: "O\_Křesomyslu a\_Horymírovi"
+contentType: prose
 ---
 
 ## I.

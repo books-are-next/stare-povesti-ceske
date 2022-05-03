@@ -1,5 +1,6 @@
 ---
 title: Proroctví slepého mládence
+contentType: prose
 ---
 
 Když císař Karel IV., český král, vraceje se léta Páně 1362 z Německa přes Norimberk do své vlasti, přišel na pomezí v šumavských lesích, uslyšel, že ve vsi Koutu nedaleko Domažlic žije mládenec od narození slepý, zbožný a ducha prorockého, po všem okolí ode všech velice vážený.

@@ -1,5 +1,6 @@
 ---
 title: "O\_králi Ječmínkovi"
+contentType: prose
 ---
 
 ## I.
