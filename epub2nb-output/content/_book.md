@@ -13,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - stare_povesti_ceske_002.html
+  - promo.html
   - stare_povesti_ceske_005.html
   - stare_povesti_ceske_006.html
   - stare_povesti_ceske_007.html

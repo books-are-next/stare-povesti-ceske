@@ -1,21 +1,61 @@
 {
-  "author": "Alois Jirásek",
-  "edition": "beletrie",
-  "identifier": "jirasek-stare-povesti-ceske-fe0531c",
-  "languagecode": "cs",
-  "modified": "2021-10-25T15:03:10.289Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Staré pověsti české",
-  "revision": "fe0531c",
+  "author": "Alois Jirásek",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "jirasek-stare-povesti-ceske-3b36a4d",
+  "revision": "3b36a4d",
+  "readingOrder": [
+    "promo.html",
+    "stare_povesti_ceske_005.html",
+    "stare_povesti_ceske_006.html",
+    "stare_povesti_ceske_007.html",
+    "stare_povesti_ceske_008.html",
+    "stare_povesti_ceske_009.html",
+    "stare_povesti_ceske_010.html",
+    "stare_povesti_ceske_011.html",
+    "stare_povesti_ceske_012.html",
+    "stare_povesti_ceske_013.html",
+    "stare_povesti_ceske_014.html",
+    "stare_povesti_ceske_015.html",
+    "stare_povesti_ceske_016.html",
+    "stare_povesti_ceske_017.html",
+    "stare_povesti_ceske_018.html",
+    "stare_povesti_ceske_019.html",
+    "stare_povesti_ceske_020.html",
+    "stare_povesti_ceske_021.html",
+    "stare_povesti_ceske_022.html",
+    "stare_povesti_ceske_023.html",
+    "stare_povesti_ceske_024.html",
+    "stare_povesti_ceske_025.html",
+    "stare_povesti_ceske_026.html",
+    "stare_povesti_ceske_027.html",
+    "stare_povesti_ceske_028.html",
+    "stare_povesti_ceske_029.html",
+    "stare_povesti_ceske_030.html",
+    "stare_povesti_ceske_031.html",
+    "stare_povesti_ceske_032.html",
+    "stare_povesti_ceske_033.html",
+    "stare_povesti_ceske_034.html",
+    "stare_povesti_ceske_035.html",
+    "stare_povesti_ceske_036.html",
+    "stare_povesti_ceske_037.html",
+    "stare_povesti_ceske_038.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Tue May 03 2022 10:11:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651572717880
+    "date": "Thu May 12 2022 10:36:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351817155
   },
   "documents": [
     {
-      "title": "Staré pověsti české",
-      "file": "stare_povesti_ceske_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +63,7 @@
       "order": 0,
       "prev": null,
       "next": "stare_povesti_ceske_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Staré pověsti české",
@@ -41,7 +73,7 @@
       "ideas": 0,
       "role": "chapter",
       "order": 1,
-      "prev": "stare_povesti_ceske_002.html",
+      "prev": "promo.html",
       "next": "stare_povesti_ceske_006.html",
       "toc": [
         {
@@ -54,7 +86,7 @@
       ]
     },
     {
-      "title": "STARÉ POVĚSTI ČESKÉ • Staré pověsti české",
+      "title": "STARÉ POVĚSTI ČESKÉ",
       "file": "stare_povesti_ceske_006.html",
       "words": 3,
       "chars": 19,
@@ -74,7 +106,7 @@
       ]
     },
     {
-      "title": "Úvod • Staré pověsti české",
+      "title": "Úvod",
       "file": "stare_povesti_ceske_007.html",
       "words": 505,
       "chars": 2981,
@@ -94,7 +126,7 @@
       ]
     },
     {
-      "title": "O Čechovi • Staré pověsti české",
+      "title": "O Čechovi",
       "file": "stare_povesti_ceske_008.html",
       "words": 2637,
       "chars": 15538,
@@ -136,7 +168,7 @@
       ]
     },
     {
-      "title": "O Krokovi a jeho dcerách • Staré pověsti české",
+      "title": "O Krokovi a jeho dcerách",
       "file": "stare_povesti_ceske_009.html",
       "words": 1391,
       "chars": 8032,
@@ -156,7 +188,7 @@
       ]
     },
     {
-      "title": "O Bivoji • Staré pověsti české",
+      "title": "O Bivoji",
       "file": "stare_povesti_ceske_010.html",
       "words": 1849,
       "chars": 10728,
@@ -176,7 +208,7 @@
       ]
     },
     {
-      "title": "O Libuši • Staré pověsti české",
+      "title": "O Libuši",
       "file": "stare_povesti_ceske_011.html",
       "words": 1584,
       "chars": 9193,
@@ -196,7 +228,7 @@
       ]
     },
     {
-      "title": "O Přemyslovi • Staré pověsti české",
+      "title": "O Přemyslovi",
       "file": "stare_povesti_ceske_012.html",
       "words": 1297,
       "chars": 7455,
@@ -216,7 +248,7 @@
       ]
     },
     {
-      "title": "Libušina proroctví • Staré pověsti české",
+      "title": "Libušina proroctví",
       "file": "stare_povesti_ceske_013.html",
       "words": 2066,
       "chars": 11997,
@@ -236,7 +268,7 @@
       ]
     },
     {
-      "title": "Dívčí válka • Staré pověsti české",
+      "title": "Dívčí válka",
       "file": "stare_povesti_ceske_014.html",
       "words": 2309,
       "chars": 13101,
@@ -285,7 +317,7 @@
       ]
     },
     {
-      "title": "O Křesomyslu a Horymírovi • Staré pověsti české",
+      "title": "O Křesomyslu a Horymírovi",
       "file": "stare_povesti_ceske_015.html",
       "words": 1712,
       "chars": 10230,
@@ -320,7 +352,7 @@
       ]
     },
     {
-      "title": "Lucká válka • Staré pověsti české",
+      "title": "Lucká válka",
       "file": "stare_povesti_ceske_016.html",
       "words": 4157,
       "chars": 24056,
@@ -376,7 +408,7 @@
       ]
     },
     {
-      "title": "Durynk a Neklan • Staré pověsti české",
+      "title": "Durynk a Neklan",
       "file": "stare_povesti_ceske_017.html",
       "words": 1566,
       "chars": 9193,
@@ -418,7 +450,7 @@
       ]
     },
     {
-      "title": "POVĚSTI DOBY KŘESŤANSKÉ • Staré pověsti české",
+      "title": "POVĚSTI DOBY KŘESŤANSKÉ",
       "file": "stare_povesti_ceske_018.html",
       "words": 3,
       "chars": 23,
@@ -438,7 +470,7 @@
       ]
     },
     {
-      "title": "Úvod • Staré pověsti české",
+      "title": "Úvod",
       "file": "stare_povesti_ceske_019.html",
       "words": 765,
       "chars": 4433,
@@ -458,7 +490,7 @@
       ]
     },
     {
-      "title": "O králi Svatoplukovi • Staré pověsti české",
+      "title": "O králi Svatoplukovi",
       "file": "stare_povesti_ceske_020.html",
       "words": 1214,
       "chars": 7053,
@@ -478,7 +510,7 @@
       ]
     },
     {
-      "title": "O králi Ječmínkovi • Staré pověsti české",
+      "title": "O králi Ječmínkovi",
       "file": "stare_povesti_ceske_021.html",
       "words": 1736,
       "chars": 10156,
@@ -513,7 +545,7 @@
       ]
     },
     {
-      "title": "Praporec svatého Václava • Staré pověsti české",
+      "title": "Praporec svatého Václava",
       "file": "stare_povesti_ceske_022.html",
       "words": 3728,
       "chars": 21796,
@@ -562,7 +594,7 @@
       ]
     },
     {
-      "title": "O Bruncvíkovi • Staré pověsti české",
+      "title": "O Bruncvíkovi",
       "file": "stare_povesti_ceske_023.html",
       "words": 4534,
       "chars": 25541,
@@ -618,7 +650,7 @@
       ]
     },
     {
-      "title": "Opatovický poklad • Staré pověsti české",
+      "title": "Opatovický poklad",
       "file": "stare_povesti_ceske_024.html",
       "words": 3166,
       "chars": 18370,
@@ -660,7 +692,7 @@
       ]
     },
     {
-      "title": "O staré Praze • Staré pověsti české",
+      "title": "O staré Praze",
       "file": "stare_povesti_ceske_025.html",
       "words": 18141,
       "chars": 105775,
@@ -759,7 +791,7 @@
       ]
     },
     {
-      "title": "O Žižkovi • Staré pověsti české",
+      "title": "O Žižkovi",
       "file": "stare_povesti_ceske_026.html",
       "words": 4854,
       "chars": 28080,
@@ -808,7 +840,7 @@
       ]
     },
     {
-      "title": "Kutnohorští havíři • Staré pověsti české",
+      "title": "Kutnohorští havíři",
       "file": "stare_povesti_ceske_027.html",
       "words": 3462,
       "chars": 20453,
@@ -850,7 +882,7 @@
       ]
     },
     {
-      "title": "Bílá paní • Staré pověsti české",
+      "title": "Bílá paní",
       "file": "stare_povesti_ceske_028.html",
       "words": 2203,
       "chars": 12976,
@@ -870,7 +902,7 @@
       ]
     },
     {
-      "title": "Růžový palouček • Staré pověsti české",
+      "title": "Růžový palouček",
       "file": "stare_povesti_ceske_029.html",
       "words": 817,
       "chars": 4849,
@@ -890,7 +922,7 @@
       ]
     },
     {
-      "title": "Boží soud • Staré pověsti české",
+      "title": "Boží soud",
       "file": "stare_povesti_ceske_030.html",
       "words": 2362,
       "chars": 14484,
@@ -932,7 +964,7 @@
       ]
     },
     {
-      "title": "O Jánošíkovi • Staré pověsti české",
+      "title": "O Jánošíkovi",
       "file": "stare_povesti_ceske_031.html",
       "words": 3039,
       "chars": 17643,
@@ -974,7 +1006,7 @@
       ]
     },
     {
-      "title": "ZE STAROBYLÝCH PROROCTVÍ • Staré pověsti české",
+      "title": "ZE STAROBYLÝCH PROROCTVÍ",
       "file": "stare_povesti_ceske_032.html",
       "words": 3,
       "chars": 24,
@@ -994,7 +1026,7 @@
       ]
     },
     {
-      "title": "Úvod • Staré pověsti české",
+      "title": "Úvod",
       "file": "stare_povesti_ceske_033.html",
       "words": 363,
       "chars": 2074,
@@ -1014,7 +1046,7 @@
       ]
     },
     {
-      "title": "Sibylina proroctví • Staré pověsti české",
+      "title": "Sibylina proroctví",
       "file": "stare_povesti_ceske_034.html",
       "words": 2171,
       "chars": 12487,
@@ -1049,7 +1081,7 @@
       ]
     },
     {
-      "title": "Proroctví slepého mládence • Staré pověsti české",
+      "title": "Proroctví slepého mládence",
       "file": "stare_povesti_ceske_035.html",
       "words": 1060,
       "chars": 6203,
@@ -1069,7 +1101,7 @@
       ]
     },
     {
-      "title": "Proroctví Havlase Pavlaty • Staré pověsti české",
+      "title": "Proroctví Havlase Pavlaty",
       "file": "stare_povesti_ceske_036.html",
       "words": 632,
       "chars": 3533,
@@ -1089,7 +1121,7 @@
       ]
     },
     {
-      "title": "Různá proroctví • Staré pověsti české",
+      "title": "Různá proroctví",
       "file": "stare_povesti_ceske_037.html",
       "words": 680,
       "chars": 3886,
@@ -1109,7 +1141,7 @@
       ]
     },
     {
-      "title": "Blaničtí rytíři • Staré pověsti české",
+      "title": "Blaničtí rytíři",
       "file": "stare_povesti_ceske_038.html",
       "words": 864,
       "chars": 5053,
@@ -1129,11 +1161,11 @@
       ]
     },
     {
-      "title": "Tiráž • Staré pověsti české",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 147,
-      "chars": 957,
-      "ideas": 22,
+      "words": 128,
+      "chars": 813,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "stare_povesti_ceske_038.html",
@@ -1151,9 +1183,9 @@
   ],
   "totals": {
     "all": {
-      "words": 77027,
-      "chars": 448415,
-      "ideas": 1923
+      "words": 77008,
+      "chars": 448271,
+      "ideas": 1918
     },
     "chapters": {
       "words": 76873,

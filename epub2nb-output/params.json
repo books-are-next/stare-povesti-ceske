@@ -48,7 +48,7 @@
             "filename": "stare_povesti_ceske_002.md",
             "xhtml": "stare_povesti_ceske_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -755,6 +755,6 @@
       "user": "books-are-next",
       "repo": "stare-povesti-ceske"
     },
-    "generatedAt": 1651572672304
+    "generatedAt": 1652351333087
   }
 }
