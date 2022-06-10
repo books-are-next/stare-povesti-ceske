@@ -3,6 +3,8 @@ title: Dívčí válka
 contentType: prose
 ---
 
+<section>
+
 ## I.
 
 Když Libuše odešla do návi[30](./resources/undefined), viděly dívky z její družiny, že nejsou již u takové vážnosti, jakou mívaly za živobytí své paní. Těžko to nesly, hořce vzpomínaly těch dob, kdy jejich kněžna samojediná vládla zemi i mužům všem, a hněv se jim rozjitřil, když nejeden z mužů řekl jim s úsměškem:
@@ -116,3 +118,5 @@ I nastaly řád a právo, jak bývaly, a Přemysl kníže vládl sám, bez ž
 [30](./resources/undefined) Onen svět, záhrobí.
 
 [31](./resources/undefined) Doprovod.
+
+</section>

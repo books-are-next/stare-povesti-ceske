@@ -3,6 +3,8 @@ title: "O\_staré Praze"
 contentType: prose
 ---
 
+<section>
+
 _… Praha!  
 To jméno samo zpěv. Ten pouhý zvuk  
 úchvatně do strun české duše sahá  
@@ -825,3 +827,5 @@ Buď zdráva, matičko! Zlatá, slovanská Praho!
 [67](./resources/undefined) Lešení, stupínek.
 
 [68](./resources/undefined) Půda pod střechou.
+
+</section>

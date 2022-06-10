@@ -3,6 +3,8 @@ title: Lucká válka
 contentType: prose
 ---
 
+<section>
+
 ## I.
 
 Když kníže Křesomysl odešel na věčnost, nastolen na Vyšehradě Neklan. Ten vládl všemu českému plemeni moudře a mírně. S Lito­měřici a Lemuzi měl pokoj a lásku a jeho slovo a vůle mnoho vážily u jejich vojvod. Na půlnoc však a na západ měl zlého souseda, to Vlastislava vojvodu, jenž vládl v končinách hrdých Lučanů při Oharce a horní Mži. Neklan byl mírný a rozšafný, Vlastislav divoký a vášnivý. Neklan bázlivého srdce, Vlastislav bojechtivý. Nic nedbal dobré sousedské vůle, nic práva ani spravedlnosti a krev proléval bez milosrdenství. Své sousedy tiskl krutě a táhl nejednou po zemi Lemuzů, Litoměřiců i po zemi Čechů se svou divokou družinou a bral daň na všech krajinách.
@@ -212,3 +214,5 @@ A Straba poručiv, aby mrtvolu vynesli ven za dědinu, zamračen, jakoby v dě
 [35](./resources/undefined) Pustošení, plenění, drancování, útisk.
 
 [36](./resources/undefined) Prošívaný kabát, někdy pro zpevnění napuštěný smolou.
+
+</section>

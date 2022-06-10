@@ -3,6 +3,8 @@ title: "O\_Bruncvíkovi"
 contentType: prose
 ---
 
+<section>
+
 ## I.
 
 Když zemřel kníže Žibřid, tehdy Bruncvík, jeho syn, uvázal se u vládu nad českou zemí. Mladý kníže byl šlechetný a ke všem spravedlivý. Ve své říši však dlouho nezůstal. Maje stále na mysli hrdinství nebožtíka svého otce, jeho čest a slavné jméno, rozhodl se v třetím roce svého panování, že se vypraví do světa hledat cti svému jazyku.
@@ -238,3 +240,5 @@ Tak se stane, a bude svatý pokoj v naší vlasti.
 [47](./resources/undefined) Ohrada.
 
 [48](./resources/undefined) Prostřené.
+
+</section>

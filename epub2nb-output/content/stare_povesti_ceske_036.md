@@ -3,6 +3,8 @@ title: Proroctví Havlase Pavlaty
 contentType: prose
 ---
 
+<section>
+
 Když Havlas Pavlata, soused v městečku Vysokém pod horami krkonošskými, měl umříti, bylo věku jeho sto patnácte let. Kol jeho smrtelného lože stanuli jeho synové a dcery, vnukové a pravnukové. A tu stařec, se všemi se žehnaje, pravil: „Synové, dcery mé a děti všechny a přátelé, již s vámi se na věky loučím, již se na věčnost ubírám. Dost jsem si na tom světě pobyl, sto patnácte let mi Pán Bůh dopřál. A byla za ten věk mnohá léta dobrá, úrodná, za našeho českého krále Vladislava, a zachovali jsme hojně grošů a zmrzlíků, i tolarů i krejcarů s korunami.
 
 I vy, synové, ještě nějaký tolar zachováte. Než potom bude veliký mor a drahota neslýchaná. Nežli mine padesát let, přijde nová morová rána a tak zlá, že i po horách lidé vymřou a vlci budou choditi do vsí a do oken po chalupách se dívat a výt, jako by již nebylo ani živé duše.
@@ -24,3 +26,5 @@ Těmi pokutami a tou zkázou budou Čechové sami vinni, neb divná proměna v�
 Po Ferdinandovi hned začnou se ta těžká léta, i za něho již. Za krále Matyáše a za krále Fridricha bude nejhůř a lidé si budou toužebně přáti, aby raději na světě nebyli.
 
 Ty vojny potrvají dotud, dokud nebude krále, jehož jméno bude Anbestas. Tu pak nastanou lepší časy a budou tomu králi říkati dvoje jméno: bude dobrý a pobožný král.“ – To o budoucím protivenství, roztržkách a králích pověděl Havlas Pavlata.
+
+</section>

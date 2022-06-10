@@ -3,6 +3,8 @@ title: Úvod
 contentType: prose
 ---
 
+<section>
+
 _Když oko vaše se slzou zaleje,  
 když na vás padne těžký čas,  
 tehda přináším větvici naděje,  
@@ -29,3 +31,5 @@ Hlas prorocký od stadického pluhu i věštby, jež zjevila Libuše kněžna v
 Slyšte ta proroctví i ta, kteráž jen v některých končinách vytryskla jako živý pramen ze zprahlých skal. Pokolení za pokolením chodila sem, aby rosou věští útěchy občerstvila mysl vadnoucí, prahnoucí v úpalu těžkých těch dob.
 
 Slyšte ty staré věštby!
+
+</section>

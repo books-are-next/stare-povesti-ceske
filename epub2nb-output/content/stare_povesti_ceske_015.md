@@ -3,6 +3,8 @@ title: "O\_Křesomyslu a\_Horymírovi"
 contentType: prose
 ---
 
+<section>
+
 ## I.
 
 Když byl již Přemysl vysoko v letech, usnul snem smrti a duše jeho odešla k otcům.
@@ -114,3 +116,5 @@ Navrátiv se do Neumětel, přímo chvátal ke svému milému koni. Ten leže, n
 Horymír velmi zarmoucen všecko slíbil a těžko se s Šemíkem loučil. A když milý kůň zdechl, stalo se, jak byl žádal.
 
 Horymír ho zahrabal v dědině, a po dnešní den ukazují tam místo kamenem označené, kde věrný Šemík byl pochován.
+
+</section>

@@ -3,6 +3,8 @@ title: Úvod
 contentType: prose
 ---
 
+<section>
+
 _Myslel jsem na dny staré_
 
 — Žalm 76. (77.)
@@ -40,3 +42,5 @@ Aj, počneme o nich tu pověst.
 * * *
 
 [1](./resources/undefined) Močál, bažinatá půda.
+
+</section>

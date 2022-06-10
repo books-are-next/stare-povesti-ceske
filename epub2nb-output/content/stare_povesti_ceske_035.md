@@ -3,6 +3,8 @@ title: Proroctví slepého mládence
 contentType: prose
 ---
 
+<section>
+
 Když císař Karel IV., český král, vraceje se léta Páně 1362 z Německa přes Norimberk do své vlasti, přišel na pomezí v šumavských lesích, uslyšel, že ve vsi Koutu nedaleko Domažlic žije mládenec od narození slepý, zbožný a ducha prorockého, po všem okolí ode všech velice vážený.
 
 I zajel si Karel IV. do té vsi, a když přišel k chaloupce slepého mládence, sestoupil z koně a vešel do jizby, kdež zastal slepého mládence, an sedí za stolem.
@@ -63,7 +65,9 @@ _M._ Maxmilián, Čech.
 
 _R._ Rudolf, Maxmiliánův syn.“
 
-  
+</section>
+
+<section>
 
 „A potom?“ ptal se Karel IV., když slepý mládenec přestal.
 
@@ -100,3 +104,5 @@ A vstav, vzal slepého mládence za ruku a řekl jemu:
 „Pojď se mnou do Prahy, na můj hrad. Tam budeš dobře opatřen.“
 
 Mládenec tomu docela přivolil a jel s králem Karlem do Prahy, kdež při jeho dvoře zůstal až do smrti.
+
+</section>

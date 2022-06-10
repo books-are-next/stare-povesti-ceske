@@ -3,6 +3,8 @@ title: "O\_Libuši"
 contentType: prose
 ---
 
+<section>
+
 Jako kdysi ke Krokovi, tak chodili také k Libuši zblízka i zdaleka lidé ve svých rozepřích. K její moudrosti se utíkali žádat za nález. A ona, spravedlivě soudíc, činila moudrá narovnání mezi odpornými stranami. V ten čas se dva sousedé, oba starostové rodů, svadili o meze a role. Svadili se prudce, potupili, vyčetli si mateř a dědy, až mezi nimi i jejich rody povadla dobrá vůle sousedská do kořene a vybujelo záští.
 
 Žádný nechtěl v tom sporu povoliti, každý byl jako z křemene, a jakmile nastal čas, kdy kněžna zasedala na soudu, chvátali oba na Vyšehrad.
@@ -76,3 +78,5 @@ Jak mu na sedlo naložili sukni, plášť a převlaky, vykročil a vladycké p
 [23](./resources/undefined) Huňatý.
 
 [24](./resources/undefined) Náprsní řemení pro koně.
+
+</section>

@@ -3,6 +3,8 @@ title: "O\_Přemyslovi"
 contentType: prose
 ---
 
+<section>
+
 Bylo za první jeseně, v slunečný, tichý den. Libušin kůň šel bystře, určitým krokem; nikdo z mužů ho nevedl, ni slovem neřídil. Šel jistě, tak jako by kráčel ke svému chlévu, až mužové žasli, až víry došlo domnění, tou cestou kůň že poprvé nejde, že kněžna jízdou příšernou často tu jezdila za večerního soumraku a zase než zapěly kury, že se vracela do svého dvora.
 
 Ani krok nevybočil bělouš z cesty. Nic ho nesvedlo z jeho dráhy. Nejednou minul i stádo koní se pasoucích; jejich veselý řehot ho vítal a vábil. Než bělouš kráčel dál, ni vpravo, ni vlevo zraků neobraceje. Když pak v širém poli zasedli pod planou hruškou nebo ve slabém stínu rudokmenné sosny, aby si odpočinuli, kůň kněžnin, tiše postáv, sám první zase vykročil na další cestu.
@@ -51,32 +53,46 @@ I zaradovali se všichni, jak ho zhlédli, sličného, statného muže. Nejvíc
 
 Jedli hojná jídla a pili hojně medoviny, pili a pěli nebo naslouchali pěvcům, jak hráli na struny a zpívali staré zpěvy o hrdinech a bojích zašlých dob. Slavili volbu, slavili sňatek za dne, slavili jej dlouho do noci za svitů ohňů a smolnic. A když ohně pohasly a nad lesy se již zardívalo ranní zoře, ještě zvučel Vyšehrad, ještě zvučelo podhradí hlučným veselím a ranní vítr nesl jeho ohlas za řeku ke tmavým lesům stopeným v bělavé mlze.
 
-  
+</section>
+
+<section>
 
 _Potomci rodu Stadiců žili v Stadicích až do času krále Václava I., jenž prý stydě se za svůj selský původ, tak Dalimil vypravuje, dal „rod svůj ze Stadic vyhnati a ves tu Němcům dáti“. Ještě po dnešní den zachovala se ve vsi, kdysi zplna německé, česká jména: role nad polem Přemyslovým slula „popluží“ a vodě vesnicí tekoucí „potok“ říkali. V Stadicích byl od nepaměti svobodný dvůr, majetek královský. Jan Lucemburský jej zastavil, Karel IV. pak zachoval z něho sobě a budoucím králům českým takzvané Přemyslovo pole a nařídil, aby majetníci Stadic odváděli každého roku i o korunovaci ke dvoru královskému do Prahy ořechy z ořeší Přemyslova. Pole Přemyslovo neboli „Královské“ prostírá se na jihozápad od Stadic při cestě trmicko-hliňanské. Ještě počátkem osmnáctého století leželo ladem. Domníval se lid, že osení na něm nebylo požehnáno. Nyní tu stojí pomník, r. 1841 hrabětem Ervínem Nosticem zbudovaný. Na pomníku čte se nápis:_
 
-  
+</section>
+
+<section>
 
 _ZDE OD PLUHU PŘEMYSL K WÉWODSTWJ POVOLÁN._
 
 _WZDĚLANÝ MDCCCXLI._
 
-  
+</section>
+
+<section>
 
 _K němu r. 1945, po počeštění vsi Stadic, vtesán byl i nápis:_
 
-  
+</section>
+
+<section>
 
 _VLÁDA VRÁTILA SE DO RUKOU TVÝCH, Ó LIDE ČESKÝ / 1945_
 
-  
+</section>
+
+<section>
 
 _Pomník ten se vypíná na místě, kde někdy se zelenalo Přemyslovo ořeší. Bývalo dřevěným plotem ohrazeno. Na tom ořeší rostly velké ořechy, z nichž prý žádný nebyl ani prázdný, ani červivý. Asi před padesáti roky keř uschl, ale odnože z něho dařily se na zahrádce jednoho mlýna při řece Bělině. Povodeň však r. 1845 tu zahrádku zničila a také lískový keř. Východně od Stadic ukazuje se skála, v níž prý Přemyslovi voli zmizeli. Za řekou pak asi tři sta kroků severně ode vsi je pod vysokými lipami takzvaná Přemyslova neboli Královská studánka._
 
-  
+</section>
+
+<section>
 
 * * *
 
 [25](./resources/undefined) Bodec k pobízení dobytka.
 
 [26](./resources/undefined) Náčiní na odstraňování hlíny z pluhu.
+
+</section>

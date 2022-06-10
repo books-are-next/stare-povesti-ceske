@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jirasek-stare-povesti-ceske-3b36a4d",
-  "revision": "3b36a4d",
+  "identifier": "jirasek-stare-povesti-ceske-cc5dd7d",
+  "revision": "cc5dd7d",
   "readingOrder": [
     "promo.html",
     "stare_povesti_ceske_005.html",
@@ -49,8 +49,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:36:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351817155
+    "date": "Fri Jun 10 2022 17:56:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883784351
   },
   "documents": [
     {
@@ -68,9 +68,9 @@
     {
       "title": "Staré pověsti české",
       "file": "stare_povesti_ceske_005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 11,
+      "chars": 67,
+      "ideas": 4,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -1163,9 +1163,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 128,
-      "chars": 813,
-      "ideas": 17,
+      "words": 87,
+      "chars": 585,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "stare_povesti_ceske_038.html",
@@ -1183,14 +1183,14 @@
   ],
   "totals": {
     "all": {
-      "words": 77008,
-      "chars": 448271,
-      "ideas": 1918
+      "words": 76978,
+      "chars": 448110,
+      "ideas": 1912
     },
     "chapters": {
-      "words": 76873,
-      "chars": 447415,
-      "ideas": 1897
+      "words": 76884,
+      "chars": 447482,
+      "ideas": 1901
     }
   }
 }

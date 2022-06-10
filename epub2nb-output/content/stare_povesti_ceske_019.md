@@ -3,6 +3,8 @@ title: Úvod
 contentType: prose
 ---
 
+<section>
+
 _Zřel jsem stíny zašlých věků_
 
 — J. Vrchlický
@@ -56,3 +58,5 @@ Aj, počneme dávné ty zvěsti.
 * * *
 
 [37](./resources/undefined) Temnota.
+
+</section>

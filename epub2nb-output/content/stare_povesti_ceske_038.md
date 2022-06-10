@@ -3,6 +3,8 @@ title: Blaničtí rytíři
 contentType: prose
 ---
 
+<section>
+
 Poslyšte poslední starou pověst a její proroctví, jež pověděl slepý mládenec králi Karlovi žehnané paměti.
 
 Hle, Blaník hora v hávu tmavého lesa, jenž splývá jí od temene po všech bocích. Vážně, až zachmuřeně zhlíží na krajinu od světa odlehlou, na její chlumy a pláně málo úrodné. Široko daleko je patrno jeho témě a v okolí často k němu pátravě vzhlížejí. Věští chmurami zahalené zlé povětří, promodrává-li se jasně, slibuje jistý a tvrdý čas.
@@ -35,10 +37,14 @@ Nepřítel, náhlým strachem obklíčen a jako zmámen, bude k Praze prchat a
 
 Pak nastane svatý pokoj a země česká si odpočine. Mnoho Čechů sic za těch bojů zahyne, ale ti, kteří zůstanou, budou mužové celí. Poznajíce chyby svých předků i své, budou pevně státi a nepřítel jimi o zem neudeří.
 
-  
+</section>
+
+<section>
 
 Toto jsou pověsti dávných let a stará proroctví o zemi naší.
 
 Šťastná buď, ó vlasti milá, siliž se pokolení tvé, ať přemáhá všechna protivenství, ať zachová svaté dědictví: mateřský jazyk i staré, dobré právo své.
 
 Mohutniž pokolení tvé prací a nadšením, aby pevno bylo jako skály a vždy plno síly.
+
+</section>

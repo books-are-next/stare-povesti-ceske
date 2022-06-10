@@ -3,6 +3,8 @@ title: Sibylina proroctví
 contentType: prose
 ---
 
+<section>
+
 ## I.
 
 Sibyla, královna ze Sáby, panna mysli důvtipné a osvícené, uslyševši mnoho mluviti, jak je král Šalamoun na div moudrý, zatoužila v srdci po něm a chtěla ho vidět a slyšet. Protož ustanovila se na tom, že se vydá za ním do Jeruzaléma.
@@ -110,3 +112,5 @@ A král Šalamoun, moudrý a zkušený, pokořil se mladé královně, stojíc
 [94](./resources/undefined) Stará dutá míra, cca 1,4 l.
 
 [95](./resources/undefined) Stará váhová jednotka, cca 0,5 kg.
+
+</section>

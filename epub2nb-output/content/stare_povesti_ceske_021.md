@@ -3,6 +3,8 @@ title: "O\_králi Ječmínkovi"
 contentType: prose
 ---
 
+<section>
+
 ## I.
 
 Když Svatopluk král tak beze stopy zmizel, pomýšleli na Moravě zvoliti sobě jiného panovníka. I hledali, kdož by vladařského stolce byl nejvhodnější.
@@ -74,3 +76,5 @@ Nejednou je potkal, když šli se zbraní chytat ho a vázat. A on šel vedle 
 [40](./resources/undefined) Pokrývka.
 
 [41](./resources/undefined) Proklínat, zatracovat, nadávat.
+
+</section>

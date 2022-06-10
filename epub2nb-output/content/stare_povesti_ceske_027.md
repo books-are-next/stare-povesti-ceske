@@ -3,23 +3,33 @@ title: Kutnohorští havíři
 contentType: prose
 ---
 
+<section>
+
 ## I.
 
 Za Žižky se dostala Kutná Hora do české správy. Tenkráte prý tam ve Vlašském dvoře razili groše s českým lvem a nápisem na jedné straně:
 
-  
+</section>
+
+<section>
 
 _„Groš českého lidu.“_
 
-  
+</section>
+
+<section>
 
 A na druhé straně s obrazem archy, kalicha a s nápisem:
 
-  
+</section>
+
+<section>
 
 _„Pro slávu Boží bojujícího.“_
 
-  
+</section>
+
+<section>
 
 Tehdá se nanovo naplňovalo Libušino proroctví o Horách: Sešly po druhé a po druhé se opět povznesly. To zvláště za Jiříka blahé paměti, pak za krále Vladislava Jagellonce.
 
@@ -188,3 +198,5 @@ Podobné žaludy nerostly nikde, na žádném dubě vyjma dub u vsi Kluku, kole
 [77](./resources/undefined) Popraviště, kde se stínalo.
 
 [78](./resources/undefined) Vykonávat, vyřizovat.
+
+</section>
