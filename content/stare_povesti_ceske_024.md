@@ -3,6 +3,8 @@ title: Opatovický poklad
 contentType: prose
 ---
 
+<section>
+
 ## I.
 
 Mladý klerik řádu a zákona sv. Benedikta v opatovickém klášteře přišel před samým polednem opatu svému oznámit, že té chvíle přijel znenadání host, pán jakýsi, patrně urozený, s dvěma jízdnými služebníky, že u brány v předním dvoře slezli, a ten pán že zašel rovnou do kostela.
@@ -176,3 +178,5 @@ Nikdo jim nebránil, a tak když se připravili, potopili se do Labe v těch m
 Druhové jejich se za pokladem do řeky již neodvážili. Vsedli na koně a odejeli s nepořízenou.
 
 A tak poklad opatovického kláštera leží podnes hluboko v zemi a Labe, proudíc přes něj, dobře ho střeží.
+
+</section>

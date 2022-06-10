@@ -3,6 +3,8 @@ title: Boží soud
 contentType: prose
 ---
 
+<section>
+
 ## I.
 
 Důležitou cestu, vedoucí šumavským hvozdem od Domažlic do Němec, opatrovali od nepaměti Chodové, lid jadrný, otužilý, mysli udatné. Vesnice jejich: Lhota, Pocínovice, Kýčov, Medákov, Tlumačov a Stráž, Újezd, Draženov, Postřekov, Chodov a nynější městys Klenč, někdy na samém kraji královských pomezných lesů, rozkládají se v nížině i na výšinách a jsou roztroušeny pruhem asi šesti mil dlouhým podél hranic při důležitých stezkách a přechodech.
@@ -106,3 +108,5 @@ Statečný Jan Kozina zůstal v žehnané paměti všech svých krajanů, kteř
 * * *
 
 [80](./resources/undefined) Odvolací soud.
+
+</section>

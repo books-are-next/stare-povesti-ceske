@@ -3,6 +3,8 @@ title: "O\_Bivoji"
 contentType: prose
 ---
 
+<section>
+
 V Libušině sídle, mocném Vyšehradě, zelenala se zahrada, krásná různým stromovím, křovím i vzácným kvítím. Na div však byla bludivými stezkami; ty různo se vinuly, splétaly, rozcházely se a scházely kolem křovin, pod stromy, mezi květinami, trávníkem, všecky sobě podobné tak, že cizí z té čarovné zahrady, plné stejných míst a tajemných koutků, nenašel východu.
 
 V této zahradě Libuše ráda meškala se svými dívkami, častěji ještě sama, ráno, kdy se na slunci třpytil rosou každý květ a každý list, i podvečer, kdy kmeny stromů planuly růžovou září západu nebo kdy pak v soumrak zčernaly jejich koruny a křoví, kdy bělavé stezky se tratily v hlubokých stínech.
@@ -78,3 +80,5 @@ V bráně se zpět ohlédl, on a všichni se pak ohlíželi vzhůru po bráně
 [16](./resources/undefined) Za potravou, výkrm (ožírání).
 
 [17](./resources/undefined) Kovová ozdoba vypouklého tvaru.
+
+</section>

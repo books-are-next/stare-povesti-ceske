@@ -3,6 +3,8 @@ title: Růžový palouček
 contentType: prose
 ---
 
+<section>
+
 V zátiší mezi vlnícím se obilím, za nímž borové lesíky se černají, skryta je neveliká lučina, přes dvacet kroků zdélí, na patnácte kroků široká. Na jejích pokrajích bují nízké keříky červených, plných růží. Jsou zvláštního druhu. Jinde, v širém okolí jich není. V jiné půdě se nedaří. Přesadili je, neujaly se. Pak je chtěli vypleniti; vykopali je, a do roka se zelenaly zase. Bují dál a rozrůstají se do středu lučiny.
 
 Po nich má to osamělé místo, posvěcené žalem zbožných předků, své jméno. To je růžový palouček na výšině opodál vesnice Morašic, dobrou hodinu cesty od Litomyšle na západ.
@@ -39,19 +41,27 @@ A pak sejde se tu sedm králů a ti smluví věčný mír. Tu mezi růžemi, n
 
 Růže na paloučku kvetou, obilí po lánech kolem zvolna se vlní, šustí, „ovečky“ se po něm míhají. Ticho tu, milo, ale bezděky vzpomeneš starých předků, jaký žal sevřel jejich srdce, když nastala hořká chvíle loučení, když slzami skrápěli rodnou půdu, a živěji porozumíš prostým veršům českého exulanta:
 
-  
+</section>
+
+<section>
 
 _Bůh ti žehnej, Česká země!  
 S tebou se smutně loučím…_
 
-  
+</section>
+
+<section>
 
 A zrakům mihne se sbor ubohých vystěhovalců, jak se na cestě do vyhnanství zastavují, slzavým okem zpět hledí, na požehnaný, milý kraj, kde „byly jejich domy
 
-  
+</section>
+
+<section>
 
 _… i vlast laskavá“._
 
 * * *
 
 [79](./resources/undefined) Stavení, kde se zpracovával len nebo konopí.
+
+</section>

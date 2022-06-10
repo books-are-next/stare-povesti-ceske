@@ -3,6 +3,8 @@ title: "Durynk a\_Neklan"
 contentType: prose
 ---
 
+<section>
+
 ## I.
 
 Zármutek padl na luckou zemi. Jako těžký, tmavý stín na ni ulehl. Nebylo rodu, nebylo dědiny, kdež by neoplakali několik mrtvých. Všude v hoři a v pláči jmenovali Tursko pole, kdež zhynuli nejsilnější, nejudatnější z luckých mužů. Všude jich želeli, jejich smrti i toho, že těla jejich zůstala nespálena v poli na pospas dravcům.
@@ -78,3 +80,5 @@ Tu ve stínu šumějících stromů odpočívaly ve hrobech kameny obložených,
 Pak sešli se lechové a starostové rodů v háji u Jezerky a zvolili sobě za knížete Hostivíta. Zvolivše vedli jej u hlučném průvodu na Vyšehrad, kdež jej posadili na knížecí stolec a knížecí, někdy Přemyslovu čepici na hlavu mu vstavili.
 
 Když pak po letech sešel smrtí, uložili ho na dolejší hrobce vedle předků.
+
+</section>

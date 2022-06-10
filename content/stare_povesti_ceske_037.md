@@ -3,6 +3,8 @@ title: Různá proroctví
 contentType: prose
 ---
 
+<section>
+
 Ohromný balvan skalní trčel pod rozvalinou Potštýnského hradu z šumného proudu Divoké Orlice. Prostřed řeky čněl, ve stálém útoku pěnivých vln. Lid v okolí měřil jím v čas jarních přívalů nebo na podzim, jak stoupala voda. Někdy se kámen zarděl; to z důlku na jeho povrchu přelila se rudá voda a stékala, řinula jako potůčky krve po jeho bocích. A tu se lid lekal, neboť ta zardělá vláha věštila zlé doby, vojnu, hlad nebo mor.
 
 Věky už stál ten balvan v šumu a hluku orlických vln; než i jemu kdysi měl nastati den.
@@ -54,3 +56,5 @@ Co rok jediný steh. Až udělá poslední, až bude košile došita, zhyne vše
 [98](./resources/undefined) Jilm vaz, užíval se pro těžbu lýka.
 
 [99](./resources/undefined) Javor babyka.
+
+</section>

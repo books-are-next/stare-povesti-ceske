@@ -3,6 +3,8 @@ title: "O\_Krokovi a\_jeho dcerách"
 contentType: prose
 ---
 
+<section>
+
 Dokud vojvoda Čech vládl, panovaly všude řád a kázeň. Lidé byli poctiví a mezi sebou věrní. U chlévů neměli závor a dveří nezamykali. Žádného zločinu tíže nevážili nežli krádeže a loupeže. Byl každý v rodu opatřen a chudým stal se jenom ten, jenž nechtěje pracovati, byl vyobcován.
 
 Než jak lid osiřelý po smrti Čechově neměl správce, kazil se a právo hynulo. Nastaly sváry a spory, nejvíce o dědiny a meze, dály se nátisky a mnozí počali sami proti sobě bojovati. Když se zlo den ode dne rozmáhalo, sešli se starší rodu k mohyle Čechově a vzpomínajíce na mrtvého, pravili mezi sebou: „Vyhledejme sobě vojvodu, který by námi vládl a soudil po zákonu.“
@@ -60,3 +62,5 @@ Ti, uvedše Libuši na prostorné nádvoří vojvodského hradu, usadili ji na k
 [13](./resources/undefined) Třiadvacet.
 
 [14](./resources/undefined) Roztržka, rozepře.
+
+</section>

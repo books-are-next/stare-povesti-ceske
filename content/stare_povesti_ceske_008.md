@@ -3,6 +3,8 @@ title: "O\_Čechovi"
 contentType: prose
 ---
 
+<section>
+
 ## I.
 
 Za Tatrami, v rovinách při řece Visle, rozkládala se od nepaměti charvatská země, část prvotní veliké vlasti slovanské.
@@ -144,3 +146,5 @@ Než potom to místo a mohylu za dlouhý čas navštěvovali, tu plakali a kla
 [11](./resources/undefined) Bájeslovná bytost, zpravidla v podobě černého kuřete (plivník), draka nebo hada, přinášející člověku peníze.
 
 [12](./resources/undefined) Pelyněk černobýl.
+
+</section>

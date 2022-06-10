@@ -3,6 +3,8 @@ title: Libušina proroctví
 contentType: prose
 ---
 
+<section>
+
 Tak uvedla Libuše Přemysla na knížecí stolec. A když bylo po svatbách, sestoupila s ním do hluboké síně pod zemí, ve skále vylámané, zavřené těžkým poklopem, hrubě okutým. V té kobce svítily se stěny i hrubé stoly podél zdi leskem různého kovu: železa a bronzu, stříbra i zlata, jak tam visely meče, bité[27](./resources/undefined) pásy, šišaté přílby, kroužkové brně, štíty krásně kované, jak tam ležely náramky, spínadla, prsteny i čelenky ze stříbrného drátu i šňůry korálů z jantaru, kamene, skla i kovu, kusy ryzího stříbra vedle velkých okřínů[28](./resources/undefined) plných rýžovaného zlata.
 
 Všechen velký poklad mu ukázala, neb byl teď také jeho. Také jej uvedla do své zahrady, na posvátné místo pod starými stromy, kdež se leskla stříbrná hlava chmurného Peruna.
@@ -57,16 +59,22 @@ Když Přemysl jejich žádost uslyšel, řekl jim, aby se odebrali do svých d�
 
 I vzhlédli všichni k velebné kněžně, jež vzbuzena věštím duchem vstala a šla nádvořím a dál v kraj hradby. Šel Přemysl vedle ní, a šli vladykové a její dívky opodál za ní, až stanula na skále vysoko nad řekou Vltavou a tu promluvila:
 
-  
+</section>
+
+<section>
 
 _Co ukrývá se v skále, v země hloubi,  
 mým hlasem, zjeví bohů hlas._
 
-  
+</section>
+
+<section>
 
 Vtom se obrátila k západu slunce, vztáhla ruce i řekla:
 
-  
+</section>
+
+<section>
 
 _Vrch vidím Březový, v něm žíly stříbra.  
 Kdo hledá, najde bohatství.  
@@ -75,22 +83,30 @@ chtít bude kov, v němž vláda je.
 Vy chraňte se, ať z daru vaší země  
 vám pouto sluhů neskuje._
 
-  
+</section>
+
+<section>
 
 Pak, obrátivši se na levou stranu proti poledni, promluvila:
 
-  
+</section>
+
+<section>
 
 _Vrch vidím Jílový, je zlata plný.  
 V tom síla je i divů moc.  
 Však síla povadne, vás mdloba schvátí,  
 jak pohasne vám lásky svatý žár._
 
-  
+</section>
+
+<section>
 
 Opět obrátivši se na levou stranu, k východu slunce, takto věštila:
 
-  
+</section>
+
+<section>
 
 _Tam hora tříhřbetná, v svém kryje lůně  
 pro věky stříbra poklady.  
@@ -101,11 +117,15 @@ když v květu vábí roje včel.
 Jich trubci nezmohou, jen včelí práce,  
 jíž zlato roste ze stříbra._
 
-  
+</section>
+
+<section>
 
 Jak dopověděla, obrátila se zase k levé straně na půlnoc a řekla:
 
-  
+</section>
+
+<section>
 
 _Vrch vidím Krupnatý a v jeho hloubi  
 olova, cínu kalný lesk.  
@@ -114,11 +134,15 @@ vždy bedlivé na každý krok.
 Kde jenom na píď sami povolíte,  
 tam ztratíte vždy celý lán._
 
-  
+</section>
+
+<section>
 
 Když ukázala tajná do té chvíle ložiska kovů, obrátila se k vladykům a starším, naslouchajícím mlčky a dychtivě, a takto je oslovila:
 
-  
+</section>
+
+<section>
 
 _Lesk sedmi kovů v půdě vaší svítí  
 a klasů zlatem žírný lán.  
@@ -192,3 +216,5 @@ A zlatá kolébka rostla s dítětem, až vyrostla ve zlaté lože, jak vyrost
 [28](./resources/undefined) Široká mělká mísa, nejčastěji dřevěná.
 
 [29](./resources/undefined) Cca 3 km (1 hon = cca 125 kroků).
+
+</section>

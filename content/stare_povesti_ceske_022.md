@@ -3,6 +3,8 @@ title: Praporec svatého Václava
 contentType: prose
 ---
 
+<section>
+
 ## I.
 
 V létě zima byla.
@@ -154,3 +156,5 @@ Tam však již neodpočívá v bývalé schráně, nýbrž v bezpečnější, 
 [44](./resources/undefined) Příprava píce (krmiva) pro koně a soumary.
 
 [45](./resources/undefined) Nešpory – odpolední, podvečerní pobožnost.
+
+</section>

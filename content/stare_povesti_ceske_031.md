@@ -3,6 +3,8 @@ title: "O\_Jánošíkovi"
 contentType: prose
 ---
 
+<section>
+
 ## I.
 
 Králova hole nad širými lesy nad krásnou dolinou horního Hronu, vysoká hora, památná hora. Mocný hřbet její bez lesů, volný; proud větru sotva kdy ztiší se na té slunečné výši. A v slunci a větru, v mlhách i za hromných bouří sám na Králově holi stojí kamenný stůl, omšený, starý; opuštěn trčí z trávy a vřesu i kosodřeviny. Kdys, už tomu dávno, míval své hosty a širá kol hole zvučela pokřiky, hlukem; to když sem přicházel sám panovník uherské země, veselý Matěj král.
@@ -138,3 +140,5 @@ Ticho po jizbě, leda že se tu tam povzdech zatřese. Líto všem „dobrého c
 [88](./resources/undefined) Štůček, svinutý kus tkaniny.
 
 [89](./resources/undefined) Měřice = stará dutá míra, cca 61 l.
+
+</section>

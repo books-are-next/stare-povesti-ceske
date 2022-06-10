@@ -3,6 +3,8 @@ title: "O\_králi Svatoplukovi"
 contentType: prose
 ---
 
+<section>
+
 Lid v chrámě velehradském po kázání dopěl; poslední zvuky pobožné písně vyzněly, zraky všech se obracely k oltáři. Nastala chvíle svaté mše, kterouž měl sloužiti sám arcibiskup Metoděj. A slavně sloužiti; byl veliký svátek, zasvěcený den svatých apoštolů Petra a Pavla.
 
 Již planuly svíce na oltáři, již chvíli hořely, ale Metoděj nešel. V kostele čekali a potichu se modlili. Chvíle za chvílí ubíhala. Slunce již vysoko vystoupilo, již padly jeho paprsky do oken kopule, již zašlehly dolů zlatým proudem do lodi chrámové. Vše se rázem vyjasnilo, stěny, obrazy svatých na zlaté půdě, hlavy věřících, žen i zarostlých mužů i starců, i plavé prameny dívek a dětí.
@@ -60,3 +62,5 @@ Pokud byl živ, zůstal nepoznán ode všech. Teprve když cítil, že se blíž
 [38](./resources/undefined) Psí smečka.
 
 [39](./resources/undefined) Duchovní nižšího svěcení.
+
+</section>

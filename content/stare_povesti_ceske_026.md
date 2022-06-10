@@ -3,6 +3,8 @@ title: "O\_Žižkovi"
 contentType: prose
 ---
 
+<section>
+
 ## I.
 
 Nejprve dolů na jih české země.
@@ -200,3 +202,5 @@ Splnilo se o Janu Žižkovi, co o něm napsal starý kronikář:
 [71](./resources/undefined) Středověké dělo s delší hlavní určené k boření nepřátelských tarasů.
 
 [72](./resources/undefined) Perlík, kovářské kladivo.
+
+</section>

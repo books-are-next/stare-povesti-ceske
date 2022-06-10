@@ -3,6 +3,8 @@ title: Bílá paní
 contentType: prose
 ---
 
+<section>
+
 Den za dnem, léto za létem, a nakonec smrt. Někdy stojí dlouho při dveřích, až pojednou vkročí náhle, znenadání. Někdy však se ohlašuje, nežli života ukrátí. Taková bývala víra a jest, že se ukazují znamení nastávající smrti, že slýchati podivné zvuky, jež věští blížící se poslední chvíle.
 
 Hlas sejčka, tajemné zaklepání nebo zvuk, jak by někdo prutem švihl po dveřích, po okně, nebo jiné, oznamují blízké skonání. To jsou znamení obecná. Některým však rodům prý zvláštní znamení hlásila, že někdo z nich odejde cestou všech lidí.
@@ -88,3 +90,5 @@ Bílá paní se již dlouho nezjevila. A v nádvořích jindřichohradeckého 
 A ještě tu jedna místnost, ve kteréž se probouzejí vzpomínky na bílou paní: Ozdobná kaplička P. Marie na třetím nádvoří zámeckém poblíže pokojů někdy paní hradeckých. Starobylé dveře k ní vedou a na stěnách samé staré malby. Tu Marie Panna krásných, plavých vlasů s andělem, tu páni a paní hradeckého rodu klečící před Matkou Boží, tam andělé, svatí, a na modrém klenutí i na stěnách znaky pánů z Hradce, jejich manželek, a bělavé proužce se zašlými, staročeskými nápisy.
 
 Tu v té tiché svatyňce, před oltáříkem s vyřezávanými obrazy, klekala také, jak vypravují, bílá paní. Tu se modlívala Bohu za svůj všechen rod a ta její láska neuvadla ani ve skonání. Ta ji z hrobky vyváděla, tou puzená obcházela sídla svých potomků, pečovala o jejich dítky, varovala, ohlašujíc radost i žal, jak měly připlynouti z života proudem, a také neztajila konec všech dní a let, když se přiblížil a když měli odejíti k otcům.
+
+</section>
