@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jirasek-stare-povesti-ceske-43367ec",
-  "revision": "43367ec",
+  "identifier": "jirasek-stare-povesti-ceske-416dd69",
+  "revision": "416dd69",
   "readingOrder": [
     "promo.html",
     "stare_povesti_ceske_005.html",
@@ -49,8 +49,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:58:29 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157509706
+    "date": "Wed Jun 15 2022 05:58:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272703984
   },
   "documents": [
     {
@@ -1163,8 +1163,8 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 123,
-      "chars": 778,
+      "words": 137,
+      "chars": 885,
       "ideas": 16,
       "role": "colophon",
       "order": null,
@@ -1183,8 +1183,8 @@
   ],
   "totals": {
     "all": {
-      "words": 77014,
-      "chars": 448303,
+      "words": 77028,
+      "chars": 448410,
       "ideas": 1921
     },
     "chapters": {
