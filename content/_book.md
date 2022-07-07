@@ -49,7 +49,7 @@ readingOrder:
   - stare_povesti_ceske_036.html
   - stare_povesti_ceske_037.html
   - stare_povesti_ceske_038.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
