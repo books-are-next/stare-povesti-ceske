@@ -58,7 +58,7 @@
             "filename": "stare_povesti_ceske_003.md",
             "xhtml": "stare_povesti_ceske_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -67,7 +67,7 @@
             "filename": "stare_povesti_ceske_004.md",
             "xhtml": "stare_povesti_ceske_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -420,7 +420,7 @@
             "filename": "stare_povesti_ceske_039.md",
             "xhtml": "stare_povesti_ceske_039.xhtml",
             "id": 38,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -756,6 +756,6 @@
       "user": "books-are-next",
       "repo": "stare-povesti-ceske"
     },
-    "generatedAt": 1655979763625
+    "generatedAt": 1657182524797
   }
 }
