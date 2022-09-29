@@ -15,9 +15,9 @@ V jasné té záplavě zemdlely zarudlé plameny svěc, které již hrubě oho�
 
 „Proč nejde?“
 
-Ptali se všude a všude pak žasli a trnuli, když kdosi oznámil, že na hon, dnes ráno, před svítáním že si král vyjel na hon s četnou družinou a lájí[38](./resources/undefined). Na hlučný hon v takový posvátný den!
+Ptali se všude a všude pak žasli a trnuli, když kdosi oznámil, že na hon, dnes ráno, před svítáním že si král vyjel na hon s četnou družinou a lájí[^38]. Na hlučný hon v takový posvátný den!
 
-Pak rázem umlkli, když se pojednou objevil velebný Metod. Nastával již polední čas, a svaté mše déle již odkládati nebylo možná. S arcibiskupem vstoupili k oltáři kněží, diákoni[39](./resources/undefined), všichni v bohatých kostelních řízách. I začal arcibiskup bohoslužbu; diákoni a kněží přisluhovali, kadidlo zapálili, zpěvy zapěli a zpívali.
+Pak rázem umlkli, když se pojednou objevil velebný Metod. Nastával již polední čas, a svaté mše déle již odkládati nebylo možná. S arcibiskupem vstoupili k oltáři kněží, diákoni[^39], všichni v bohatých kostelních řízách. I začal arcibiskup bohoslužbu; diákoni a kněží přisluhovali, kadidlo zapálili, zpěvy zapěli a zpívali.
 
 A lid, kleče i stoje, maje sepjaté ruce, hleděl na krásu oltáře v plné záři svěc, v nichž také se třpytila kněžská roucha i řezby i obrazy, naslouchal modlitbám a kněžskému zpěvu, jak hlaholil pod klenbou sborem i různo. A všichni rozuměli čtení Písma, modlitbám, zpěvům, každému slovu, a jati vroucí, srdečnou zbožností, jako u vytržení, povznesli mysli své k Bohu. Na krále zapomněli.
 
@@ -59,8 +59,8 @@ Pokud byl živ, zůstal nepoznán ode všech. Teprve když cítil, že se blíž
 
 * * *
 
-[38](./resources/undefined) Psí smečka.
+[^38]: Psí smečka.
 
-[39](./resources/undefined) Duchovní nižšího svěcení.
+[^39]: Duchovní nižšího svěcení.
 
 </section>

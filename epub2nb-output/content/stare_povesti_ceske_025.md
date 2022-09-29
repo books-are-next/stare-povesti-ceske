@@ -124,7 +124,7 @@ Co za oné noci, za které v pochybnostech se do kostela rozběhl, v duchu vid
 
 Na Hradčanech, na hradě českých králů, rostla tou dobou velikolepá stavba Karlova, nový chrám sv. Víta, za řekou pak na širém návrší přibývalo vůčihledě Nového Města. A mezi ty dva slavné pomníky své zbožnosti, své lásky k umění a k nejmilejšímu svému městu, počal Karel budovati třetí veliké dílo, Kamenný most.
 
-Ten věky přetrval, sláva i ponížení našeho národa po něm cho­dily. Mnoho se v Čechách od jeho založení změnilo a měnilo, spory a boje dělily a rozeštvaly lid jedné krve, jednoho jazyka. Jen on zůstal milý všem po všechny věky, za všech bouří a v dobách ponížení a mdloby vydržel on, tvrdý a silný, pamětník lepších časů a slávy, z níž pocházel a jež byla potěchou, posilou slabých. Ze všech mostů je Karlův nejpevnější, tak vypravují, protože při jeho stavbě měli vápno vejci rozdělané. I bylo jich potřeba nepočítaných kop[49](./resources/undefined), na šestnáct jeho mohutných oblouků, na tolik pilířů, na tolik ohromného zdiva.
+Ten věky přetrval, sláva i ponížení našeho národa po něm cho­dily. Mnoho se v Čechách od jeho založení změnilo a měnilo, spory a boje dělily a rozeštvaly lid jedné krve, jednoho jazyka. Jen on zůstal milý všem po všechny věky, za všech bouří a v dobách ponížení a mdloby vydržel on, tvrdý a silný, pamětník lepších časů a slávy, z níž pocházel a jež byla potěchou, posilou slabých. Ze všech mostů je Karlův nejpevnější, tak vypravují, protože při jeho stavbě měli vápno vejci rozdělané. I bylo jich potřeba nepočítaných kop[^49], na šestnáct jeho mohutných oblouků, na tolik pilířů, na tolik ohromného zdiva.
 
 V Praze tolik vajec ani nesehnali, okolí jich tolik nemělo, co jich bylo třeba. Proto nařídil Karel IV. všem městům v českém království, aby každé poslalo určitý počet kop vajec na stavbu pražského mostu. Posílali je, vůz za vozem přijížděl, ze všech stran skládali vejce a rozbíjeli do vápna.
 
@@ -136,7 +136,7 @@ Na zdi, která spojuje Mosteckou věž s klášterem křížovníků, viděti n
 
 Jda Kamenným mostem ke hradu našich králů viz nalevo na Petříně dlouhou, zubatou zeď. Bělá se bujnou zelení stromů po hřbetě vrchu a níží se s jeho prudkým svahem dolů k bývalé Újezdské bráně. Ta zeď, toť dílo „rodiny“ Karla IV.
 
-Velká drahota uhodila, chudý lid hlady zmíral, neboť nebylo práce, nebylo výdělku. Za těch zlých časů shromáždilo se v Praze na dva tisíce chudých a ti, když se ubíral král Karel z kostela, předstoupili před něj a s pláčem prosili, aby je živností[50](./resources/undefined) opatřil, že by rádi dělali, třeba beze mzdy, jen ke stravě, a že budou maličko jísti, jen aby hladem nezemřeli. Král, dojat jejich bídou, poručil, aby se nazejtří na tom místě a v tu hodinu zase sešli. Když se tak stalo, dal je svými lidmi zavésti na vrch Petřín a sám na koni za nimi přijev rozkázal, ti aby kámen lámali, ti základy kopali, jiní aby zeď stavěli od Vltavy přes Petřín až ke Strahovskému klášteru.
+Velká drahota uhodila, chudý lid hlady zmíral, neboť nebylo práce, nebylo výdělku. Za těch zlých časů shromáždilo se v Praze na dva tisíce chudých a ti, když se ubíral král Karel z kostela, předstoupili před něj a s pláčem prosili, aby je živností[^50] opatřil, že by rádi dělali, třeba beze mzdy, jen ke stravě, a že budou maličko jísti, jen aby hladem nezemřeli. Král, dojat jejich bídou, poručil, aby se nazejtří na tom místě a v tu hodinu zase sešli. Když se tak stalo, dal je svými lidmi zavésti na vrch Petřín a sám na koni za nimi přijev rozkázal, ti aby kámen lámali, ti základy kopali, jiní aby zeď stavěli od Vltavy přes Petřín až ke Strahovskému klášteru.
 
 Dělníci peněz nedostávali, ale chleba a jiného jídla do sytosti, též obuv a oděvy. Když o tom jiní uslyšeli, kteří hladověli, houfem běželi k tomu dílu a pilně pracovali. Král Karel často k nim na Petřín dojížděl, často sám je poděloval, říkaje, že ten pracovní lid jest jeho rodina. Tisíce lidí mu žehnalo a vstávajíc, lehajíc za něj se modlilo.
 
@@ -186,9 +186,9 @@ Tak činil i řezníkům a jiným řemeslníkům. Jednou také šel přestroje
 
 Také v noci se rád Prahou potuloval, přestrojen, po krčmách, zkoušeje, mají-li spravedlivou míru. Ale také aby slyšel, co se děje, co lid mluví, jak smýšlí. „U modré štiky“ na Starém Městě býval nejčastěji a tam i jinde ztropil i nejednu švandu se svými kumpány veselými.
 
-I kejkle měl rád a všeliké podivné kousky. Ty mu nejvíce strojil jeho kouzelník Žito, chlapík dovedný, čarovný, jenž uměl přimraziti, koho chtěl, a zvláště svou podobu měniti, často i tvář. Ke králi šel třeba v soukenném šatě, hrubě sešlém, v úzkých nohavicích s podešvemi. Když stanul před králem, byl pojednou v hedvábné sukni, v pestrých nohavicích, a mosazné zobáky na střevících se mu jen blyštěly jako nějakému kasalickému[51](./resources/undefined) švihákovi. Tak před králem stanul, a když odcházel, změnil se přede všemi, aniž se převlékl, a měl hned na sobě řásný, poutnický plášť.
+I kejkle měl rád a všeliké podivné kousky. Ty mu nejvíce strojil jeho kouzelník Žito, chlapík dovedný, čarovný, jenž uměl přimraziti, koho chtěl, a zvláště svou podobu měniti, často i tvář. Ke králi šel třeba v soukenném šatě, hrubě sešlém, v úzkých nohavicích s podešvemi. Když stanul před králem, byl pojednou v hedvábné sukni, v pestrých nohavicích, a mosazné zobáky na střevících se mu jen blyštěly jako nějakému kasalickému[^51] švihákovi. Tak před králem stanul, a když odcházel, změnil se přede všemi, aniž se převlékl, a měl hned na sobě řásný, poutnický plášť.
 
-A při tabulích králových jaké čertoviny někdy spískal! Nejhorší královu šaškovi. Ten jednou při obědech sahal po rybách v šalši[52](./resources/undefined). Ale jen rybu vzal a již mu vypadla. Šašek vykřikl a vyjeveně hleděl na ruku, jež mu naráz tuhla a tuhla, v roh se měnila, až z ní bylo kopyto, koňské kopyto! A ze druhé také.
+A při tabulích králových jaké čertoviny někdy spískal! Nejhorší královu šaškovi. Ten jednou při obědech sahal po rybách v šalši[^52]. Ale jen rybu vzal a již mu vypadla. Šašek vykřikl a vyjeveně hleděl na ruku, jež mu naráz tuhla a tuhla, v roh se měnila, až z ní bylo kopyto, koňské kopyto! A ze druhé také.
 
 Strnulý šašek šklebil se a prohlížel si zoufale svá kopyta tak, že král i páni se dali nahlas do smíchu a smáli se, až jim slzy po lících kanuly.
 
@@ -200,7 +200,7 @@ Vtom ozvalo se z vedlejšího nádvoří kokrhání, hrozné kokrhání, jako b
 
 Král se smál a pravil, že má Žito o spřežení více nežli on, ať jede za ním. A jel král s bělouši, Žito za ním s černými kohouty, a kudy hrčel ten neobyčejný povoz, všude byl shon lidí. Tak poté častěji jezdil a lidé se pokaždé sbíhali, když slyšeli, že Žito jede, nebo již před hradem na něho čekali. Až pak zase něco jiného vyvedl, o čem šla řeč po celé Praze i dalekým okolím.
 
-Žito si udělal třicet víchů[53](./resources/undefined) ze slámy a z těch třiceti víchů vyčaroval třicet prasat znamenitě tlustých, jako dobře krmených. Stádo to pak vyhnal sám na pastvu u řeky, kde se pásli vepři bohatého, ale lakotného pekaře Michala. Ten si prohlížel se zalíbením Žitův dobytek, a když uslyšel, že je lacino na prodej, shodl se s kejklířem, koupil vepře a hned peníze vyplatil. Když si uhodili, napomenul ho Žito: „Jen to ti pravím, dobrá prasátka, vidíš sám, a vykrmená, ale vody nesnesou. To si pamatuj!“
+Žito si udělal třicet víchů[^53] ze slámy a z těch třiceti víchů vyčaroval třicet prasat znamenitě tlustých, jako dobře krmených. Stádo to pak vyhnal sám na pastvu u řeky, kde se pásli vepři bohatého, ale lakotného pekaře Michala. Ten si prohlížel se zalíbením Žitův dobytek, a když uslyšel, že je lacino na prodej, shodl se s kejklířem, koupil vepře a hned peníze vyplatil. Když si uhodili, napomenul ho Žito: „Jen to ti pravím, dobrá prasátka, vidíš sám, a vykrmená, ale vody nesnesou. To si pamatuj!“
 
 Než pekař nepamatoval, nedbal a vyhnal koupené vepře do brodu. Jak vběhli do řeky, hned se potopili a místo nich vyplavalo na povrch třicet slaměných víchů. Pekař čekal na vepře, až vyplavou; ale nevyplavali, a víchy z ničemné slámy nesly se dál a dále. Lakotný pekař běhal po břehu, křičel a lál, hned na vepře volal, hned na víchy ukazoval, že uplavou, aby je chytili, že uplavou. A uplavaly. Pekař rozzuřen, že přišel o tolik peněz, o tolik vepřů, rozběhl se na Žita. V králově dvoře ho nezastal. Hledal ho, vyptával se po něm, až ho v krčmě našel. Tam seděl králův kouzelník v klenuté jizbě ve výklenku tlusté zdi u okna; nohy měl před sebe nataženy, záda o pažení opřená. Číše stála před ním dopitá a on dřímal.
 
@@ -258,7 +258,7 @@ Když pak se jim nestalo po vůli, spikli se proti němu s uherským králem, j
 
 V tom vězení byl držán přes patnácte neděl, a proto pak byl již velmi teskliv.
 
-Za parného léta, při čase sv. Bartoloměje[54](./resources/undefined), poslal svého strážce k Pražanům, žádaje, aby mu dovolili do lázně, kteráž by byla nejblíže od radnice. Páni konšelé dlouho se radili, až pak přece králi po vůli učinili. Tak se dostal král Václav opět na volnost, třeba jen nakrátko, a ne jako král, nýbrž jako pražský měštěnín. Směl jen v měšťanském rouše vyjíti, nadto pak ho střežili čtyři sluhové.
+Za parného léta, při čase sv. Bartoloměje[^54], poslal svého strážce k Pražanům, žádaje, aby mu dovolili do lázně, kteráž by byla nejblíže od radnice. Páni konšelé dlouho se radili, až pak přece králi po vůli učinili. Tak se dostal král Václav opět na volnost, třeba jen nakrátko, a ne jako král, nýbrž jako pražský měštěnín. Směl jen v měšťanském rouše vyjíti, nadto pak ho střežili čtyři sluhové.
 
 Jimi provázen vkročil do lázně, která byla nejblíž, zrovna u Ka­menného mostu. Aby nikterak odtud nemohl ujíti, zůstal jeden ze sluhů u síně, v domovních dveřích, druhý při šatech králových; dva pak šli s králem do lázně a koupali se s ním. Po chvíli, když se král vykoupal, požádal svých strážců, aby se směl na čerstvém povětří ochladit. Bylo parno, až dusno.
 
@@ -266,7 +266,7 @@ Sluhové mu povolili, neboť neměl svého oděvu a prchnouti nemohl. Tak vyše
 
 I zatoužil tu král po svobodě víc nežli ve vězení. Opodál u břehu pod starou vrbou odpočíval člun, tiše, nehnutě a veslo leželo na něm. Vtom vešla na pavláčku žena, kteráž v lázních posluhovala. Jen ji král zočil, již jí kynul a tiše a rychle se jí zeptal, umí-li veslovati. Když přisvědčila, řekl jí:
 
-„Převez mne na druhou stranu, odměním se ti hojně, nebudeš litovati. Ale honem, nežli ti tu v komoře vyjdou z mýtele[55](./resources/undefined).“
+„Převez mne na druhou stranu, odměním se ti hojně, nebudeš litovati. Ale honem, nežli ti tu v komoře vyjdou z mýtele[^55].“
 
 Seběhl po schůdkách z pavlače, lazebnice za ním; král do loďky, ona za ním, a již loďku rychle odvázavši, odrazila od břehu a veslovala napříč k druhému břehu. Veslovala prudce, vší silou a dovedně; nežli strážcové vyšli z komory, přirazil člun ve tmavém stínu pod košatými stromy ke druhému břehu. Jen na břeh vyskočili, a již dále utíkali ve stínu těch stromů a křovinami, podél houští na břehu, pořád vzhůru proti vodě, až se dostali poblíže vesnice Chuchle.
 
@@ -280,7 +280,7 @@ Král Václav poté na Zuzanu nezapomněl. Když se opět ujal vlády a s pán
 
 Nadto dal všem lazebníkům a jejich řemeslu listinu velmi milostivou, neboť je tím listem učinil rovné všem jiným řemeslníkům. Přitom jim dovolil, aby užívali za znamení v zlatém poli modré točenice uzlem svázané, prostřed níž stojí zelený papoušek.
 
-Od těch časů až po dnešní den se ta lázeň u Kamenného mostu „královou“ jmenuje. Na statečnou pak Zuzanu připomíná obraz naklenutí Mostecké staroměstské věže, jenž zpodobuje lazebnici v bílém podkytlí[56](./resources/undefined), držící v levé ruce zavěšenou džbernici, v pravé pak ruce zelený věník[57](./resources/undefined).
+Od těch časů až po dnešní den se ta lázeň u Kamenného mostu „královou“ jmenuje. Na statečnou pak Zuzanu připomíná obraz naklenutí Mostecké staroměstské věže, jenž zpodobuje lazebnici v bílém podkytlí[^56], držící v levé ruce zavěšenou džbernici, v pravé pak ruce zelený věník[^57].
 
 * * *
 
@@ -320,7 +320,7 @@ Zedníci smutně se dali do uložené práce; neradi, nechutě začali bořiti k
 
 Zatím meškal král Václav na kunratickém hrádku. Den po dni míjel trudně; již ani honba ho netěšila. A vážné zprávy docházely do jeho zátiší, o velikém pohnutí myslí po veškerém království, o schůzích na horách, o velkém obecném rozčilení v Praze, že z něho strach veliké bouře.
 
-Pak uhodilo. V neděli okolo hodiny nešporní přiharcoval z Prahy jízdný posel na Nový hrad a oznamoval králi, že dopoledne bylo procesí všech podobojí, v jeho čele že nesl kněz Jan Želivský tělo Páně. Když procesí přišlo z kostela sv. Štěpána, kterého se násilím zmocnilo, před Novoměstskou radnici, že žádali, aby byli propuštěni všichni, kteří poslední dobou tu byli zavřeni pro náboženské nepokoje; konšelé však že jejich žádost oslyšeli a v radnici se zavřeli. Tu že lid se na radnici obořil, konšely že smetali dolů z vysokých oken, dolů do zástupů, a tam že chytali padajíce na sudlice[58](./resources/undefined), oštěpy, na meče a že všechny konšely zabili na místě.
+Pak uhodilo. V neděli okolo hodiny nešporní přiharcoval z Prahy jízdný posel na Nový hrad a oznamoval králi, že dopoledne bylo procesí všech podobojí, v jeho čele že nesl kněz Jan Želivský tělo Páně. Když procesí přišlo z kostela sv. Štěpána, kterého se násilím zmocnilo, před Novoměstskou radnici, že žádali, aby byli propuštěni všichni, kteří poslední dobou tu byli zavřeni pro náboženské nepokoje; konšelé však že jejich žádost oslyšeli a v radnici se zavřeli. Tu že lid se na radnici obořil, konšely že smetali dolů z vysokých oken, dolů do zástupů, a tam že chytali padajíce na sudlice[^58], oštěpy, na meče a že všechny konšely zabili na místě.
 
 Král Václav zesinal, oči mu zahořely. Zlost jím zalomcovala a třásl se na celém těle. Nemohl promluviti, hlas uvázl, ale pojednou vyrazil mu z hrdla křik jako lví řvaní a vtom již klesl mrtvicí poražen. A zanedlouho skonal.
 
@@ -344,13 +344,13 @@ Tlačilo se všechno k věži radnice, kdež byl ten div divoucí, nový orloj,
 
 Měšťané, řemeslníci, ženy staré, mladé, studenti v pláštích, všichni se před radní věží tlačili, na špičky vystupovali, hrdla natahovali, oči vyvalovali na veliký ciferník čtyřiadvacíti hodin, plný zlatých kruhů a čar, čísel a divných znamení, na kulatou tabuli pod ním s malovanými obrazy dvanácti nebeských znamení, na sošky vpravo vlevo v tesaném lupení, a nejvíce na smrt a divného Turka, na lakomce s měšcem peněz. Kol radnice šuměla, hlučela směsice hlasů, neúnavná, ustavičná jako hučivý proud.
 
-Než umlkala hned a tichla, jak shora z nového orloje ozval se hlas zvonce. Jen tu tam se výkřik ozval, tu tam se ruce zvedaly, ukazujíce na smrt, jak lermo[59](./resources/undefined) zvoní, jak tahá za zvonec. A vtom, na úžas všech, otevřela se dvě okénka nad orlojem a v nich se ukazovali apoštolové. Šel jeden za druhým, všech dvanácte, od západu k východu, každý se k lidu obrátil, posléze sám Kristus žehnaje zástupu. Mnozí smekali, mnozí se křižovali, jiní na smrt ukazovali, jak sanice otvírá, na Jidáše či lakomce, že sebou vrtí, a ten staroch vedle smrti že hlavou kroutí, že se mu jako ještě nechce, ať kostlivec nezvoní. Ale jak výše nad okénky kohout zakokrhal, šlo davem nové, veselé pohnutí. Smáli se, pokřikovali. A zase šuměla, hlučela směsice hlasů, neúnavná, ustavičná jako hučivý proud. Všude v zástupu mluvili o mistru toho orloje, jak je zvláštním darem božím a vtipem nad jiné obdařen, všude jmenovali mistra Hanuše, jenž dílo vtipně a divně udělal.
+Než umlkala hned a tichla, jak shora z nového orloje ozval se hlas zvonce. Jen tu tam se výkřik ozval, tu tam se ruce zvedaly, ukazujíce na smrt, jak lermo[^59] zvoní, jak tahá za zvonec. A vtom, na úžas všech, otevřela se dvě okénka nad orlojem a v nich se ukazovali apoštolové. Šel jeden za druhým, všech dvanácte, od západu k východu, každý se k lidu obrátil, posléze sám Kristus žehnaje zástupu. Mnozí smekali, mnozí se křižovali, jiní na smrt ukazovali, jak sanice otvírá, na Jidáše či lakomce, že sebou vrtí, a ten staroch vedle smrti že hlavou kroutí, že se mu jako ještě nechce, ať kostlivec nezvoní. Ale jak výše nad okénky kohout zakokrhal, šlo davem nové, veselé pohnutí. Smáli se, pokřikovali. A zase šuměla, hlučela směsice hlasů, neúnavná, ustavičná jako hučivý proud. Všude v zástupu mluvili o mistru toho orloje, jak je zvláštním darem božím a vtipem nad jiné obdařen, všude jmenovali mistra Hanuše, jenž dílo vtipně a divně udělal.
 
-Také mistři a doktoři ve tmavých pláštích a tabardech[60](./resources/undefined), kteří stáli poblíže věže a orloj si prohlíželi, chválili jeho původce. Stáli tu vážně, hubení, otylí, mluvili latinsky, česky a pořád jen o kruzích a znameních orloje. Kohoutu, figurám, smrti, starci a jiným se jen usmáli a jeden z nich vyslovil se pohrdlivě před bakaláři a studenty, když smrt lermo zvonila a kohout kokrhal, že tyto tatrmany a podobné aparáty jsou udělány jen k podivení a k divadlu obecnímu lidu.
+Také mistři a doktoři ve tmavých pláštích a tabardech[^60], kteří stáli poblíže věže a orloj si prohlíželi, chválili jeho původce. Stáli tu vážně, hubení, otylí, mluvili latinsky, česky a pořád jen o kruzích a znameních orloje. Kohoutu, figurám, smrti, starci a jiným se jen usmáli a jeden z nich vyslovil se pohrdlivě před bakaláři a studenty, když smrt lermo zvonila a kohout kokrhal, že tyto tatrmany a podobné aparáty jsou udělány jen k podivení a k divadlu obecnímu lidu.
 
 A již jim vykládal, že ten orloj je všem učeným lidem a zvláště astronomům divný a vzácný bez těch tatrmanů, neboť že ukazuje, jak slunce svým během od západu k východu po zodiaku jde nebo postupuje, a na kterém znamení, na kolikém stupni každý den z rok do roka stojí, v kolik hodin kdy vychází, v kterou hodinu na poledni stojí, kde zapadá, jak vysoko od východu supra horizontem a kterak blízko k linii polední a jak nízko k západu, také kde po západu sub orizonte, totiž v noci pod zemí je, také, to jak od nás jdouc, v ubývání dne na zimu se oddaluje a zase v přibývání dne na léto k nám se přibližuje.
 
-Učený mistr náhle umlkl, jak z radnice zdobeným portálem vycházeli konšelé a rada Starého Města v šubách, birytech[61](./resources/undefined) i čepicích. Mířili k orloji. Všechno kol ustupovalo, všichni, lid i učení mistři, bakaláři i studenti, obraceli k nim zraky, ale nejvíce na staršího již muže v tmavém hábitu misterském[62](./resources/undefined). Kráčel zrovna vedle primátora, byl vážně přibledlé tváře a tmavých vlasů.
+Učený mistr náhle umlkl, jak z radnice zdobeným portálem vycházeli konšelé a rada Starého Města v šubách, birytech[^61] i čepicích. Mířili k orloji. Všechno kol ustupovalo, všichni, lid i učení mistři, bakaláři i studenti, obraceli k nim zraky, ale nejvíce na staršího již muže v tmavém hábitu misterském[^62]. Kráčel zrovna vedle primátora, byl vážně přibledlé tváře a tmavých vlasů.
 
 Hlasy se zástupem rozšuměly, všude bylo pohnutí, každý se tlačil, dopředu strkal, hrdlo napínal, aby dobře viděl na tohoto muže. Rozlétlo se, že to mistr Hanuš, otec a mistr nového orloje.
 
@@ -424,7 +424,7 @@ Zavítal, chvíli pobyl, ale nezůstal. I mladý Ladislav Pohrobek i slavný j
 
 Po dvanácti letech svého panování změnil své sídlo. Uzdálo se mu pojednou, že není dosti bezpečen ve svém dvoře staroměstském, při němž dal vystavěti nákladnou, uměle a krásně vyzdobenou věž. I vrátil se do dávného sídla českých králů na Hradčany a dal tam vše, co zpustlo, obnovit a znovu upravit. Beneš z Loun vystavěl velikou, podivuhodnou síň a v tu dobu také modlitebnu pro krále v kostele sv. Víta napravo od velkého oltáře, vyzdobenou znamenitým dílem kamenickým.
 
-Král dal také holé stěny chrámové vyzdobiti koltrami[63](./resources/undefined), zvláště však ve svatováclavské kapli, a péčí jeho a nákladem zaskvěly se komnaty v královském hradě zase nádherou čalounů i obrazů. V jedné z nich visely samé obrazy českých knížat a králů.
+Král dal také holé stěny chrámové vyzdobiti koltrami[^63], zvláště však ve svatováclavské kapli, a péčí jeho a nákladem zaskvěly se komnaty v královském hradě zase nádherou čalounů i obrazů. V jedné z nich visely samé obrazy českých knížat a králů.
 
 Ale nejen na výzdobě dal si král záležeti, nýbrž i na tom, aby hrad byl lépe opevněn. Tak ztvrdili na jeho rozkaz hradební zdi, prohloubili příkopy, zvýšili náspy, kde toho třeba bylo, a na věži Mihulce udělali krov velmi vysoký a pokryli jej polévanými cihlami, nad nimiž se na makovici bělal a svítil postříbřený lev.
 
@@ -468,7 +468,7 @@ Ale kdykoliv poté zahrál, kdykoli plátěnou mošnu z vězení spustil, poka�
 
 Když královský hrad utichl, ztemněl, když jak báječný, šedomodravý stín čněl k nočnímu nebi, když v bělavém zásvitu měsíce umlklo houští a stromy v Jelením příkopě, zaléhaly z temna kulaté věže líbezné zvuky Daliborových houslí. Slzy byly v těch zvucích, touha po volnosti i výkřiky hněvu. Úlevu daly, ale ne svobodu. Pán Bůh byl vysoko, král daleko a páni soucitu neměli.
 
-Dlouhý čas nechali zemana z Kozojed v žaláři, až posléze na plném soudu uznali za právo a tak o něm rozkázali: že Dalibor statek neprávě[64](./resources/undefined) vzatý k sobě přijal a v tom statku byl; že jest v tom neprávě a nešlechetně učinil proti právu a řádu. Pro takový svůj zlý účinek ať hrdlo ztratí.
+Dlouhý čas nechali zemana z Kozojed v žaláři, až posléze na plném soudu uznali za právo a tak o něm rozkázali: že Dalibor statek neprávě[^64] vzatý k sobě přijal a v tom statku byl; že jest v tom neprávě a nešlechetně učinil proti právu a řádu. Pro takový svůj zlý účinek ať hrdlo ztratí.
 
 Tak jemu oznámili a nic nedbali, jak se hájil, aby povážili, kdo začal, kdo první páchal zřejmé bezpráví a tím lid pobouřil, a že on, Dalibor, se jen lidu zastal. Než to právě u nich vina a hřích. A tak na rozsudku zůstali; den však a chvíli popravy ztajili. Tu noc před ní ozval se hlas Daliborových houslí naposled. Z hlubiny pustého žaláře chvěl se a zněl do tiché noci, poslední útěcha, poslední světlo v temnotách trudu, a zmíral nad Jelením příkopem v měsíčním světle. Když Pražané nazejtří zase přišli k nové věži, nezhlédli plátěné mošny na mříži Daliborova žaláře. A věž byla tichá, němá. Když se ptali, stůně-li Dalibor, nebo co mu je, oznámil žalářník, že již mu dobře, neboť že ráno byl na předhradí popraven.
 
@@ -602,7 +602,7 @@ Synagoga, již svým nákladem vystavěl, slove podnes po něm. Kromě ní zbudo
 
 ### III.
 
-Za panování Rudolfa II. žil v Židovském Městě pražském rabbi Jehuda Löw ben Bezalel, muž vysoce učený a zkušený. Byl vysoké postavy, a proto mu říkali „veliký rabbi“. Vyznal se znamenitě nejen v talmudu a kabbale[65](./resources/undefined), ale také v matematice a hvězdářství. Nejedno tajemství přírody, jiným skryté, bylo mu povědomo a dovedl leccos divného, takže lidé žasli nad jeho kouzelnou mocí.
+Za panování Rudolfa II. žil v Židovském Městě pražském rabbi Jehuda Löw ben Bezalel, muž vysoce učený a zkušený. Byl vysoké postavy, a proto mu říkali „veliký rabbi“. Vyznal se znamenitě nejen v talmudu a kabbale[^65], ale také v matematice a hvězdářství. Nejedno tajemství přírody, jiným skryté, bylo mu povědomo a dovedl leccos divného, takže lidé žasli nad jeho kouzelnou mocí.
 
 Pověst o něm šla široko daleko a pronikla také nahoru do hradu sv. Václava, ke dvoru Rudolfa krále. Jeho dvorský hvězdář Tycho de Brahe vážil si učeného Jehudy Löwa; sám panovník seznal ho podivným způsobem.
 
@@ -638,7 +638,7 @@ Rabbi Löw, provázeje uctivě krále, uvedl ho s dvořany také do velké komn
 
 Ještě větší však div nežli ty hradčanské zjevy arciotců byl golem, sluha Jehudy Löwa. Mocný rabbi si ho sám utvořil z hlíny; oživil ho pak tím, že mu vložil do úst „šém“.
 
-Golem pracoval za dva. Posluhoval, vodu nosil, dříví štípal, zametal a vůbec vykonával všecky hrubší práce. Přitom nejedl, nepil a nepotřeboval odpočinku ani oddechu. Ale pokaždé, když šabes[66](./resources/undefined) nastával, v pátek podvečer, kdy všeliká práce měla přestati, vzal mu rabbi „šém“ z úst; golem naráz ztuhl, nehnul sebou a stál jako panák v koutě, mrtvá hlína, jež po šabesu ihned oživla, jakmile rabbi vložil do otvoru úst kouzelný „šém“.
+Golem pracoval za dva. Posluhoval, vodu nosil, dříví štípal, zametal a vůbec vykonával všecky hrubší práce. Přitom nejedl, nepil a nepotřeboval odpočinku ani oddechu. Ale pokaždé, když šabes[^66] nastával, v pátek podvečer, kdy všeliká práce měla přestati, vzal mu rabbi „šém“ z úst; golem naráz ztuhl, nehnul sebou a stál jako panák v koutě, mrtvá hlína, jež po šabesu ihned oživla, jakmile rabbi vložil do otvoru úst kouzelný „šém“.
 
 Jednou však Löw ben Bezalel, chystaje se do staré-nové synagogy zasvětit šabes, zapomněl na golema a nevyňal mu „šém“ z úst. Ale rabbi jen vešel do modlitebny, jen začal žalm a již přiběhli za ním lidé z jeho domu i ze sousedství, všichni vyděšení a s hrůzou, urvaně, jeden přes druhého, oznamovali, vykřikovali, co se děje, co se stalo, golem že doma zuří, že nesmí nikdo k němu, že by každého zabil.
 
@@ -682,7 +682,7 @@ Popravní lešení. A bylo dosud prázdné. Ale jak vzešlo slunce, zahřměla 
 
 Pak zasedli císařští rychtáři na svá místa. Již volali jméno prvního z odsouzených direktorů vězněných poslední noc v Staroměstské radnici; již kráčel pan Šlik zmužile na popraviště.
 
-Ve vojsku bubnovali, po městě, po domech úzkostné ticho; věrní Čechové žalem se chvěli, plakali a modlili se za české pány a jejich druhy v direktoriu, kteří na tom červeném teatrum[67](./resources/undefined) nebo vedle na šibenici umírali. A bylo jich sedmadvacet!
+Ve vojsku bubnovali, po městě, po domech úzkostné ticho; věrní Čechové žalem se chvěli, plakali a modlili se za české pány a jejich druhy v direktoriu, kteří na tom červeném teatrum[^67] nebo vedle na šibenici umírali. A bylo jich sedmadvacet!
 
 V těch místech staroměstského rynku, kde se to stalo, bývalo šestnácte velikých kamenů do čtverce rozestavených. Staří Čechové, chodíce těmito místy, nikdy po těch kamenech nešlapali, ani na ně nevkročili. Vždy se jim uhnuli nebo je obešli ze šetrnosti ke smutnému místu a prolité krvi českých pánů. V těch místech zjevují se prý ti popravení šlechtici a měšťané, a to jednou do roka, v noci přede dnem, kterého tu skonali na popravišti. Sejdou se všichni, v jejich čele nejstarší všech, skoro devadesátiletý pan Kaplíř ze Sulevic, za ním pan Budovec z Budova, pán dlouhé šedé brady, starý Konecchlumský, Kochan z Prachové, pan Kryštof Harant, Diviš Černín, pan z Michalovic, Šlik, Otto z Losu, pan z Bílé, Hošťálek, Jesenský, Vodňanský, Vokáč, Jiří Řečický, Kobr, Jizbický a ostatní, starci i mladší, a z těch nejmladší, sotva čtyřicítiletý Jan Kutnaur, jenž tak hrdinsky, zpívaje, umíral. Všichni sejdou se na místě popravy a pak tiše, bez hlasu berou se náměstím do Týnského chrámu. Tam pokleknou před oltářem a zbožně přijímají tělo Páně pod obojí způsobou. A pak zmizejí.
 
@@ -750,7 +750,7 @@ Před polednem odešel a vrátil se zas až večer, nesa si zbytek z druhého 
 
 A tak každého rána tam našel tolar. Student ani tolik denně nespotřeboval. Co mu zbylo, skládal, až si uložil na nový oblek, plášť, klobouk i na novou obuv. Přitom se měl dobře. O byt se nestaral. Nebál se již ve Faustově domě, zvykl si na to tiché obydlí, kdež se o něj nějaký duch staral, ale nikdy se neukázal. Na zimu tam měl dříví dost, na dvoře i na zahradě. Topil, přikládal, až oheň mile hořel a praskal dole v jizbici v kamnech nebo nahoře v bibliotéce v krbu; četl a četl v knihách z Faustovy bibliotéky, i z té, kterou našel na velkém stole, i z té, která ležela dole v ložnici. Na tu se dosti pozdě odvážil; ale také v ní nejvíce našel, plno můřích noh a divných, čarovných znamení a zaklínání. Se strachy začal to čísti a ještě pak se mu někdy vlasy ježily nad tím čarodějnickým čtením.
 
-Někdy se mu v té samotě zastesklo. Než vystěhovati se mu nechtělo. Měl tu pokoj a dosti pohodlí, a pak denně tolar bez práce! Druhové na vysokém učení, kam míň a míň docházel, se divili, co se s ním stalo a děje, jak se změnil, jaký je švihák z něho. Trnuli, slyšíce, kde bydlí, a nechtěli k němu jíti, když je zval. Posléze zvědavost tam některé vyvábila. Provedl je všude, od průjezdu do horního ponebí[68](./resources/undefined), předsíní, jizbami, bibliotékou, ukázal ložnici, v ní postel znovu upravenou, neboť už v ní sám spal, díru ve stropě kobercem zakrytou a ucpanou, prošel s nimi zahradu a ukázal vše, nač sám po čas svého pobytu v starém stavení uhodil.
+Někdy se mu v té samotě zastesklo. Než vystěhovati se mu nechtělo. Měl tu pokoj a dosti pohodlí, a pak denně tolar bez práce! Druhové na vysokém učení, kam míň a míň docházel, se divili, co se s ním stalo a děje, jak se změnil, jaký je švihák z něho. Trnuli, slyšíce, kde bydlí, a nechtěli k němu jíti, když je zval. Posléze zvědavost tam některé vyvábila. Provedl je všude, od průjezdu do horního ponebí[^68], předsíní, jizbami, bibliotékou, ukázal ložnici, v ní postel znovu upravenou, neboť už v ní sám spal, díru ve stropě kobercem zakrytou a ucpanou, prošel s nimi zahradu a ukázal vše, nač sám po čas svého pobytu v starém stavení uhodil.
 
 I vypravovali plni úžasu o divech tajemného bytu, o chlapci, jenž sám bubnuje, o divných sochách, tiše zpívajících, o kovové panně, jež je vodou polila, o zázračné klice u jednoho z pokojů, že sršela jiskrami a dala ránu tomu, kdo se jí dotkl, o jizbě, do níž se od stropu schody samy spustily a samy opět ke klenutí vznesly, o divných nástrojích a čarodějných knihách. I o železných dveřích zvěděli, vedoucích dole v domě do podzemí, do dlouhé, tmavé chodby.
 
@@ -788,44 +788,44 @@ Buď zdráva, matičko! Zlatá, slovanská Praho!
 
 * * *
 
-[49](./resources/undefined) Stará početní jednotka, 60 kusů.
+[^49]: Stará početní jednotka, 60 kusů.
 
-[50](./resources/undefined) Obživa, živobytí.
+[^50]: Obživa, živobytí.
 
-[51](./resources/undefined) Nastrojený, vyfintěný.
+[^51]: Nastrojený, vyfintěný.
 
-[52](./resources/undefined) Omáčka.
+[^52]: Omáčka.
 
-[53](./resources/undefined) Věchet, svazek slámy.
+[^53]: Věchet, svazek slámy.
 
-[54](./resources/undefined) Bartoloměj má svátek 24. srpna.
+[^54]: Bartoloměj má svátek 24. srpna.
 
-[55](./resources/undefined) Koupel.
+[^55]: Koupel.
 
-[56](./resources/undefined) Spodní roucho ženské, nošené pod kytlicí (svrchní hrubý oděv).
+[^56]: Spodní roucho ženské, nošené pod kytlicí (svrchní hrubý oděv).
 
-[57](./resources/undefined) Svazek větviček používaný v lázních k masážím těla.
+[^57]: Svazek větviček používaný v lázních k masážím těla.
 
-[58](./resources/undefined) Stará bodná zbraň.
+[^58]: Stará bodná zbraň.
 
-[59](./resources/undefined) Na poplach.
+[^59]: Na poplach.
 
-[60](./resources/undefined) Středověký svrchní šat univerzitních mistrů a bakalářů.
+[^60]: Středověký svrchní šat univerzitních mistrů a bakalářů.
 
-[61](./resources/undefined) Čapka ve tvaru baretu.
+[^61]: Čapka ve tvaru baretu.
 
-[62](./resources/undefined) Talár, dlouhý svrchní oděv se širokými rukávy a velkým límcem.
+[^62]: Talár, dlouhý svrchní oděv se širokými rukávy a velkým límcem.
 
-[63](./resources/undefined) Závěs, pokrývka, čaloun.
+[^63]: Závěs, pokrývka, čaloun.
 
-[64](./resources/undefined) Proti právu.
+[^64]: Proti právu.
 
-[65](./resources/undefined) Tajné židovské učení.
+[^65]: Tajné židovské učení.
 
-[66](./resources/undefined) Židovský svátek, sobota.
+[^66]: Židovský svátek, sobota.
 
-[67](./resources/undefined) Lešení, stupínek.
+[^67]: Lešení, stupínek.
 
-[68](./resources/undefined) Půda pod střechou.
+[^68]: Půda pod střechou.
 
 </section>

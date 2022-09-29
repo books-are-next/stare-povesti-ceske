@@ -45,7 +45,7 @@ Když pak druhého dne král Šalamoun seděl opět se Sibylou v zahradě, žá
 
 I pověděla Sibyla, jak křesťané se rozmnoží, že budou míti císaře a krále, Židé pak že budou ztenčeni a jejich vláda že bude jim odňata. Křesťané však časem se poruší a oddají se neřestem.
 
-„Nebude mezi nimi víry a důvěrnosti[90](./resources/undefined), ústa budou jinak mluviti a srdce jinak smýšleti. Právo bude prodáno, chudý člověk utlačen, sužován, opuštěn. I sešle Bůh mnoho znamení na příklad lidem, aby se polepšili. Když pak neposlechnou, setře jich Bůh Hospodin třetí díl pro jejich bezbožnost.“ A Sibyla vykládala, jaká to znamení budou, a když dokončila svou řeč, odešla do svých komnat. Šalamoun pak dal opět vše, co slyšel, napsat a schovati.
+„Nebude mezi nimi víry a důvěrnosti[^90], ústa budou jinak mluviti a srdce jinak smýšleti. Právo bude prodáno, chudý člověk utlačen, sužován, opuštěn. I sešle Bůh mnoho znamení na příklad lidem, aby se polepšili. Když pak neposlechnou, setře jich Bůh Hospodin třetí díl pro jejich bezbožnost.“ A Sibyla vykládala, jaká to znamení budou, a když dokončila svou řeč, odešla do svých komnat. Šalamoun pak dal opět vše, co slyšel, napsat a schovati.
 
 Třetího dne přišla Sibyla do té utěšené zahrady zas a tu potkala krále Šalamouna pod tamařišky, cypřiši a olivami. Bylo ráno, slunce z hory vycházelo. Král začal opět o budoucích věcech, a tu Sibyla sama žádala, aby povolal svého písaře, jenž by vše napsal, co promluví, a to písmo aby pak bylo uschováno na věčné časy.
 
@@ -77,13 +77,13 @@ Pak vojny nastanou a z nich vzrostou takové daně neslýchané, že lid nebud
 
 Takové tresty dopustí Hospodin na pány, protože sužovali své poddané velkými daněmi a robotami.
 
-Když ta země takto bude znepokojena a její obyvatelstvo v různicích a bojích, bude obklíčena ze čtyř stran světa mocnými nepřáteli, kteříž pak najednou vtrhnou do země. I začne se bitva ze všech čtyř stran ode všeho vojska. Od hlavního města půjde ten krvavinec[91](./resources/undefined) až k hoře Blaníku, kdež se vojsko položí mezi Blaníkem a Načeradcem u vsi Bejkovic. A tu se boj začne.
+Když ta země takto bude znepokojena a její obyvatelstvo v různicích a bojích, bude obklíčena ze čtyř stran světa mocnými nepřáteli, kteříž pak najednou vtrhnou do země. I začne se bitva ze všech čtyř stran ode všeho vojska. Od hlavního města půjde ten krvavinec[^91] až k hoře Blaníku, kdež se vojsko položí mezi Blaníkem a Načeradcem u vsi Bejkovic. A tu se boj začne.
 
 Ale již předtím zhubí nepřítel, táhna k Blaníku, tolik bezbožných, takže jen málo lidí zůstane na živu, že by se snadno pod vozovou plachtou mohli schovati.
 
-Kde ta velká bitva bude, svítí se rybník. Předtím však časem vynesou z něho čápi a jiní ptáci všechno trní a rákosí a na kolik let před blanickou vojnou bude prázdný a vyschlý. Za té bitvy krví se naplní, takže se až přes hráz bude přelévati. I bude křik veliký a řehtání koňstva, hlas bubnů a taková střelba hrubá i drobná, že hrozný ten hluk na dvacet čtyři míle slyšen bude. Boj sám potrvá celých dvanácte dní. Třináctého pak pošle Bůh svým věrným pomoc: z Blaníka hory vytrhne vojsko, kteréž tu Bůh chová. Jak to vojsko se zjeví, padne strach na nepřátele a dají se na útěk. Boží vojsko vykoná veliké divy a požene nepřátele, kteří na útěku Prahu poboří tak, že nezbude po ní památky. Sami však budou ze země vyhnáni a budou utíkat až k Rejnu Kolínu[92](./resources/undefined); tam také zmizí blanické vojsko – Bůh sám ví kam – neboť do Blaníka se více nevrátí a nikdo ho již nespatří. Po blanické bitvě vyschne zase ten rybník, šestnáctého pak dne počnou se věrní, kdo na živu zůstali, shledávat. I budou se velmi radovat, objímat a se divit, že je Pán Bůh tak zachoval. Všichni pak půjdou k tomu rybníku, kde spatří hrůzu pobitého lidstva i koňstva, jež ptáci nebeští roznesou, neboť nebude tolik lidí, kteří by mrtvoly a mrchy zakopali. Shromážděným pak věrným bude kněz sloužiti mši svatou na pařezu prostřed rybníka; i budou Hospodina velebiti.
+Kde ta velká bitva bude, svítí se rybník. Předtím však časem vynesou z něho čápi a jiní ptáci všechno trní a rákosí a na kolik let před blanickou vojnou bude prázdný a vyschlý. Za té bitvy krví se naplní, takže se až přes hráz bude přelévati. I bude křik veliký a řehtání koňstva, hlas bubnů a taková střelba hrubá i drobná, že hrozný ten hluk na dvacet čtyři míle slyšen bude. Boj sám potrvá celých dvanácte dní. Třináctého pak pošle Bůh svým věrným pomoc: z Blaníka hory vytrhne vojsko, kteréž tu Bůh chová. Jak to vojsko se zjeví, padne strach na nepřátele a dají se na útěk. Boží vojsko vykoná veliké divy a požene nepřátele, kteří na útěku Prahu poboří tak, že nezbude po ní památky. Sami však budou ze země vyhnáni a budou utíkat až k Rejnu Kolínu[^92]; tam také zmizí blanické vojsko – Bůh sám ví kam – neboť do Blaníka se více nevrátí a nikdo ho již nespatří. Po blanické bitvě vyschne zase ten rybník, šestnáctého pak dne počnou se věrní, kdo na živu zůstali, shledávat. I budou se velmi radovat, objímat a se divit, že je Pán Bůh tak zachoval. Všichni pak půjdou k tomu rybníku, kde spatří hrůzu pobitého lidstva i koňstva, jež ptáci nebeští roznesou, neboť nebude tolik lidí, kteří by mrtvoly a mrchy zakopali. Shromážděným pak věrným bude kněz sloužiti mši svatou na pařezu prostřed rybníka; i budou Hospodina velebiti.
 
-Pak se navrátí každý do svého obydlí a tu bude mezi nimi svorenství, pravá láska, a všichni budou jako jednoho srdce, páni i lid obecný. A bude padesát let dobrých a úrodných a bude v českém království velmi lacino: korec[93](./resources/undefined) žita 7 grošů, korec pšenice 12 grošů, stará česká pinta[94](./resources/undefined) piva za 2 kr. a libra[95](./resources/undefined) jeleního masa za 2 kr. Ve všem bude hojnost a všude pokoj a Boží požehnání…“
+Pak se navrátí každý do svého obydlí a tu bude mezi nimi svorenství, pravá láska, a všichni budou jako jednoho srdce, páni i lid obecný. A bude padesát let dobrých a úrodných a bude v českém království velmi lacino: korec[^93] žita 7 grošů, korec pšenice 12 grošů, stará česká pinta[^94] piva za 2 kr. a libra[^95] jeleního masa za 2 kr. Ve všem bude hojnost a všude pokoj a Boží požehnání…“
 
 Sibyla královna umlkla. Šalamoun, dychtě o všem míti prorocké zprávy, žádal ji, aby mu ještě zjevila, kdy nastane soudný den. Jemuž odpověděla Sibyla: „Králi, toho povědomost nemám, neboť toho neoznámil Bůh ani svým andělům. Ale řeknu ti, králi: Máš služebníky, dobré a zlé. Dáváš-li zlému tolik jako dobrému?“
 
@@ -101,16 +101,16 @@ A král Šalamoun, moudrý a zkušený, pokořil se mladé královně, stojíc
 
 * * *
 
-[90](./resources/undefined) Zde: důvěra.
+[^90]: Zde: důvěra.
 
-[91](./resources/undefined) Krví zbrocené bojiště.
+[^91]: Krví zbrocené bojiště.
 
-[92](./resources/undefined) Kolín nad Rýnem.
+[^92]: Kolín nad Rýnem.
 
-[93](./resources/undefined) Stará objemová míra pro sypké látky, cca 93 litrů, též měřice.
+[^93]: Stará objemová míra pro sypké látky, cca 93 litrů, též měřice.
 
-[94](./resources/undefined) Stará dutá míra, cca 1,4 l.
+[^94]: Stará dutá míra, cca 1,4 l.
 
-[95](./resources/undefined) Stará váhová jednotka, cca 0,5 kg.
+[^95]: Stará váhová jednotka, cca 0,5 kg.
 
 </section>

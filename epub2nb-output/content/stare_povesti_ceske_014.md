@@ -7,7 +7,7 @@ contentType: prose
 
 ## I.
 
-Když Libuše odešla do návi[30](./resources/undefined), viděly dívky z její družiny, že nejsou již u takové vážnosti, jakou mívaly za živobytí své paní. Těžko to nesly, hořce vzpomínaly těch dob, kdy jejich kněžna samojediná vládla zemi i mužům všem, a hněv se jim rozjitřil, když nejeden z mužů řekl jim s úsměškem:
+Když Libuše odešla do návi[^30], viděly dívky z její družiny, že nejsou již u takové vážnosti, jakou mívaly za živobytí své paní. Těžko to nesly, hořce vzpomínaly těch dob, kdy jejich kněžna samojediná vládla zemi i mužům všem, a hněv se jim rozjitřil, když nejeden z mužů řekl jim s úsměškem:
 
 „Panovaly jste, klaněli jsme se vám, a hle, teď jste jako bludné ovce!“
 
@@ -57,7 +57,7 @@ A zle bylo také s muži v okolí Děvína. Nemohli nikterak k hradu přilno
 
 Tak trval boj dlouhý čas, zjevně v poli i tajně lstí. Tak přilákala jedna ze sličných důvěřivého mládence, aby ji přišel osvobodit, až půjde s devíti družkami cestou za Děvínem. I přišel a čekal v osamělém místě, jak umluveno, se svými druhy. Přišla také dívka, na niž čekal, a s ní devět družek. A v ten okamžik vyrazil ze zálohy houf jiných a ty zabily mládence i jeho družinu.
 
-Lstí zhynul také mladý muž, jenž uvěřil spanilé dívce z družiny Vlastiny, slíbivší, že mu zradí Děvín. Po úmluvě pustila ho tajně za noci do hradu, jej i jeho četnou družinu. Ale ani on, ani žádný z průvodčích[31](./resources/undefined) se již z Děvína nevrátil.
+Lstí zhynul také mladý muž, jenž uvěřil spanilé dívce z družiny Vlastiny, slíbivší, že mu zradí Děvín. Po úmluvě pustila ho tajně za noci do hradu, jej i jeho četnou družinu. Ale ani on, ani žádný z průvodčích[^31] se již z Děvína nevrátil.
 
 Lest také zhubila mladého vladyku, statného Ctirada, jehož Vlasta nejvíce nenáviděla, neboť v potyčkách a v bojích zhubil jí mečem nejvíce bojovnic.
 
@@ -115,8 +115,8 @@ I nastaly řád a právo, jak bývaly, a Přemysl kníže vládl sám, bez ž
 
 * * *
 
-[30](./resources/undefined) Onen svět, záhrobí.
+[^30]: Onen svět, záhrobí.
 
-[31](./resources/undefined) Doprovod.
+[^31]: Doprovod.
 
 </section>
