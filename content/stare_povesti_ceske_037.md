@@ -25,7 +25,7 @@ Než kostel se opět zaskví nad údolím na svém místě a zlatý zvon se op�
 
 * * *
 
-Oškobrh, tajemný vrch, háji se zelená, skalami bělá nad širou rovinou. Ve stínu jeho dubů a javorů, vazů, rokyt[96](./resources/undefined) a jilmů, třeslavých osik, jasanů i hladkých bříz, v místech, kde lískoví, klenice[97](./resources/undefined), lýkodra[98](./resources/undefined) s babykou[99](./resources/undefined) bujely v husté směsi, dařil se čarovný květ, nejedna vzácná bylina mocné, hojivé síly.
+Oškobrh, tajemný vrch, háji se zelená, skalami bělá nad širou rovinou. Ve stínu jeho dubů a javorů, vazů, rokyt[^96] a jilmů, třeslavých osik, jasanů i hladkých bříz, v místech, kde lískoví, klenice[^97], lýkodra[^98] s babykou[^99] bujely v husté směsi, dařil se čarovný květ, nejedna vzácná bylina mocné, hojivé síly.
 
 Na jeho témě kdys Libuše stoupala dřevěnou chodbou, kterouž jí k vrchu sroubili z Libice hradu. A nitro té hory chová tajemství: posvátné vojsko tu dřímá. Spí a probudí se a vytrhne z temného klínu kopce, až uhodí na Čechy největší tíseň.
 
@@ -49,12 +49,12 @@ Co rok jediný steh. Až udělá poslední, až bude košile došita, zhyne vše
 
 * * *
 
-[96](./resources/undefined) Vrba, zvl. jíva.
+[^96]: Vrba, zvl. jíva.
 
-[97](./resources/undefined) Javor klen.
+[^97]: Javor klen.
 
-[98](./resources/undefined) Jilm vaz, užíval se pro těžbu lýka.
+[^98]: Jilm vaz, užíval se pro těžbu lýka.
 
-[99](./resources/undefined) Javor babyka.
+[^99]: Javor babyka.
 
 </section>

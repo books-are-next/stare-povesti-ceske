@@ -27,7 +27,7 @@ Již chtěli tak učiniti; než vtom postřehli, že se Lučané zvedají, že o
 
 Vlastislav se rozlítil a těžkou přísahou se klel: Ať nemá pomoci od Peruna, ať bude otrokem po celý život budoucí, jestliže přehoví Děčanům, Lemuzům a Litoměřicům. A české plémě že pokoří, že pověsí svůj štít ve bráně Pražského hradu na znamení vítězství.
 
-I odtáhl od Levého Hradce, protože musil, aby jako zrno mezi dva žernovy[32](./resources/undefined) se nedostal.
+I odtáhl od Levého Hradce, protože musil, aby jako zrno mezi dva žernovy[^32] se nedostal.
 
 Záhy se však vymstil, a to nejprve Litoměřicům tím, že na jejich půdě vystavěl silný hrad mezi dvěma vrchy Medvězí a Přípetí. Hrad ten nazval svým jménem Vlastislav a dal do něho posádku silných, surových mužů k oukladům proti sousedům, protože pomáhali Čechům.
 
@@ -71,7 +71,7 @@ V nejzazším Chlumčansku stála mezi vrchy za rozlehlou slatinou, plnou ostř
 
 Žalanů nečetný rod tu již od stara sídlil. Straba, muž mladý a statný, byl toho času jeho hospodářem. Neměl bratří ani sester a ženu jednu, a ta byla z plemene Čechů. Straba si ji přivedl z jejich končin jako nevolnici, když byli Lučané naposled ve zbrani a leželi před Levým Hradcem. Zajatá Čechyně se mu tak zalíbila, tak jeho mysl zajala, snad nějakým kouzlem, že jí řekl:
 
-„Tys plenice[33](./resources/undefined), má nevolnice, ale buď mou ženou.“
+„Tys plenice[^33], má nevolnice, ale buď mou ženou.“
 
 Poslechla, stala se jeho ženou, ale ve svém srdci nebyla spokojena. Stýskalo se jí v odlehlé dědině, touha jí k domovu hnala a hořko jí bylo, když vzpomněla si na hrůzy a zkázu, jež Lučané páchali v její vlasti. Než tajila žal a tajila hněv, a muž jí do mysli neviděl.
 
@@ -119,7 +119,7 @@ Již zařinčela zbraň ve hradě a kolem na Leteňské pláni. Odevšad rozlé
 
 I vzal Čestmír knížecí zbroj, kroužkovou brni a kovovou přílbu cizího díla, pod ní kroužkovou kuklu přes uši a tváře, část přes bradu a hrdlo, i veliký štít kovem se lesknoucí, vzal na sebe knížecí plášť, vsedl na Neklanova bujného vrance a vyjel, provázen předními lechy, na Leteň pláň, kde sešlo se vojsko.
 
-Všichni jásali a zbraní řinčeli, když zhlédli knížete; hned počali se stavěti v šiky, pěší i jízdní, v býčích přílbách nebo v kosmatých čepicích, s oštěpy v rukou, s praky, s luky a toulci plnými šípů s dobrými nálepy[34](./resources/undefined).
+Všichni jásali a zbraní řinčeli, když zhlédli knížete; hned počali se stavěti v šiky, pěší i jízdní, v býčích přílbách nebo v kosmatých čepicích, s oštěpy v rukou, s praky, s luky a toulci plnými šípů s dobrými nálepy[^34].
 
 Zářícím vzduchem se míhaly blesky od lesklých hrotů i tasených mečů; i náušnice v uších přemnohých bojovníků se zaleskly na slunci míhavým třpytem. Čestmír na vraném koni přehlížel vojsko, když byl za všechny vzdal oběť bohům.
 
@@ -129,7 +129,7 @@ I byly zástupy z mužů kolika rodů, byly i zástupy z jednoho rodu ve zbr
 
 Tak Netvořici a Tuřané, tak Čjaradiců rod i Drahelčiců, jimž říkali Holonohy, tak Běchovici, Úhonici, tak Buděhostici i Nahorubů rod, tak Žíňané a Bozkovici a nejudatnější a bohatstvím nejčelnější Vršovici a Munici a starého Těpty rod.
 
-I táhlo vojsko „velikou cestou“ na Lysolaje a dál přes Kozí hřbety tmavých skal, a nechavše Levý Hradec vpravo, brali se chvatně proti Lučanům, aby stavili jejich zádavy[35](./resources/undefined) a zhouby.
+I táhlo vojsko „velikou cestou“ na Lysolaje a dál přes Kozí hřbety tmavých skal, a nechavše Levý Hradec vpravo, brali se chvatně proti Lučanům, aby stavili jejich zádavy[^35] a zhouby.
 
 Ale když došli na Tursko, širou pláň, zastavil je Čestmír, neb doslechl, že se Lučané již blíží. Včas osadil nevelké návrší, odkud viděli nepřátelské vojsko, ano se blížilo jako černý mrak, veliké, silné, silnější, nežli bylo pražské. Vůdce však Pražanů nelekal se toho počtu. Stoje na vyvýšeném místě poblíže starého dubu, jenž o samotě tu rostl, promluvil ke svému vojsku. A vojsko naslouchalo, domnívajíc se, že slyší svého knížete.
 
@@ -145,7 +145,7 @@ I vzkřiklo vojsko v nadšení a po všech houfech volali:
 
 „Lučany pobijeme!“
 
-Zatím se přivalilo na Tursko Lučanů vojsko, jízdní, pěší, všichni dobře vyzbrojení, se štíty pevně žilovanými, mnozí v brních neb alespoň ve lněných prošívanicích[36](./resources/undefined), vše lid bojovný, zvláště Trnovanů rod i Žluticů i Radoniců, též Úhašťané, Chraberci a Trebčici a všech nejdivější ze zálesí Chlumčané v huních a kožešinách, v kosmatých čepicích, s hrubými oštěpy a těžkými mlaty. A mnoho psů vedli na svorách, vlčí, zlé ovčácké i hrubé vlkodavy. Jiní nesli na ruce, na rameni dravé ptáky, sokoly krvestřeby, rarohy, káňata bělozory. Tak postavili se šikem po širé pláni tváří na poledne proti Čechům, kteří levým křídlem svého šiku osadili návrší k západu, pravým pak se opírali o lesnatá návrší nad chejnovskou dědinou.
+Zatím se přivalilo na Tursko Lučanů vojsko, jízdní, pěší, všichni dobře vyzbrojení, se štíty pevně žilovanými, mnozí v brních neb alespoň ve lněných prošívanicích[^36], vše lid bojovný, zvláště Trnovanů rod i Žluticů i Radoniců, též Úhašťané, Chraberci a Trebčici a všech nejdivější ze zálesí Chlumčané v huních a kožešinách, v kosmatých čepicích, s hrubými oštěpy a těžkými mlaty. A mnoho psů vedli na svorách, vlčí, zlé ovčácké i hrubé vlkodavy. Jiní nesli na ruce, na rameni dravé ptáky, sokoly krvestřeby, rarohy, káňata bělozory. Tak postavili se šikem po širé pláni tváří na poledne proti Čechům, kteří levým křídlem svého šiku osadili návrší k západu, pravým pak se opírali o lesnatá návrší nad chejnovskou dědinou.
 
 I šel ohromný hluk ze všeho luckého šiku jako hřímání z mračen; přerůzné hlasy zuřivých zvířat, psí štěkot a lidský křik, ržání koňů a troubení rohů, že hřmot ten se rozléhal daleko po Tursku poli.
 
@@ -205,14 +205,14 @@ A Straba poručiv, aby mrtvolu vynesli ven za dědinu, zamračen, jakoby v dě
 
 * * *
 
-[32](./resources/undefined) Mlýnský kámen.
+[^32]: Mlýnský kámen.
 
-[33](./resources/undefined) Zajatkyně.
+[^33]: Zajatkyně.
 
-[34](./resources/undefined) Peří na konci šípu, které stabilizuje a zlepšuje jeho letové vlastnosti.
+[^34]: Peří na konci šípu, které stabilizuje a zlepšuje jeho letové vlastnosti.
 
-[35](./resources/undefined) Pustošení, plenění, drancování, útisk.
+[^35]: Pustošení, plenění, drancování, útisk.
 
-[36](./resources/undefined) Prošívaný kabát, někdy pro zpevnění napuštěný smolou.
+[^36]: Prošívaný kabát, někdy pro zpevnění napuštěný smolou.
 
 </section>

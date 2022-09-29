@@ -19,7 +19,7 @@ Nedořekla, a již tu starší, jak jím zalomcoval divoký hněv, udeřil vyso
 
 „Takové tu právo! Však což nevíme, kdo soudí, že ženská! Ženská dlouhých vlasů, ale krátkého rozumu. Příst umí, jehlou šít, na to je, ale ne soudit. Ať šije, ať přede, ale ať nesoudí. Hanba nám mužům!“ A pěstí se do hlavy bil a za vášnivé řeči slinou si bradu třísnil. „Hanba nám! Kde jinde v kterém plemeni, kde jinde vládne mužům žena? Jen nám, jenom nám, a proto jsme za posměch. To je líp zhynouti nežli snášeti takovou vládu!“
 
-Všichni kol strnuli nad divokou řečí. Ruměnec studu polil kněžnino líce a srdce jí pohnuly zlá potupa i žal nad takovým nevděkem. Než hanobiteli přehověla[18](./resources/undefined). Jemu neodpověděla. Na kmetech, na zástupu tkvěl její rozčilený zrak, a když nikdo vášnivce nezakřikl, když se nikdo neozval, promluvila k zástupu důstojně, vznešeně, ač se její hlas pohnutím třásl:
+Všichni kol strnuli nad divokou řečí. Ruměnec studu polil kněžnino líce a srdce jí pohnuly zlá potupa i žal nad takovým nevděkem. Než hanobiteli přehověla[^18]. Jemu neodpověděla. Na kmetech, na zástupu tkvěl její rozčilený zrak, a když nikdo vášnivce nezakřikl, když se nikdo neozval, promluvila k zástupu důstojně, vznešeně, ač se její hlas pohnutím třásl:
 
 „Jest tak. Ženská jsem a jako žena se chovám; že vás nesoudím železnou metlou, zdá se vám, že málo rozumím. Je potřeba, abyste měli správce nad ženu přísnějšího. Mějtež ho! Žádost vaše se vyplní. Nyní jděte s pokojem domů. Valný sněm nechť zvolí si vojvodu. A koho si zvolí, toho já budu míti za muže.“
 
@@ -27,7 +27,7 @@ Tak promluvivši odešla z nádvoří do hradu a hned poslala jízdné posly n
 
 Tam ve stínu lip stál na dřevěných sloupech přístřešek z plochých kamenů, od rozchodníku a mechu zelených. Pod touto střechou prokmitla se mdlým leskem stříbrná hlava se zlatými vousy dřevěné modly stojící na balvanu hrubě tesaném. Tu modlu bohem nazývali a Perun jmenovali.
 
-Libuše před ní klekla a klaněla se; pak usednuvši pod balvan u nohou modly, zůstala tu ostatek dne i přes západ slunce, i když pod stromy se již tmělo a večerní vítr šoumal[19](./resources/undefined) keřem i křovinou. Seděla zamyšlená, nehnutě, sama jako socha, na mysli přemítajíc o tom, co se jí stalo, co bude, jakého knížete si lid zvolí, jakého smýšlení budou sestry a budou-li s ní zajedno. Až pak náhle vstala, kdy v setmělé zahradě se před ní zjevily Kazi a Teta. Vladař hradu, jenž sestry, jak přijely, od brány až k zahradě provodil, zůstal na stráži u vchodu a čekal.
+Libuše před ní klekla a klaněla se; pak usednuvši pod balvan u nohou modly, zůstala tu ostatek dne i přes západ slunce, i když pod stromy se již tmělo a večerní vítr šoumal[^19] keřem i křovinou. Seděla zamyšlená, nehnutě, sama jako socha, na mysli přemítajíc o tom, co se jí stalo, co bude, jakého knížete si lid zvolí, jakého smýšlení budou sestry a budou-li s ní zajedno. Až pak náhle vstala, kdy v setmělé zahradě se před ní zjevily Kazi a Teta. Vladař hradu, jenž sestry, jak přijely, od brány až k zahradě provodil, zůstal na stráži u vchodu a čekal.
 
 Co Libuše sestrám řekla nebo vyznala, o čem všechny tři věštím duchem nadané jednaly u Perunovy modly, o čem se radily, nezvěděl nikdo. Letní noc byla již na sklonku, nebe bledlo a za hradem, za jeho sruby, hradbou a stromy prošlehl úsvitu zsinalý pruh.
 
@@ -43,7 +43,7 @@ Jak se blížila chvíle sněmu, jak z hradeb a srubů hlasno zatroubili, hrnu
 
 Všichni se kněžně znízka poklonili. Ona pak vážně pokynuvši ze stolce promluvila:
 
-„Slyšeli jste, proč jsem vás, lechy, vladyky a všechen národ, sem svolala. Svobody si vážit neumíte. Poznala jsem to i zkusila. Z vnuknutí bohů jsem oznámila, že již vám nebudu vládnouti, protože ve svém srdci žádáte si vladaře muže. Toužíte po vojvodovi, jenž bude bráti vaše syny a vaše dcery ke svým službám a také ze skotu vašeho i koní vezme nejlepší dle libosti. Sloužiti chcete, jak jste nesloužili, a daň dávati po popelici[20](./resources/undefined), kuně a plátěnku[21](./resources/undefined), až vám bude teskno i hořko.
+„Slyšeli jste, proč jsem vás, lechy, vladyky a všechen národ, sem svolala. Svobody si vážit neumíte. Poznala jsem to i zkusila. Z vnuknutí bohů jsem oznámila, že již vám nebudu vládnouti, protože ve svém srdci žádáte si vladaře muže. Toužíte po vojvodovi, jenž bude bráti vaše syny a vaše dcery ke svým službám a také ze skotu vašeho i koní vezme nejlepší dle libosti. Sloužiti chcete, jak jste nesloužili, a daň dávati po popelici[^20], kuně a plátěnku[^21], až vám bude teskno i hořko.
 
 Než za to nebudete míti té hanby, že vám vládne žena. Nechci vás strašiti, říkám opět, co jsem řekla z vnuknutí bohů a co také zjevil mým sestrám duch věští. Volte vojvodu, moudře však a opatrně, neboť snadno je vládce dosadit, ale těžko dosazeného sesadit. Stojíte-li na své mysli, všechno se vyplní, a žádáte-li si, poradím vám a oznámím jeho jméno a místo!“
 
@@ -53,30 +53,30 @@ Než za to nebudete míti té hanby, že vám vládne žena. Nechci vás straši
 
 Vtom Libuše v bělostném rouše, s vínkem kol čela, vstala a vztyčená nad nimi vztáhla ruce proti nim. Naráz vše ztichlo; každý hned stanul, hledě na vznešenou kněžnu. Pozdvihši prst, ukázala k půlnočním horám a řekla:
 
-„Hle, za oněmi horami v Lemuzích je řeka neveliká, Bělina jménem. Blízko té řeky je dědina, v ní Stadiců rod. Od té dědiny nedaleko oulehle[22](./resources/undefined) na dél i na šíř sto dvacet kroků, oulehle divná, leží uprostřed mezi tolika rolemi, a přece k žádné nenáleží. Tam oře váš vojvoda dvěma strakatými voly. Jeden vůl má hlavu bílou, druhý jest od čela po hřbetě bílý a má zadní nohy bílé. Nyní vezměte sukni a plášť i převlaky, jak se na kníže sluší, jděte a vyřiďte muži vzkázání od národa a ode mne a přiveďte sobě knížete a mně manžela. Přemysl slove a jeho pokolení bude panovati v celé této zemi, všem plemenům na věky.“
+„Hle, za oněmi horami v Lemuzích je řeka neveliká, Bělina jménem. Blízko té řeky je dědina, v ní Stadiců rod. Od té dědiny nedaleko oulehle[^22] na dél i na šíř sto dvacet kroků, oulehle divná, leží uprostřed mezi tolika rolemi, a přece k žádné nenáleží. Tam oře váš vojvoda dvěma strakatými voly. Jeden vůl má hlavu bílou, druhý jest od čela po hřbetě bílý a má zadní nohy bílé. Nyní vezměte sukni a plášť i převlaky, jak se na kníže sluší, jděte a vyřiďte muži vzkázání od národa a ode mne a přiveďte sobě knížete a mně manžela. Přemysl slove a jeho pokolení bude panovati v celé této zemi, všem plemenům na věky.“
 
 Když pak ustanoveni starostové nejpřednějších rodů, kteří by muži ze Stadic přednesli, na čem zůstal lid a kněžna, promluvila k nim Libuše:
 
 „Cesty hledati nebudete, aniž se ptáti. Můj kůň vás povede; za tím jeti neváhejte. Ten vás dovede a zpátky přivede pravou cestou. Před kterým on člověkem se zastaví a zařehce, ten jest, o kterém jsem mluvila. Tu mně teprv uvěříte, když svého vojvodu na železném stole jistí uzříte.“
 
-Jak Libuše pokynula, vyveden její jízdní kůň. Bělouš byl širokého krku, z něhož hustě splývala dlouhá hříva. Měl ozdobné sedlo, pod sedlem kosmatou[23](./resources/undefined) kůži, a široké prsosiny[24](./resources/undefined) leskly se mu bronzovými kotouči a puklami.
+Jak Libuše pokynula, vyveden její jízdní kůň. Bělouš byl širokého krku, z něhož hustě splývala dlouhá hříva. Měl ozdobné sedlo, pod sedlem kosmatou[^23] kůži, a široké prsosiny[^24] leskly se mu bronzovými kotouči a puklami.
 
 Jak mu na sedlo naložili sukni, plášť a převlaky, vykročil a vladycké poselstvo vydalo se za ním na cestu.
 
 * * *
 
-[18](./resources/undefined) Prominout.
+[^18]: Prominout.
 
-[19](./resources/undefined) Šumět, šelestit.
+[^19]: Šumět, šelestit.
 
-[20](./resources/undefined) Šedivá veverka ceněná pro svou zimní kožešinu.
+[^20]: Šedivá veverka ceněná pro svou zimní kožešinu.
 
-[21](./resources/undefined) Plátěná košile nebo sukně.
+[^21]: Plátěná košile nebo sukně.
 
-[22](./resources/undefined) Lada, neobdělaná půda.
+[^22]: Lada, neobdělaná půda.
 
-[23](./resources/undefined) Huňatý.
+[^23]: Huňatý.
 
-[24](./resources/undefined) Náprsní řemení pro koně.
+[^24]: Náprsní řemení pro koně.
 
 </section>

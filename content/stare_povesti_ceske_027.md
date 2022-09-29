@@ -35,7 +35,7 @@ Tehdá se nanovo naplňovalo Libušino proroctví o Horách: Sešly po druhé a
 
 Nejeden nový couk objeven, nejeden nový důl založen, mnohé šachty prohloubeny a mnohé štoly ve skále vysekány. Tovaryšstvo se množilo, doly se havíři jen hemžily a zbožný jejich zpěv rozléhal se z četných kaven. Požehnání kovu a díla bylo znát i na městě. Hory se vzmáhaly, zvelebovaly. Stavěly se domy a v tu dobu budoval na Horách Matěj Rejsek slavné své dílo, chrám sv. Barbory. V městě zemané se usazovali, cizinci, kupci sem hojně dojížděli; živo a hlučno bylo po všech ulicích a placích a nejšumněji ve Vlašském dvoře, kde úřadovali nejvyšší mincmistr českého království, hormistr horní, perkmistři, důlní písaři a jiní jeho úředníci, kde také měl svou kancelář královský urburéř a kdež občas i sám král sídlil.
 
-Pod jejich kancelářemi a pod královými skvostnými pokoji byly sklepy plné drahého kovu i dílny mincířů a pregéřů[73](./resources/undefined), kde ze stříbra v hutích vytaveného a v pruty ulitého razili lesklé, české groše.
+Pod jejich kancelářemi a pod královými skvostnými pokoji byly sklepy plné drahého kovu i dílny mincířů a pregéřů[^73], kde ze stříbra v hutích vytaveného a v pruty ulitého razili lesklé, české groše.
 
 Hory Kutné kvetly a byly prvním městem po Praze. Tenkráte, za Vladislava II., vzpomněli si horníci na věrné Čechy, kteří proto, že přijímali pod obojí způsobou, byli před lety od Němců, městem tehdá vládnoucích, do dolů nemilosrdně a většinou zaživa vmetáni. I dobývali v starých dolech kosti těch Čechů, nejvíce v šachtě za Kouřimskou branou, aby je poctivě pochovali. Tu také, div divoucí, nalezeno tělo, ač necelé, a to tělo mělo prý tak čistou a líbeznou vůni jako výborná myrha.
 
@@ -43,13 +43,13 @@ Z toho byl shon a pohnutí po všem městě a jedním hlasem o tom mluvili, 
 
 Ten podivný nález stal se r. 1492; po tomto zbožném pohnutí nastalo záhy jinačí vzrušení. Bouřky na Hory uhodily, a to z hlubin země, kde vřela nespokojenost, kde chudý člověk dobýval těžkou prací bohatství a blahobyt bohatým a mocným. Lůno země vydávalo tolik rudy, že královská komora mohla míti hojnost stříbra a lid dosti výdělku. Lakota však několika lidí hřešila i na králi, i na dělnících. Neposílali horní úředníci všeho stříbra do Prahy a havířům ještě na mzdě utrhovali.
 
-Hluboko v zemi, v pusté tmavé štole, kterou mrkalo zarudlé světlo čadícího kahanu, pracoval havíř v perkytli[74](./resources/undefined) pilně a neúnavně, lámaje šliglemi a fimolem vzácnou rudu. Jindy konal klidně a stále těžkou tu práci. Neměl hrubě starostí, leda že někdy v té samotě, v šeru a v mrkavé záři maně ustal, ucho přiklonil, když znenadání se tím mrtvým tichem ozval cizí hlas, volající ho jménem, táhle a smutně třikrát za sebou, nebo že se ohlédl, nevychází-li z hlubin tmavé štoly „kováříček“ v havířském oděvu, s kahancem u pasu, se šliglemi v rukou, mužíček jiskrných oček, jenž tuze rád kovkopy škádlil, ale také na dobrou rudu vodil.
+Hluboko v zemi, v pusté tmavé štole, kterou mrkalo zarudlé světlo čadícího kahanu, pracoval havíř v perkytli[^74] pilně a neúnavně, lámaje šliglemi a fimolem vzácnou rudu. Jindy konal klidně a stále těžkou tu práci. Neměl hrubě starostí, leda že někdy v té samotě, v šeru a v mrkavé záři maně ustal, ucho přiklonil, když znenadání se tím mrtvým tichem ozval cizí hlas, volající ho jménem, táhle a smutně třikrát za sebou, nebo že se ohlédl, nevychází-li z hlubin tmavé štoly „kováříček“ v havířském oděvu, s kahancem u pasu, se šliglemi v rukou, mužíček jiskrných oček, jenž tuze rád kovkopy škádlil, ale také na dobrou rudu vodil.
 
 Teď měli havíři jiné starosti. Tvrdá panská křivda je hnětla, že jim úředníci za těžkou, klopotnou práci stále na mzdě utrhují. Již sotva polovici bývalé mzdy dostávali, ač na práci jim nijak nepoleveno. Za tu skrovnou mzdu nemohli horníci již náležitě o své rodiny pečovati; leckdes už měli nouzi.
 
 I vřelo v srdcích všech. Stěžovali si navzájem a žádný se netajil tím, nač při díle myslil, na čem se rozhodoval, takže nemůže dále zůstati, že nemůže a nesmí býti, aby oni chudli a páni úředníci a nákladníci hor bohatli. Také o krále se starali. Viděli a rozuměli, co se rudy a ryzího kovu v dolech vytěží, co se čistého stříbra vytaví a jak ho o mnoho méně úředníci posílají do Prahy!
 
-Nejprve žádali o nápravu. Ale ani horní úředníci, ani šepmistři[75](./resources/undefined) a starší obce jich nevyslyšeli. Ano ještě přísně proti nim nastupovali. Když se horníci scházeli, aby porokovali o svých stížnostech, rozháněl je městský rychtář se svými biřici nebo žoldnéři z Vlašského dvora. Proto se havíři tajně smluvili a dohodli se, že pošlou posly ke králi, jenž tenkráte meškal v Uhrách na budínském hradě.
+Nejprve žádali o nápravu. Ale ani horní úředníci, ani šepmistři[^75] a starší obce jich nevyslyšeli. Ano ještě přísně proti nim nastupovali. Když se horníci scházeli, aby porokovali o svých stížnostech, rozháněl je městský rychtář se svými biřici nebo žoldnéři z Vlašského dvora. Proto se havíři tajně smluvili a dohodli se, že pošlou posly ke králi, jenž tenkráte meškal v Uhrách na budínském hradě.
 
 Dychtivě v rozčilení čekali, s jakou se tito jejich důvěrníci vrátí. Doufali, těšili se, že král, až o jejich strastech uslyší, dá alespoň všecko vyšetřit, aby se přesvědčil, aby právo mělo průchod.
 
@@ -117,7 +117,7 @@ Zprávu zatím už poslal; ale jsa od Kutnohorských uplacen, poslal takovou, ja
 
 I chystali, ale nejprve dosti stříbra poděbradskému hejtmanu, a pak tajně třinácte popravních rubášů, bílých, plátěných, starším havířského tovaryšstva. Když se vrátil do Poděbrad, přiharcovali poslové z Uher. Přijeli samý večer, a havíři o nich nezvěděli. Nazejtří povolal si hejtman Holého, Ondřeje Němce a Víta Krchňavého. Žádal jich, aby se vypravili na Křivoklát, že tam uhodili na rudu a rádi by zvěděli, co na ní je, tak aby ji prozkoumali, jsouce rud a kamení dobře znalí.
 
-Havíři, tak oklamáni, uvěřili a rozžehnavše se s druhy na brzkou a bohdá již na lepší shledanou, vydali se na cestu. Netušili, že se s ostatními již neshledají, že jejich průvodce veze o nich purkrabí křivoklátskému Uriášův list[76](./resources/undefined), že mají na Hrádku býti popraveni, a že proto vzal už s sebou do vozu tři popravní rubáše.
+Havíři, tak oklamáni, uvěřili a rozžehnavše se s druhy na brzkou a bohdá již na lepší shledanou, vydali se na cestu. Netušili, že se s ostatními již neshledají, že jejich průvodce veze o nich purkrabí křivoklátskému Uriášův list[^76], že mají na Hrádku býti popraveni, a že proto vzal už s sebou do vozu tři popravní rubáše.
 
 Když ti tři odjeli, dal si hejtman ostatních deset, nevědoucích do té chvíle, co poslové z Uher přivezli, třetího dne zavolati. Bylo záhy zrána, v pátek, jenž byl den po sv. Vavřinci. Starší z tovaryšstva se divili, proč tak časně je pán volá; snad že právě poslové přijeli. Tak se těšili.
 
@@ -141,7 +141,7 @@ Všichni reptali na rozsudek, ještě více však na hejtmana, a všichni také
 
 Za všecko bezpráví ještě smrt! A děti, ubohé děti doma, a manželky! Toť by byla ukrutnost! Není možná! Tak se jim v pobouřeném nitru ozývalo. Ale ta pouta, rubáš bílý, ten zvonu hlas. Ale to vše jistě jen na postrach. Páni je chtějí ztrestati hrůzou smrti. Na místě však, až dojdou, oznámí hejtman milost. Tak pomýšleli, tou poslední jiskřičkou naděje se utěšovali.
 
-Minuli poděbradský pevný zámek v rovině při Labi, přešli most, minuli Kluk vísku a došli na smutné místo v lukách, mezi obcí polabeckou a klukovskou. Stará hruška rozkládala nad stínadlem[77](./resources/undefined) veliký svůj koš; šíře ještě rozložitý dub, jenž se nad ní vysoko vypínal. Mocné haluze při spodku nízko se skláněly, skoro až k trávníku.
+Minuli poděbradský pevný zámek v rovině při Labi, přešli most, minuli Kluk vísku a došli na smutné místo v lukách, mezi obcí polabeckou a klukovskou. Stará hruška rozkládala nad stínadlem[^77] veliký svůj koš; šíře ještě rozložitý dub, jenž se nad ní vysoko vypínal. Mocné haluze při spodku nízko se skláněly, skoro až k trávníku.
 
 U toho dubu zarazil průvod, u toho dubu vzkřikl z koně poděbradský hejtman na kata Koloucha:
 
@@ -155,7 +155,7 @@ Hněv potuchl; žal a lítost zkormoutily srdce havířů a jejich mysl, necha
 
 Pohnutý hlas jejich zněl hlubokým, smutným tichem. Všichni v zástupu byli jati lítostí. I kat Kolouch. Maje v rukou meč už obnažený, mrštil jím pod hrušku a v pohnutí, pobouřen vzkřikl:
 
-„Nebudu spravovat[78](./resources/undefined)!“
+„Nebudu spravovat[^78]!“
 
 A tak kat Sochor, nemoha hejtmanu, svému pánu, odpírat, vystoupil a konal, co nemilosrdný velitel poroučel.
 
@@ -187,16 +187,16 @@ Podobné žaludy nerostly nikde, na žádném dubě vyjma dub u vsi Kluku, kole
 
 * * *
 
-[73](./resources/undefined) Razič mincí.
+[^73]: Razič mincí.
 
-[74](./resources/undefined) Havířská halena.
+[^74]: Havířská halena.
 
-[75](./resources/undefined) Přední konšelé horního města, kteří se po měsíci střídali v purkmistrovském úřadě.
+[^75]: Přední konšelé horního města, kteří se po měsíci střídali v purkmistrovském úřadě.
 
-[76](./resources/undefined) Zrádný list s pokynem, aby byl jeho doručitel zabit.
+[^76]: Zrádný list s pokynem, aby byl jeho doručitel zabit.
 
-[77](./resources/undefined) Popraviště, kde se stínalo.
+[^77]: Popraviště, kde se stínalo.
 
-[78](./resources/undefined) Vykonávat, vyřizovat.
+[^78]: Vykonávat, vyřizovat.
 
 </section>

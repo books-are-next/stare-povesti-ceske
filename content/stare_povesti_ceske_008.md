@@ -11,7 +11,7 @@ Za Tatrami, v rovinách při řece Visle, rozkládala se od nepaměti charvatsk
 
 V té charvatské zemi bytovala četná plemena, příbuzná jazykem, mravy, způsobem života.
 
-I stalo se, že se strhly mezi nimi vády[2](./resources/undefined) a krvavé boje o meze a dědiny. Vstal rod na rod, příbuzní bojovali proti příbuzným a hubili se navzájem.
+I stalo se, že se strhly mezi nimi vády[^2] a krvavé boje o meze a dědiny. Vstal rod na rod, příbuzní bojovali proti příbuzným a hubili se navzájem.
 
 V ten čas dva bratři mocného rodu, oba vojvodové, Čech a Lech, spolu se o to snesli, že opustí rodnou zemi bojem neblahou. Řekli si: „Vyhledejme sobě nových sídel, kdež by náš rod žil s pokojem a díla si hleděl.“
 
@@ -25,13 +25,13 @@ Než jak přešli druhou tuto řeku, byl kraj pustější a osad shledali jen p
 
 Zlá byla cesta hlubokými hvozdy, zlá jejich chůze luhy a bažinami, plnými rákosí, ostřice, rozlehlých mechových trsů a různých křovin. Zvečera zažehovali ohně a topili do úsvitu, aby zář, padajíc do tmy lesní, plašila úskočné, líté šelmy.
 
-Tak došli až ke třetí velké řece, Vltavě, kteráž divočinou tekla; když i tu přebředli, počala si všechna čeleď[3](./resources/undefined) stýskati, že není konce klopotné cesty a nikde stálého odpočinutí.
+Tak došli až ke třetí velké řece, Vltavě, kteráž divočinou tekla; když i tu přebředli, počala si všechna čeleď[^3] stýskati, že není konce klopotné cesty a nikde stálého odpočinutí.
 
 Tu vojvoda Čech ukázal na vysokou horu, jež se před nimi modrala nad širým, rovinatým krajem, a děl:
 
 „Podejděme pod tuto horu, tam dětem, skotu odpočineme.“ Došli a položili se na úpatí hory, jež slove Říp. Vojvodové a starší rodu ohledali půdu vůkol a znamenali, že jest úrodná. Ráno pak za první záře vstal Čech a vydal se sám jediný vzhůru na temeno Řípu tichým lesem, plným ještě nočního šera.
 
-Když vstoupil na horu, bylo ráno; a hle, široširý kraj se před ním rozkládal do nedozírné dálky až k modravým horám rovný a volný, les a chrastina[4](./resources/undefined), nivy a luka. Bujnou jeho zelení svítily se řeky jako rozlité stříbro.
+Když vstoupil na horu, bylo ráno; a hle, široširý kraj se před ním rozkládal do nedozírné dálky až k modravým horám rovný a volný, les a chrastina[^4], nivy a luka. Bujnou jeho zelení svítily se řeky jako rozlité stříbro.
 
 I zaradoval se praotec Čech nad utěšeným krajem i zamyslil se pak nad ním, jak bohové dají, jak tu bude jeho rodu i budoucím pokolením.
 
@@ -59,13 +59,13 @@ Všem pak nastala těžká, lopotná práce. Když se o půdu rozdělili, poča
 
 Hned si také obydlí budovali, stavení roubená, slámou krytá. Každý rod o sobě přebýval u svých pozemků.
 
-Zahrady, role a luka byly dědinou, společným majetkem všech rodin jednoho rodu, lesy pak, pastvy, řeky a jezera občinou[5](./resources/undefined). Co ves, to rod.
+Zahrady, role a luka byly dědinou, společným majetkem všech rodin jednoho rodu, lesy pak, pastvy, řeky a jezera občinou[^5]. Co ves, to rod.
 
 Stavení s chlévy a stájemi, s kolnami a humny za nimi v ohradě plotů spletených z proutí nebo sroubených z trámů, stavěli kolem okrouhlé návsi. Co rok přibývalo kolem osad polí a co rok půda vydávala hojnější žeň. Žito, pšenice, ječmen, oves i proso hustě se vlnily širými lány; nad ně jasněji se zelenaly pruhy hebkého lnu i vysoké konopí vedle záhonů plných strakatých, makových květů.
 
-Luka i lipové háje zvučely bzukotem včel, jež kromě lesních brtí[6](./resources/undefined) chovali v slaměných úlech nebo ve špalcích ze starých kmenů. Co rok byla hojnější stáda bravu i skotu a na kobylích polích v ohradách u dědin proháněla se bujná hříbata a popásávaly se pěkné sveřepice.
+Luka i lipové háje zvučely bzukotem včel, jež kromě lesních brtí[^6] chovali v slaměných úlech nebo ve špalcích ze starých kmenů. Co rok byla hojnější stáda bravu i skotu a na kobylích polích v ohradách u dědin proháněla se bujná hříbata a popásávaly se pěkné sveřepice.
 
-Volený starosta spravoval všechny v rodu i jeho majetek. Ve jménu rodu modlitby začínal i končil, oběti přinášel, hosty vítal, rozvaděné v rodu soudil a čeledi práci přiděloval. Každý měl svůj úkol, každý své sídlo. Ženy domácnosti si hleděly, předly, robily plátno i sukno, šily šaty a roucha, čechle[7](./resources/undefined), rubáše, sukně mužské i ženské, hace[8](./resources/undefined), pláště, krzna[9](./resources/undefined) i kožichy.
+Volený starosta spravoval všechny v rodu i jeho majetek. Ve jménu rodu modlitby začínal i končil, oběti přinášel, hosty vítal, rozvaděné v rodu soudil a čeledi práci přiděloval. Každý měl svůj úkol, každý své sídlo. Ženy domácnosti si hleděly, předly, robily plátno i sukno, šily šaty a roucha, čechle[^7], rubáše, sukně mužské i ženské, hace[^8], pláště, krzna[^9] i kožichy.
 
 Muži pásli stáda, hájili jich proti šelmám, pracovali na polích, v lese honili divokou zvěř a hubili ji štvaním, ze zásady, šípy, oštěpem, osidly a jámami, do nichž lákali nejvíce vlky, nejhorší zhoubce stád.
 
@@ -73,7 +73,7 @@ Muži pásli stáda, hájili jich proti šelmám, pracovali na polích, v lese 
 
 Těch se báli, i jezinek uspávajících, oči vylupujících, i bludných duší v modravých plaménkách na blatech i bažinách, a ve strachu míjeli jezera nebo lesní tůň, kde ve stínu starých stromů a křovin číhal vodník, měně svou podobu, a kde lákaly do zkázy vodní bledé panny v zelenavém rouše.
 
-Nejvíce však se lekali Peruna, hromu vládce, jeho blesku, „božího posla“, a jiných mocných běsů, kteří oslabovali tělo lidské, jeho kosti a rozum zatemňovali. Je prosili, k studánkám dary přinášeli, černé slepice neb holuby, oběti zabíjeli, zvláště Velesi[10](./resources/undefined), aby chránil jejich stáda od moru a žehnal jim.
+Nejvíce však se lekali Peruna, hromu vládce, jeho blesku, „božího posla“, a jiných mocných běsů, kteří oslabovali tělo lidské, jeho kosti a rozum zatemňovali. Je prosili, k studánkám dary přinášeli, černé slepice neb holuby, oběti zabíjeli, zvláště Velesi[^10], aby chránil jejich stáda od moru a žehnal jim.
 
 Volněji bylo v ohradě dědin. Tu chránili stavení domácí bohové, dědové, duchové předků, jejichž obrazy stály na posvátném místě u ohniště. I škádlivý šetek, drobounký bůžek s pazourky na rukou i na nohou, přinášel štěstí domu, i skřítek, jenž opatroval statek, dobytek hlídal a krmil, za to však čeledi v noci spánek rušil. A dokud líhal pod pecí nebo pod prahem domácí had, starý hospodář, neodešlo štěstí a požehnání.
 
@@ -85,7 +85,7 @@ V míhavém tom světle ženy předly, muži spravovali hospodářské náčin�
 
 A staroch bílých vlasů i bílé brady rozbíhal se myslí po dalekých končinách prvotní vlasti, vzpomínal na půtky a boje prvních časů, na statné hrdiny, na mocného vojvodu, jak vstal, když bylo o půlnoci před bitvou, a odjel od vojska a počal výti jako vlk a vlk ozval se jemu vytím a počali výti vlci mnozí.
 
-I šla řeč dál o divných zjeveních a viděních za hustých nocí, na blatech, v širém poli i lesní pustině, o zmecích[11](./resources/undefined) ohnivě se nesoucích tmavou nocí, o zlé jedubábě střehoucí živou a mrtvou vodu, o bílých sudičkách zjevujících se u kolébky novorozených, o čarodějných vědmách, o zlých a dobrých znameních, a se svatou hrůzou naslouchali všichni tajemným věštbám rodu a plemene.
+I šla řeč dál o divných zjeveních a viděních za hustých nocí, na blatech, v širém poli i lesní pustině, o zmecích[^11] ohnivě se nesoucích tmavou nocí, o zlé jedubábě střehoucí živou a mrtvou vodu, o bílých sudičkách zjevujících se u kolébky novorozených, o čarodějných vědmách, o zlých a dobrých znameních, a se svatou hrůzou naslouchali všichni tajemným věštbám rodu a plemene.
 
 Když oheň uhasl, lehali na lože vystlaná kožemi, poručivše dědinu modlitbou dědům. Jich duchové starostně opatrovali statek potomků. Žila a kvetla příchylnost krve, rodinná láska do kolikátého pokolení, pojíc živé s mrtvými, plynoucí čas s tím, jenž dávno již přešel.
 
@@ -93,7 +93,7 @@ Dědina v ohradě plotů, sněhem zavátá, ztichla v pusté noci; jen bedliv�
 
 V ten čas sněhů a ledu, dlouhých soumraků a nocí vládla Mořena, až bůh slunce počal déle, vlídněji a tepleji hleděti na tvář země. I rozbíhala se vodou ledová pouta; veselili se po všech dědinách, po všem plemeni. Za zpěvu brali se k vodám, k volným těm potokům, řekám, házeli do nich obraz zimy a smrti a radostným hlaholem vítali Vesnu, líbeznou bohyni jara.
 
-Když pak slunce na své dráze stanulo nejvýše, záříc na osení vlnící se po širých lánech a na luka bujně kvetoucí, oslavovali všude posvátný čas slunovratu. Noc před nejdelším dnem byla jim divoplodnou. Kvítí její rosou skropené nabývalo čarovné moci, věští i hojivé, i chránilo jako černobýl[12](./resources/undefined), máti všeho koření, před běsy a zlými duchy, přemocnými zvláště té tajemné noci, i před vědmami, jež se rojily na chlumech i v setmělých doupatech. V šero té noci svítily z návrší a kopců veliké ohně. Jejich zář plála do daleka, a do daleka od nich zaléhaly zpěvy ověnčených panen a jonáků kolem nich křepčících a velebících moc božího slunce, jeho sílu, jež život dává a lásku, slunce života.
+Když pak slunce na své dráze stanulo nejvýše, záříc na osení vlnící se po širých lánech a na luka bujně kvetoucí, oslavovali všude posvátný čas slunovratu. Noc před nejdelším dnem byla jim divoplodnou. Kvítí její rosou skropené nabývalo čarovné moci, věští i hojivé, i chránilo jako černobýl[^12], máti všeho koření, před běsy a zlými duchy, přemocnými zvláště té tajemné noci, i před vědmami, jež se rojily na chlumech i v setmělých doupatech. V šero té noci svítily z návrší a kopců veliké ohně. Jejich zář plála do daleka, a do daleka od nich zaléhaly zpěvy ověnčených panen a jonáků kolem nich křepčících a velebících moc božího slunce, jeho sílu, jež život dává a lásku, slunce života.
 
 Po letním slunovratu nastávaly žně, pak přicházela chladná jeseň, pak zimy čas. Rok míjel po roku. Rodů přibývalo, množilo se Čechů plémě. Daleká pověst vábila za ním nové zástupy z prvotní vlasti, takže krajiny nejprv osazené všem již nestačily. I rozcházely se rody, plemena postupovala dále, v různé strany, na půlnoc i poledne, východ i západ, podél řek i hor, a zakládala nová sídla.
 
@@ -125,26 +125,26 @@ Než potom to místo a mohylu za dlouhý čas navštěvovali, tu plakali a kla
 
 * * *
 
-[2](./resources/undefined) Spory, hádky.
+[^2]: Spory, hádky.
 
-[3](./resources/undefined) Zde: rodoví příslušníci.
+[^3]: Zde: rodoví příslušníci.
 
-[4](./resources/undefined) Křoviny.
+[^4]: Křoviny.
 
-[5](./resources/undefined) Obecný majetek.
+[^5]: Obecný majetek.
 
-[6](./resources/undefined) Brť – dutý strom, v němž mají sídlo lesní včely.
+[^6]: Brť – dutý strom, v němž mají sídlo lesní včely.
 
-[7](./resources/undefined) Košile.
+[^7]: Košile.
 
-[8](./resources/undefined) Kalhoty.
+[^8]: Kalhoty.
 
-[9](./resources/undefined) Krzno – oděv podšitý kožešinou.
+[^9]: Krzno – oděv podšitý kožešinou.
 
-[10](./resources/undefined) Veles – pohanský bůh, ochránce stád a dobytka.
+[^10]: Veles – pohanský bůh, ochránce stád a dobytka.
 
-[11](./resources/undefined) Bájeslovná bytost, zpravidla v podobě černého kuřete (plivník), draka nebo hada, přinášející člověku peníze.
+[^11]: Bájeslovná bytost, zpravidla v podobě černého kuřete (plivník), draka nebo hada, přinášející člověku peníze.
 
-[12](./resources/undefined) Pelyněk černobýl.
+[^12]: Pelyněk černobýl.
 
 </section>

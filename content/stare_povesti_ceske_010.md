@@ -11,7 +11,7 @@ V této zahradě Libuše ráda meškala se svými dívkami, častěji ještě s
 
 Tou dobou mladá kněžna urostlé postavy, v bělavé říze, s vlasy volně rozpuštěnými, sama jako světlý stín, kráčela volně, vážným krokem, s hlavou pochýlenou, zamyšlenou, nebo stála, sličnou tvář k nebi obrácenou jako ve snění, v tichém prosvitu hvězd nebo měsíce.
 
-Sem jednou zavedla sestru Kazi, jež přijela na kročitém[15](./resources/undefined) koni z Kazína ji navštívit. Zahrada, trávník i stezky spočívaly již ve stínu, jen vrcholky stromů, hradba mocných trámů a vysoké sruby v pozadí kolem, od dešťů a plískanic ztemnělé, byly zality záplavou posledního světla. Zapadalo slunce do tmavých lesů, v modravé páře stopených na vrchách za Vltavou. V klid a ticho té chvíle zahlaholil od brány náhlý ryk. Ohlas jeho zněl až do kněžniny zahrady, jasnil se a mohutněl. Křik mužských hrdel se blížil jako náhlá bouře. Ze směsi silných, dalekozvučných hlasů pronikal výskot a vtom někdo na roh zatroubil. Znamení vítězství hučelo z rohu a neslo se širým hradem s radostným pokřikem.
+Sem jednou zavedla sestru Kazi, jež přijela na kročitém[^15] koni z Kazína ji navštívit. Zahrada, trávník i stezky spočívaly již ve stínu, jen vrcholky stromů, hradba mocných trámů a vysoké sruby v pozadí kolem, od dešťů a plískanic ztemnělé, byly zality záplavou posledního světla. Zapadalo slunce do tmavých lesů, v modravé páře stopených na vrchách za Vltavou. V klid a ticho té chvíle zahlaholil od brány náhlý ryk. Ohlas jeho zněl až do kněžniny zahrady, jasnil se a mohutněl. Křik mužských hrdel se blížil jako náhlá bouře. Ze směsi silných, dalekozvučných hlasů pronikal výskot a vtom někdo na roh zatroubil. Znamení vítězství hučelo z rohu a neslo se širým hradem s radostným pokřikem.
 
 Sestry vytržené z hovoru stanuly, naslouchaly. Vtom přichvátal vladař hradu všechen vzrušený a prosil je, aby se šly podívat, aby vstoupily na nádvoří.
 
@@ -45,7 +45,7 @@ Bivoj vytrhl oštěp z poraženého a šlápl pravou nohou na štětinaté tě
 
 Nedomluvil; zahlučel radostně kolem zástup na pochvalu i z vděčnosti. A kněžny, níž postoupivše, hleděly na silné zvíře, Libuše pak se zeptala, jak je ulovil, jak je tak lapil. I ztichlo vše kolem; Kazi upírala na silného lovce oči nadšeně zářící a dychtivě naslouchala se všemi, jak Bivoj vypravoval:
 
-„Hnětlo mne a zlobilo, že ten sekáč tu tropil tolik škod a že se ho všichni tak báli. Úvalem kolem Kavčí hory již nikdo nechtěl jíti. Tam se zdržoval, samotářsky, tam ležel, tam se proti každému stavěl, tam roztrhal tolik lidí a koní a psů bez počtu. I vystopoval jsem, kde se do lože zahrabává, a tmavou kaluž pod starými buky. V té se za poledne brodil a válel. Pak, když jej komáři zle již sekali; drhl se o kmeny dubů a vycházíval na žír[16](./resources/undefined) do polí směle a jistě. Člověku se nevyhnul, žádnému, každého napadl.
+„Hnětlo mne a zlobilo, že ten sekáč tu tropil tolik škod a že se ho všichni tak báli. Úvalem kolem Kavčí hory již nikdo nechtěl jíti. Tam se zdržoval, samotářsky, tam ležel, tam se proti každému stavěl, tam roztrhal tolik lidí a koní a psů bez počtu. I vystopoval jsem, kde se do lože zahrabává, a tmavou kaluž pod starými buky. V té se za poledne brodil a válel. Pak, když jej komáři zle již sekali; drhl se o kmeny dubů a vycházíval na žír[^16] do polí směle a jistě. Člověku se nevyhnul, žádnému, každého napadl.
 
 Dnes jsem se na něj vypravil. Chtěl jsem čekati, až by se navracel z pastvy. Ale jen jsem zašel na kraj úvalu, vyrazil z houští proti mně, náhle, znenadání a tak prudce, že jsem se mu nemohl postaviti s oštěpem. Bylo na volném místě; strom nablízku žádný. Nemohl jsem odskočiti a na zemi se vrhnouti, toho jsem nechtěl.
 
@@ -61,7 +61,7 @@ Síň byla nevysoká, ale prostorná. Ohromný trám táhl se po celé délce po
 
 Všude po stolech stavěli veliké džbány plné medoviny a lili z nich zlatavě žlutý nápoj do korbelů a hliněných i dřevěných číší. Muži pili a připíjeli Bivojovi na jeho sílu. Mladý hrdina potěšen, rád slyšel všechnu tu chválu; jeho zraky však tajně obracely se po nevysokých těžkých dveřích s dřevěným zámkem, jimiž odešla ze síně Libuše kněžna i její sestra. Na tu Bivoj myslil i v šumném tom hluku, i na to, kdyby ji ještě mohl zhlédnouti.
 
-Zatím již v korunách, na hradbách i na vysokých srubech pohasla zlatě růžová zář. Hluboké stíny lehly nádvořím. Do vyšší pak síně padalo okny otevřených okenic světlo letního, dlouhého soumraku. V něm zjevily se mladé kněžny, vystoupivše zas oněmi dveřmi ze šera za sloupy. Dívka z jejich družiny nesla za nimi cosi ve vydělané koži; když pak na rozkaz Libušin uzlík na stole rozbalila, zatřpytil se tam krásný mužský pás. Byl široký, rudými řemínky ozdobně prošívaný, stříbrnými drobnými hřeby všechen pobitý, jako okutý, s bronzovými puklami[17](./resources/undefined) a lesklým řetízkem. Ten chřestil o skvostné kování, jak se jen pasem hnulo.
+Zatím již v korunách, na hradbách i na vysokých srubech pohasla zlatě růžová zář. Hluboké stíny lehly nádvořím. Do vyšší pak síně padalo okny otevřených okenic světlo letního, dlouhého soumraku. V něm zjevily se mladé kněžny, vystoupivše zas oněmi dveřmi ze šera za sloupy. Dívka z jejich družiny nesla za nimi cosi ve vydělané koži; když pak na rozkaz Libušin uzlík na stole rozbalila, zatřpytil se tam krásný mužský pás. Byl široký, rudými řemínky ozdobně prošívaný, stříbrnými drobnými hřeby všechen pobitý, jako okutý, s bronzovými puklami[^17] a lesklým řetízkem. Ten chřestil o skvostné kování, jak se jen pasem hnulo.
 
 Mladá kněžna jej Bivoji podala, aby ho vzal odměnou, že je z pokladu jejího otce a že mu ho sestra Kazi sama vybrala.
 
@@ -75,10 +75,10 @@ V bráně se zpět ohlédl, on a všichni se pak ohlíželi vzhůru po bráně
 
 * * *
 
-[15](./resources/undefined) Rychlý.
+[^15]: Rychlý.
 
-[16](./resources/undefined) Za potravou, výkrm (ožírání).
+[^16]: Za potravou, výkrm (ožírání).
 
-[17](./resources/undefined) Kovová ozdoba vypouklého tvaru.
+[^17]: Kovová ozdoba vypouklého tvaru.
 
 </section>

@@ -17,7 +17,7 @@ I zvolili chropínského pána všichni jednostejně, bez sporů a různic, a�
 
 Ten, aby poznal všecky končiny své moravské říše, objížděl zemi; všude ho vítali s mnohým plesáním a velikou slávou, ať jel na poledne končinami, kde réva zrála, ať požehnanou Hanou, ať na půlnoc i východ i západ dolinami mezi lesnatými kopci. Všude se mu chtěli zachovati; páni a zemané předháněli se o jeho přízeň, lahodili mu, lichotili, dary nosili, radovánky strojili a hlučné hody. Když se pak vrátil na chropínský hrad, zastesklo se mu. Zdál se mu příliš tichý a jako pustý, nic ho netěšilo, ani oddaná příchylnost jeho něžné, líbezné paní. Toužil po hřmotné zábavě. Proto poručil dvořanům, aby vystrojili hody a pozvali k nim hojné a vzácné hosty.
 
-Páni a zemané v bohatých sukních kožešinou lemovaných, s lesklými šavlemi a meči u nádherných pásů, v drahých čapkách s volavčím peřím sjížděli se do Chropína na pěkných koních v krumplovaných pokrovech[40](./resources/undefined). Sjížděli se ze všech končin země, že jim sotva stačil hrad a že čeledi jejich a koňstva bylo plné městečko. I byly na hradě hody, bylo veliké veselí, a ne jednou, ne dvakrát. Přes tu chvíli se panstvo sjíždělo po vůli pánově, besedovali, zábavy strojili, nákladná sedání, a pokaždé dlouho hodovali a pili a pili.
+Páni a zemané v bohatých sukních kožešinou lemovaných, s lesklými šavlemi a meči u nádherných pásů, v drahých čapkách s volavčím peřím sjížděli se do Chropína na pěkných koních v krumplovaných pokrovech[^40]. Sjížděli se ze všech končin země, že jim sotva stačil hrad a že čeledi jejich a koňstva bylo plné městečko. I byly na hradě hody, bylo veliké veselí, a ne jednou, ne dvakrát. Přes tu chvíli se panstvo sjíždělo po vůli pánově, besedovali, zábavy strojili, nákladná sedání, a pokaždé dlouho hodovali a pili a pili.
 
 Když se dělný lid navečer z pole vracel, hřmělo na chropínském hradě veselí; zvučely číše, struny a zpěvy při záři pochodní a svící. A když lid, pospav po lopotné práci, záhy zrána se bral zase na pole, bylo na hradě ještě hlučno.
 
@@ -43,7 +43,7 @@ Král ihned poručil ztracených hledati. První se na hledání vydali Chropín
 
 Tam zahlédl u černé jeskyně starého poustevníka, zarostlého bílými vousy. I ptal se zbožného starce, neví-li o jeho paní králové a synu Ječmínkovi. Vstal poustevník a stanuv proti chropínskému pánu, přísně na něj hleděl jako soudce a prorocky k němu promluvil:
 
-„Pro své hříchy a viny nejsi hoden své ušlechtilé manželky a svého syna. Ten napraví, co jsi pokazil. Jako ty jsi zkázou moravské země, bude on jejím požehnáním a spásou. Jako tobě klnou[41](./resources/undefined), jemu budou žehnati. Věz, že ho nenajdeš ani neuvidíš. Zjeví se a přijde, až vlast moravská bude nejhůře sklíčena svými nepřáteli. Až se bude zdáti, že nastává zhouba jejímu lidu, tenkráte přijde Ječmínek s velikou mocí, zažene nepřátele a osvobodí Moravu od cizího jařma. Ale ty jdi a čiň pokání!“
+„Pro své hříchy a viny nejsi hoden své ušlechtilé manželky a svého syna. Ten napraví, co jsi pokazil. Jako ty jsi zkázou moravské země, bude on jejím požehnáním a spásou. Jako tobě klnou[^41], jemu budou žehnati. Věz, že ho nenajdeš ani neuvidíš. Zjeví se a přijde, až vlast moravská bude nejhůře sklíčena svými nepřáteli. Až se bude zdáti, že nastává zhouba jejímu lidu, tenkráte přijde Ječmínek s velikou mocí, zažene nepřátele a osvobodí Moravu od cizího jařma. Ale ty jdi a čiň pokání!“
 
 Zdrcen na mysli vrátil se král na svůj hrad. Poznal svou vinu, svědomí ho soužilo a touha po manželce a dítěti ho mučila. Jako mrak chodil chropínským hradem, lidem se vyhýbal, samotu hledal, až pojednou si sezval zase dvořany, hosty a hýřil. Než veselý ryk cizích hostí ho neutěšil. Naráz nechával tabule, nechával hostí a bez klidu těkal za noci síněmi, nádvořím, až jednou zoufaje, skočil v bezednou studni hradskou.
 
@@ -73,8 +73,8 @@ Nejednou je potkal, když šli se zbraní chytat ho a vázat. A on šel vedle 
 
 * * *
 
-[40](./resources/undefined) Pokrývka.
+[^40]: Pokrývka.
 
-[41](./resources/undefined) Proklínat, zatracovat, nadávat.
+[^41]: Proklínat, zatracovat, nadávat.
 
 </section>
