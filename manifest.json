@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "jirasek-stare-povesti-ceske-239b134",
-  "revision": "239b134",
+  "identifier": "jirasek-stare-povesti-ceske-c25e794",
+  "revision": "c25e794",
   "readingOrder": [
     "promo.html",
     "stare_povesti_ceske_005.html",
@@ -49,8 +49,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:35:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487351448
+    "date": "Sat Oct 01 2022 16:05:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640345802
   },
   "documents": [
     {
